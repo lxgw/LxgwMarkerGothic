@@ -28,7 +28,7 @@ An open-source Chinese font derived from Tanugo 一款由 Tanugo 衍生的开源
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 授权信息
-本字体是基于 SIL Open Font License 1.1 改造的 Y.ozVoX 所开发并发布的 [YozFont](http://yozvox.web.fc2.com) 开源项目。保留名称「霞鹜漫黑」「漫黑」「LXGW Marker Gothic」。
+本字体是基于 SIL Open Font License 1.1 改造的 [Tanugo](https://tanukifont.com/) 开源项目。保留名称「霞鹜漫黑」「漫黑」「LXGW Marker Gothic」。
 ### 许可
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
 - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
