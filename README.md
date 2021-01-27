@@ -22,7 +22,7 @@ An open-source Chinese font derived from Tanugo 一款由 Tanugo 衍生的开源
 - [ ] 补完 GB/T 12345-90；
 - [ ] 补完常用粤闽客字。
 
-**<sup>①</sup>** 又名「常用国字标准字体表」。
+**<sup>②</sup>** 又名「常用国字标准字体表」。
 ## 继续完善
 欢迎更多志同道合的朋友在此基础上继续让这款字体更臻完善，您可以通过以下方式与本人联系。
 - **Telegram：** @lxgwtg
