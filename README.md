@@ -5,7 +5,7 @@ An open-source Chinese font derived from Tanugo 一款由 Tanugo 衍生的开源
 > 本字体为 DEMO 版（演示版）字体，其中中文字体尚缺，请在使用时留意。如您有意补完此款字体，欢迎与本人联系。
 
 ## 简介
-本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。目前在原有 JIS 第一/二水准字库的基础上，已补完原字体中所含的繁体字对应的简体字。
+本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。目前在原有 JIS 第一/二水准字库的基础上，已补完原字体中所含的繁体字对应的简体字，及 3500 常用字。
 ### 预览
 ![sjPdwF.png](https://s3.ax1x.com/2021/01/26/sjPdwF.png)
 ![sjPaeU.png](https://s3.ax1x.com/2021/01/26/sjPaeU.png)
