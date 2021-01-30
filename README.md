@@ -24,7 +24,7 @@ An open-source Chinese font derived from Tanugo 一款由 Tanugo 衍生的开源
 ### 繁体部分 
 - [ ] 补完台湾 4808 常用字 <sup>②</sup>；
 - [ ] 补完 GB/T 12345-90；
-- [ ] 补完常用粤闽客字。
+- [ ] *补完常用粤闽客字，若条件允许。*
 
 **<sup>②</sup>** 台湾地区称「常用国字标准字体表」。
 
