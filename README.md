@@ -36,6 +36,9 @@ An open-source Chinese font derived from Tanugo 一款由 Tanugo 衍生的开源
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
+## 使用该字体的实例
+- [快乐手账【2022拜年纪单品】-哔哩哔哩](https://b23.tv/LeR0zlj)
+
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 [たぬゴ角](https://tanukifont.com/) 开源项目。保留名称「霞鹜漫黑」「漫黑」「LXGW Marker Gothic」。
 ### 许可
