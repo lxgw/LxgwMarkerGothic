@@ -28,8 +28,8 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 本字体定位为简体中文字体，故无繁体增补计划。
 
-## 继续完善
-欢迎更多志同道合的朋友在此基础上继续让这款字体更臻完善，您可以通过以下方式与本人联系。
+## 协助完善
+您可以通过以下方式与本人联系：
 - **Telegram：** @lxgwtg
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
@@ -49,4 +49,4 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 ### 限制
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
