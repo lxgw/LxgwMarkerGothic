@@ -50,3 +50,12 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+
+
+## 打赏支持
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwMarkerGothic.svg)](https://starchart.cc/lxgw/LxgwMarkerGothic)
+
