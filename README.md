@@ -20,7 +20,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - [x] 补完原字库中含有的繁体字对应的简化字；
 - [x] 补完 3500 常用汉字 <sup>①</sup>;
 - [x] 目标字汇范围内修改 G 形;
-- [ ] 补完 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)二级字（还有 500 字）。
+- [ ] 补完 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[标准原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[规范原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）二级字（还有 500 字）。
 
 **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，《通用规范汉字表》一级字表），共计 3603 字。
 
@@ -50,10 +50,6 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
-
-## 相关资料
-- [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
-- [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
