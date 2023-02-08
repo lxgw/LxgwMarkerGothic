@@ -1,4 +1,4 @@
-# LXGW Marker Gothic (Simplified Chinese) </br>霞鹜漫黑（简）
+# LXGW Marker Gothic / 霞鹜漫黑
 An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开源中文字体。
 
 > **注意：**
