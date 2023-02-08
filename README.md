@@ -5,7 +5,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 > 目前正在进行增补，计划完成 GB/T 2312 及通用规范汉字表前两级，预计二月末、三月初完成。
 
 ## 简介
-本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的简体中文字体，可用于漫画、广告等用途。目前已完成新老 3500 常用字，正在进行字形调整和字形增补。
+本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
 
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
@@ -31,11 +31,20 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 本字体定位为简体中文字体，故无繁体增补计划，但会保留原始字体中所包含汉字（日文汉字、繁体字等），不作字形改动。
 
+## 注意事项
+
+1. 本字体虽然按照 G 标字形进行调整，但部分笔画和部件保留了原始日文字体的形态处理方式，并未严格遵循中国大陆规范汉字写法，敬请注意。
+2. 使用场景（仅为建议）：
+  - 推荐：平面海报、电商文案、视频标题及字幕、书报标题、游戏嵌入等；
+  - 不推荐：正文排版、编程代码、手机界面等。
+
 ## 协助完善
-您可以通过以下方式与本人联系：
-- **Telegram：** @lxgwtg
+
+霞鹜漫黑仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
+
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
