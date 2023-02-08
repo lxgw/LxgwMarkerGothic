@@ -5,7 +5,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 > 目前正在进行增补，计划完成 GB/T 2312 及通用规范汉字表前两级，预计二月末、三月初完成。
 
 ## 简介
-本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
+本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
 
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
@@ -68,7 +68,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://b23.tv/LeR0zlj)
 
 ## 授权信息
-本字体是基于 SIL Open Font License 1.1 改造的 [たぬゴ角](https://tanukifont.com/) 开源项目。
+本字体是基于 SIL Open Font License 1.1 改造的 [たぬゴ角](https://tanukifont.com/tanugo/) 开源项目。
 ### 许可
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
 - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
