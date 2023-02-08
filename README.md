@@ -47,7 +47,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 ## 注意事项
 
-1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有迫切的加字请求请在 [Issue #4](https://github.com/lxgw/LxgwMarkerGothic/issues/4) 反馈，如有字形优化、调整建议请在 [Issue #5](https://github.com/lxgw/LxgwMarkerGothic/issues/5) 反馈，不要另开议题，以便于整理。
+1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwMarkerGothic/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwMarkerGothic/issues/5) 反馈，不要另开议题，以便于整理。
 2. 本字体虽然按照 G 标字形进行调整，但部分笔画和部件保留了原始日文字体的形态处理方式，并未严格遵循中国大陆规范汉字写法，敬请注意。
 3. 使用场景（仅作建议）：
     - 推荐：平面海报、电商文案、视频标题及字幕、书报标题、游戏嵌入等；
