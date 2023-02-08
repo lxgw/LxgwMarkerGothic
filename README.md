@@ -7,6 +7,9 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 ## 简介
 本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的简体中文字体，可用于漫画、广告等用途。目前已完成新老 3500 常用字，正在进行字形调整和字形增补。
 
+### 更新记录
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录不再维护，敬请谅解。
+
 <!-- [点击查看更新日志](https://github.com/lxgw/LxgwMarkerGothic/blob/main/HISTORY.md)（文字格式的更新日志不再维护，敬请谅解，今后更新日志请参阅 Releases 页面。） -->
 
 ### 预览
