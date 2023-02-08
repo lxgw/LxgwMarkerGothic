@@ -8,7 +8,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 本字体是基于 [たぬゴ角](https://tanukifont.com/) 改造的具有马克笔书写风格的简体中文字体，可用于漫画、广告等用途。目前已完成新老 3500 常用字，正在进行字形调整和字形增补。
 
 ### 更新记录
-历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录不再维护，敬请谅解。
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
 
 <!-- [点击查看更新日志](https://github.com/lxgw/LxgwMarkerGothic/blob/main/HISTORY.md)（文字格式的更新日志不再维护，敬请谅解，今后更新日志请参阅 Releases 页面。） -->
 
@@ -53,6 +53,12 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+
+## 其他项目
+- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+- [霞鹜新晰黑 / Lxgw Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
