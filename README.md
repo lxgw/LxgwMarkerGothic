@@ -8,7 +8,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
 
 ### 更新记录
-历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwMarkerGothic/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
 
 <!-- [点击查看更新日志](https://github.com/lxgw/LxgwMarkerGothic/blob/main/HISTORY.md)（文字格式的更新日志不再维护，敬请谅解，今后更新日志请参阅 Releases 页面。） -->
 
@@ -35,7 +35,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 ### ⅰ. 直接下载
 
-1. 在 [Releases](https://github.com/lxgw/LxgwWenKaiGB/releases) 界面下载 ttf 格式字体文件。
+1. 在 [Releases](https://github.com/lxgw/LxgwMarkerGothic/releases) 界面下载 ttf 格式字体文件。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/9523.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
 
 ### ⅱ. 从源代码生成
