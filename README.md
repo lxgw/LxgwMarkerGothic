@@ -25,7 +25,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 - [x] 目标字汇范围内修改 G 形;
 - [ ] 补完 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）二级字（还有 200 字）。
 
-**<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，《通用规范汉字表》一级字表），共计 3603 字。
+**<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。
 
 ### 繁体部分
 
