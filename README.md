@@ -13,11 +13,13 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 <!-- [点击查看更新日志](https://github.com/lxgw/LxgwMarkerGothic/blob/main/HISTORY.md)（文字格式的更新日志不再维护，敬请谅解，今后更新日志请参阅 Releases 页面。） -->
 
 ### 预览
-> Under Construction ...
-<!--
-![sjPdwF.png](https://s3.ax1x.com/2021/01/26/sjPdwF.png)
-![sjPaeU.png](https://s3.ax1x.com/2021/01/26/sjPaeU.png)
--->
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-1.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-2.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-3.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-4.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-5.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-6.png)  
+
 ## 补字计划
 ### 简体部分
 - [x] 补完原字库中含有的繁体字对应的简化字；
