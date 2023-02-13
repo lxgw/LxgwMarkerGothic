@@ -19,6 +19,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-4.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-5.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-6.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-7.png)  
 
 ## 补字计划
 ### 简体部分
@@ -42,10 +43,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 ### ⅱ. 从源代码生成
 
-> Under Construction ...
-<!--
 请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
--->
 
 ## 注意事项
 
