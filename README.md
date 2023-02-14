@@ -1,9 +1,6 @@
 # LXGW Marker Gothic / 霞鹜漫黑
 An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开源中文字体。
 
-> **注意：**
-> 目前正在进行增补，计划完成 GB/T 2312 及通用规范汉字表前两级，预计二月末、三月初完成。
-
 ## 简介
 本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
 
