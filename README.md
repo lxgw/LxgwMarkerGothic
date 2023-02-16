@@ -17,6 +17,7 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-5.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-6.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-7.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-8.png)  
 
 ## 补字计划
 ### 简体部分
