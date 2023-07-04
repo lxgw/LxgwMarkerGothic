@@ -34,7 +34,10 @@ An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍
 
 ### 繁体部分
 
-本字体目前以简体为主，无繁体增补计划，但会保留原始字体中所包含汉字（日文汉字、繁体字等），不作字形改动。
+- [x] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
+- [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
+- [x] [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
+- [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二级）。
 
 ## 获取字体
 
