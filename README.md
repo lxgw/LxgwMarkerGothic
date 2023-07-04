@@ -1,5 +1,5 @@
 # LXGW Marker Gothic / 霞鹜漫黑
-An open-source Simplified Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开源中文字体。
+An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开源中文字体。
 
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwMarkerGothic?style=flat-square)](https://github.com/lxgw/LxgwMarkerGothic/releases/latest)
 [![视频介绍](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Tx4y1c7Me)
