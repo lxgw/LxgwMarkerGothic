@@ -46,7 +46,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ### ⅰ. 直接下载
 
 1. 在 [Releases](https://github.com/lxgw/LxgwMarkerGothic/releases) 界面下载 ttf 格式字体文件。
-2. 进入 [猫啃网](https://www.maoken.com/freefonts/9523.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/9523.html)、[字加](https://www.zijia.com.cn/6530.html) 进行下载。GitHub 项目更新后，会联系相关负责人进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
 
 ### ⅱ. 从源代码生成
 
