@@ -64,7 +64,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 霞鹜漫黑仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
 
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
