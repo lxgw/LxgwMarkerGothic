@@ -77,7 +77,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - @Georgome、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体。
 
 ## 使用该字体的实例
-- [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://b23.tv/LeR0zlj)
+- [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://www.bilibili.com/video/BV1t34y1273b)
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 [たぬゴ角](https://tanukifont.com/tanugo/) 开源项目。
