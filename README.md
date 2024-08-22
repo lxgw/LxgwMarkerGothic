@@ -64,9 +64,9 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 霞鹜漫黑仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
 
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q) | [**小红书**](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b) | [**站酷**](https://www.zcool.com.cn/u/26715019)
+- **[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
@@ -77,7 +77,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - @Georgome、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体。
 
 ## 使用该字体的实例
-- [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://b23.tv/LeR0zlj)
+- [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://www.bilibili.com/video/BV1t34y1273b)
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 [たぬゴ角](https://tanukifont.com/tanugo/) 开源项目。
@@ -85,16 +85,26 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ### 许可
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
 - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
-- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://openfontlicense.org) 公开。
 ### 限制
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
-- 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
+- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
-## 其他项目
-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+## 更多「霞鹜」系列字体
+### 「霞鹜文楷」系列
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+- [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
+### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+- [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
+- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+### 其他
+- 霞鹜漫黑 / LXGW Marker Gothic
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
