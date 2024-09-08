@@ -29,6 +29,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - [x] 补完 3500 常用汉字 <sup>①</sup>;
 - [x] 目标字汇范围内修改 G 形;
 - [x] 补完 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）二级字。
+- [x] 补完通用规范汉字表三级字、现代汉语通用字表 7000 字。
 
 **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。
 
@@ -37,9 +38,9 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - [x] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
 - [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
 - [x] [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
-- [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二级）。
+- [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
 
-目前本字体包含共计 1.1 万余字，可基本满足简繁日常用字的显示需要。
+目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ## 获取字体
 
@@ -74,7 +75,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ## 鸣谢
 
 - [Tanuki Font](https://tanukifont.com/) 提供原始开源字体；
-- @Georgome、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体。
+- @Georgome、[@Magmeta](https://github.com/Des-Magmeta)、[@Skr-ZERO](https://github.com/Skr-ZERO) 等协助完善字体。
 
 ## 使用该字体的实例
 - [BV1t34y1273b：哔哩哔哩 2022 拜年纪单品《快乐手帐》](https://www.bilibili.com/video/BV1t34y1273b)
