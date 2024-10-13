@@ -23,7 +23,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-7.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-8.png)  
 
-## 补字计划
+## 字汇
 ### 简体部分
 - [x] 补完原字库中含有的繁体字对应的简化字；
 - [x] 补完 3500 常用汉字 <sup>①</sup>;
