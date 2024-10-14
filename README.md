@@ -25,7 +25,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 ## 字汇
 ### 简体部分
-- [x] 补完原字库中含有的繁体字对应的简化字；
+- [x] 补完原字库（JIS X 0212 一、二级汉字）中含有的繁体字对应的简化字；
 - [x] 补完 3500 常用汉字 <sup>①</sup>;
 - [x] 目标字汇范围内修改 G 形;
 - [x] 补完 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）二级字。
@@ -33,7 +33,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。
 
-### 繁体部分
+### 繁体及其他部分
 - [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字；
 - [x] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
 - [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
@@ -106,7 +106,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止维护
 ### 其他
 - **霞鹜漫黑 / LXGW Marker Gothic**
-- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止维护
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
