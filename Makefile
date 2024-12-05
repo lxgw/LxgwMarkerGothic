@@ -14,7 +14,9 @@ help:
 	@echo "  make images: Creates PNG specimen images in the documentation/ directory"
 	@echo
 
-build: extract build.stamp
+build: extract buildufo
+
+buildufo: build.stamp
 
 extract: venv
 	. venv/bin/activate; python3 sources/scripts/extract.py;
