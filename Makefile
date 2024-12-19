@@ -35,6 +35,7 @@ customize: venv
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+	. venv/bin/activate; python sources/post.py
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
