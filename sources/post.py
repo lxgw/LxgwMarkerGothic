@@ -7,4 +7,9 @@ for file in Path("fonts").glob("**/*.ttf"):
 	if font["gasp"].gaspRange != {65535: 0x000A}:
 		font["gasp"].gaspRange = {65535: 0x000A}
 
+	try:
+		del font["prep"]
+	except KeyError:
+		pass
+
 	font.save(file)
