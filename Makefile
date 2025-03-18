@@ -22,9 +22,6 @@ extract: venv
 compress: venv
 	. venv/bin/activate; python3 sources/scripts/compress.py;
 
-merge:
-	. venv/bin/activate; python3 sources/scripts/merge.py;
-
 venv: venv/touchfile
 
 venv-test: venv-test/touchfile
