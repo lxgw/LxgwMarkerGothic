@@ -17,6 +17,7 @@ build: extract buildufo
 buildufo: build.stamp
 
 extract: venv
+	rm -rf sources/temp
 	. venv/bin/activate; python3 sources/scripts/extract.py;
 
 compress: venv
