@@ -17,6 +17,8 @@ jobs:
         sudo apt-get update
         sudo apt-get install ttfautohint
         sudo snap install yq
+        # for pycairo/cairo for generating report?
+        sudo apt install libcairo2-dev pkg-config python3-dev
     - uses: actions/cache@v4
       with:
         path: ./venv/
