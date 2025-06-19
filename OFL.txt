@@ -1,5 +1,4 @@
-Copyright 2021-2024 LXGW (https://github.com/lxgw/LxgwMarkerGothic)
-Copyright 2020 The Tanugo Project Authors (https://github.com/tanukifont/Tanugo)
+Copyright 2024 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
