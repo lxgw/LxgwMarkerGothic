@@ -56,7 +56,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 ### ⅱ. 从源代码生成
 
-请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+可通过 `make` 运行完整的构建流程： `make build`。目前的源代码只能在类 Unix 系统运行，需要安装 Python 3。 
 
 ## 注意事项
 
