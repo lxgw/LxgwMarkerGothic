@@ -9,11 +9,11 @@ jobs:
     name: Build and test
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v5
+    - uses: actions/checkout@v6
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.10"
+        python-version: "3.12"
     - name: Install sys tools/deps
       run: |
         sudo apt-get update
@@ -21,7 +21,7 @@ jobs:
         sudo snap install yq
         # for pycairo/cairo for generating report?
         sudo apt install libcairo2-dev pkg-config python3-dev
-    - uses: actions/cache@v4
+    - uses: actions/cache@v5
       with:
         path: ./venv/
         key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
@@ -62,7 +62,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out
     - name: Archive artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: ${{ env.ZIP_NAME }}
         path: |
@@ -86,9 +86,9 @@ jobs:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
       GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Download font artefact files
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: ${{ env.ZIP_NAME }}
           path: ${{ env.ZIP_NAME }}
