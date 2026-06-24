@@ -193,22 +193,22 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: Ɲ</td>
-<td align="left">bm_Latn (Bambara), dyu_Latn (Dyula), mwk_Latn (Kita Maninkakan), dyu_Latn (Dyula), cou_Latn (Wamey), bzx_Latn (Bozo, Hainyaxo), snk_Latn (Soninke), buw_Latn (gevové), dje_Latn (Zarma), bwq_Latn (Southern Bobo Madaré), yal_Latn (Yalunka), ses_Latn (Koyraboro Senni), spp_Latn (Sénoufo, Supyire), bze_Latn (Jenaama Bozo), khq_Latn (Koyra Chiini), bm_Latn (Bambara), shz_Latn (Syenara Senoufo), kao_Latn (Xaasongaxango), kqs_Latn (Kissi, Northern), dtm_Latn (Tomo Kan Dogon), sus_Latn (Susu), twq_Latn (Tasawaq), dts_Latn (Dogon, Toro So), msc_Latn (Maninka, Sankaran), man_Latn (Mandingo) and boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">bm_Latn (Bambara), dyu_Latn (Dyula), spp_Latn (Sénoufo, Supyire), bwq_Latn (Southern Bobo Madaré), kao_Latn (Xaasongaxango), dje_Latn (Zarma), bm_Latn (Bambara), sus_Latn (Susu), mwk_Latn (Kita Maninkakan), cou_Latn (Wamey), man_Latn (Mandingo), shz_Latn (Syenara Senoufo), msc_Latn (Maninka, Sankaran), dyu_Latn (Dyula), kqs_Latn (Kissi, Northern), yal_Latn (Yalunka), dts_Latn (Dogon, Toro So), dtm_Latn (Tomo Kan Dogon), khq_Latn (Koyra Chiini), snk_Latn (Soninke), bze_Latn (Jenaama Bozo), twq_Latn (Tasawaq), bzx_Latn (Bozo, Hainyaxo), boz_Latn (Tiéyaxo Bozo), ses_Latn (Koyraboro Senni) and buw_Latn (gevové)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɗ, ƴ</td>
-<td align="left">ff_Latn (Fulah) and ff_Latn (Fulah)</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, ƴ, Ɓ</td>
+<td align="left">ff_Latn (Fulah), fuq_Latn (Central-Eastern Niger Fulfulde) and ff_Latn (Fulah)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, ƴ, Ɓ, Ƙ, Ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ƙ, ƙ, Ɗ, Ƴ</td>
 <td align="left">ha_Latn (Hausa) and ha_Latn (Hausa)</td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ҙ, Ҫ, ҫ, ҡ, Ҡ, Ҙ</td>
+<td align="left">The following base characters are missing from the font: ҫ, Ҫ, Ҡ, ҙ, Ҙ, ҡ</td>
 <td align="left">ba_Cyrl (Bashkir)</td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ӑ, ӑ, ӗ, Ҫ, ҫ, Ӗ</td>
+<td align="left">The following base characters are missing from the font: ӗ, ҫ, Ӑ, Ӗ, Ҫ, ӑ</td>
 <td align="left">cv_Cyrl (Chuvash)</td>
 </tr>
 <tr>
@@ -276,15 +276,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
-<td align="left">kbd_Cyrl (Kabardian) and ady_Cyrl (Adyghe)</td>
+<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
+<td align="left">kbd_Cyrl (Kabardian), ady_Cyrl (Adyghe), dar_Cyrl (Dargwa) and inh_Cyrl (Ingush)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: рхӏ, пӏ, гӏ, чӏ, кӏ, цӏ, тӏ, хӏ</td>
+<td align="left">The following base characters are missing from the font: кӏ, пӏ, гӏ, чӏ, хӏ, цӏ, тӏ, рхӏ</td>
 <td align="left">ce_Cyrl (Chechen)</td>
 </tr>
 <tr>
@@ -300,15 +300,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
-<td align="left">av_Cyrl (Avaric), dar_Cyrl (Dargwa), lez_Cyrl (Lezghian) and inh_Cyrl (Ingush)</td>
+<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
+<td align="left">av_Cyrl (Avaric) and lez_Cyrl (Lezghian)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӵ, ӝ, Ӝ</td>
+<td align="left">The following base characters are missing from the font: Ӝ, ӵ, ӝ</td>
 <td align="left">udm_Cyrl (Udmurt)</td>
 </tr>
 <tr>
@@ -332,195 +332,19 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ</td>
-<td align="left">bjv_Latn (Bedjond), bjt_Latn (Balanta-Ganja), dgh_Latn (Dghwede) and mbo_Latn (Mbo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, ƴ, Ɗ, Ꞌ, Ƴ, Ɓ</td>
-<td align="left">ndv_Latn (Ndut)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƙ, Ɓ, ƙ</td>
-<td align="left">hia_Latn (Lamang) and tan_Latn (Tangale)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
-<td align="left">ybb_Latn (Yemba)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɤ, Ɯ́, Ɯ̀, Ɤ́, Ɤ̂, Ɤ̋, Ɯ, Ɯ̄, Ɯ̂, Ɯ̏, Ɯ̋, Ɤ̀, Ɤ̄, Ɤ̏</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to a when shaping the text 'a̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to A when shaping the text 'A̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to ae when shaping the text 'æ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to AE when shaping the text 'Æ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to ae when shaping the text 'æ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to AE when shaping the text 'Æ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to ae when shaping the text 'æ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to AE when shaping the text 'Æ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to ae when shaping the text 'æ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to AE when shaping the text 'Æ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to u028C when shaping the text 'ʌ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to u0245 when shaping the text 'Ʌ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u028C when shaping the text 'ʌ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0245 when shaping the text 'Ʌ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u028C when shaping the text 'ʌ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0245 when shaping the text 'Ʌ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028C when shaping the text 'ʌ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0245 when shaping the text 'Ʌ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to u028C when shaping the text 'ʌ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to u0245 when shaping the text 'Ʌ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u028C when shaping the text 'ʌ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0245 when shaping the text 'Ʌ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to e when shaping the text 'e̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to E when shaping the text 'E̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to u025B when shaping the text 'ɛ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to u0190 when shaping the text 'Ɛ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -532,227 +356,167 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030B to u025B when shaping the text 'ɛ̋'</td>
+<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030B to u0190 when shaping the text 'Ɛ̋'</td>
+<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030B to i when shaping the text 'i̋'</td>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030B to I when shaping the text 'I̋'</td>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030F to u0264 when shaping the text 'ɤ̏'</td>
+<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030F to the base glyph when shaping the text 'Ɤ̏'</td>
+<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0264 when shaping the text 'ɤ̀'</td>
+<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɤ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0264 when shaping the text 'ɤ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɤ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0264 when shaping the text 'ɤ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɤ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to u0264 when shaping the text 'ɤ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to the base glyph when shaping the text 'Ɤ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0264 when shaping the text 'ɤ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɤ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to oe when shaping the text 'œ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to OE when shaping the text 'Œ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to oe when shaping the text 'œ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to OE when shaping the text 'Œ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to oe when shaping the text 'œ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to OE when shaping the text 'Œ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to oe when shaping the text 'œ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to OE when shaping the text 'Œ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to oe when shaping the text 'œ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to OE when shaping the text 'Œ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to u026F when shaping the text 'ɯ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030F to the base glyph when shaping the text 'Ɯ̏'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u026F when shaping the text 'ɯ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɯ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u026F when shaping the text 'ɯ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɯ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u026F when shaping the text 'ɯ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɯ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to u026F when shaping the text 'ɯ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to the base glyph when shaping the text 'Ɯ̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u026F when shaping the text 'ɯ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɯ̂'</td>
-<td align="left">dnj_Latn (Dan)</td>
+<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
+<td align="left">yba_Latn (Yala)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ɣ</td>
-<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">mgo_Latn (Metaʼ)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left">enn_Latn (Engenni), gmm_Latn (Gbaya-Mbodomo), muy_Latn (Muyang), mzm_Latn (Mumuye), yay_Latn (Agwagwune), jgk_Latn (Gwak), gby_Latn (Gbari), yer_Latn (Tarok), sur_Latn (Mwaghavul), cla_Latn (Ron), xed_Latn (Hdi), cky_Latn (Cakfem-Mushere), mqb_Latn (Mbuko) and buc_Latn (Bushi)</td>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left">ife_Latn (Ifè)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left">mne_Latn (Naba)</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left">ktj_Latn (Krumen, Plapo), lor_Latn (Téén), ade_Latn (Adele), any_Latn (Anyin), nwb_Latn (Nyabwa), kye_Latn (Krache), nuv_Latn (Nuni, Northern), sil_Latn (Sisaala, Tumulung) and wob_Latn (Wè Northern)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ</td>
-<td align="left">akp_Latn (Siwu), dag_Latn (Dagbani), xwe_Latn (Gbe, Xwela), kab_Latn (Kabyle), gej_Latn (Gen), ajg_Latn (Aja), sxw_Latn (Saxwe Gbe), tda_Latn (Tagdal), pil_Latn (Yom), rif_Latn (Riffian (Latin)), bza_Latn (Bandi) and aeb_Latn (Tunisian Darija)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -769,58 +533,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">vai_Latn (Vai (Latin))</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
-<td align="left">kyf_Latn (Kouya), sig_Latn (Paasaal), nuv_Latn (Nuni, Northern), abi_Latn (Abidji), ade_Latn (Adele), lor_Latn (Téén), kvf_Latn (Kabalai), sil_Latn (Sisaala, Tumulung), mos_Latn (Mossi), any_Latn (Anyin), nwb_Latn (Nyabwa) and wob_Latn (Wè Northern)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left">ttr_Latn (Tera), gde_Latn (Gude), xuo_Latn (Kuo), maf_Latn (Mafa), dbq_Latn (Daba), bkc_Latn (Baka, Cameroon/Gabon), bwr_Latn (Bura-Pabir), gqr_Latn (Gor), meq_Latn (Merey), bys_Latn (Burak), mua_Latn (Mundang), fuv_Latn (Nigerian Fulfulde), pbi_Latn (Parkwa) and hig_Latn (Kamwe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -856,14 +568,6 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
 <td align="left"></td>
 </tr>
@@ -877,6 +581,14 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -901,7 +613,515 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">tbz_Latn (Ditammari)</td>
+<td align="left">nga_Latn (Ngbaka)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following mark characters are missing from the font: ͟</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to c when shaping the text 'c̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to C when shaping the text 'C̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to p when shaping the text 'p̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to P when shaping the text 'P̱'</td>
+<td align="left">udu_Latn (Uduk)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left">loq_Latn (Lobala)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0268 when shaping the text 'ɨ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0197 when shaping the text 'Ɨ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
+<td align="left">lnl_Latn (South Central Banda)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
+<td align="left">din_Latn (Dinka) and dip_Latn (Dinka, Northeastern)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ʋ, Ɗ</td>
+<td align="left">bcn_Latn (Bali)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">sur_Latn (Mwaghavul), enn_Latn (Engenni), mzm_Latn (Mumuye), mqb_Latn (Mbuko), gde_Latn (Gude), bkc_Latn (Baka, Cameroon/Gabon), pbi_Latn (Parkwa), maf_Latn (Mafa), gmm_Latn (Gbaya-Mbodomo), mua_Latn (Mundang), xuo_Latn (Kuo), yay_Latn (Agwagwune), cla_Latn (Ron), gqr_Latn (Gor), gby_Latn (Gbari) and hig_Latn (Kamwe)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left">ttr_Latn (Tera), buc_Latn (Bushi), meq_Latn (Merey), fuv_Latn (Nigerian Fulfulde), cky_Latn (Cakfem-Mushere), muy_Latn (Muyang), jgk_Latn (Gwak), dbq_Latn (Daba), xed_Latn (Hdi), bwr_Latn (Bura-Pabir), yer_Latn (Tarok) and bys_Latn (Burak)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">bba_Latn (Baatonum) and bqv_Latn (Koro Wachi)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u025B when shaping the text 'ɛ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0190 when shaping the text 'Ɛ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0268 when shaping the text 'ɨ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0197 when shaping the text 'Ɨ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0254 when shaping the text 'ɔ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0186 when shaping the text 'Ɔ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0289 when shaping the text 'ʉ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u0244 when shaping the text 'Ʉ̱'</td>
+<td align="left">kdj_Latn (Karamojong)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
+<td align="left">bex_Latn (Jur Modo), bdh_Latn (Baka, DRC/South Sudan) and acd_Latn (Gikyode)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">sbd_Latn (Southern Samo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ</td>
+<td align="left">kdh_Latn (Tem), fod_Latn (Foodo), wib_Latn (Toussian, Southern) and keu_Latn (Akebu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left">mev_Latn (Mano)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɪ̃, ꞷ̃, Ꞷ̃, Ɪ, Ꞷ, ꞷ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u026A when shaping the text 'ɪ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɪ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'ꞷ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ꞷ̃'</td>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
+<td align="left">sig_Latn (Paasaal), nko_Latn (Nkonya), kyf_Latn (Kouya), kus_Latn (Kusaal), mos_Latn (Mossi), gud_Latn (Dida, Yocoboué), abi_Latn (Abidji), bev_Latn (Bété, Daloa), ted_Latn (Krumen, Tepo), kmy_Latn (Koma), kvf_Latn (Kabalai), las_Latn (Lama, Togo) and naw_Latn (Nawuri)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -909,7 +1129,207 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
-<td align="left">acd_Latn (Gikyode), bex_Latn (Jur Modo), did_Latn (Didinga), bav_Latn (Vengo), ndz_Latn (Ndogo), log_Latn (Logo), gng_Latn (Ngangam) and muh_Latn (Mündü)</td>
+<td align="left">did_Latn (Didinga), cdr_Latn (Kamuku), muh_Latn (Mündü), gng_Latn (Ngangam), bav_Latn (Vengo), ndz_Latn (Ndogo), log_Latn (Logo) and png_Latn (Pangu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ʋ̃, Ʋ̃́, Ɓ, Ʋ́, Ɩ̃, Ʋ, Ɩ̃́, Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
+<td align="left">sld_Latn (Sissala)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ʋ, Ƴ, Ɓ, Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ</td>
+<td align="left">kab_Latn (Kabyle), bza_Latn (Bandi), sxw_Latn (Saxwe Gbe), xwe_Latn (Gbe, Xwela), aeb_Latn (Tunisian Darija), dag_Latn (Dagbani), tda_Latn (Tagdal), pil_Latn (Yom), gej_Latn (Gen), akp_Latn (Siwu), ajg_Latn (Aja) and rif_Latn (Riffian (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɦ, Ɗ</td>
+<td align="left">pym_Latn (Pyam) and mcn_Latn (Masana)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ, Ƴ, ƴ, Ɗ</td>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -928,6 +1348,14 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach u0330 to agrave when shaping the text 'à̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to Agrave when shaping the text 'À̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
 <td align="left"></td>
 </tr>
@@ -936,27 +1364,19 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to amacron when shaping the text 'ā̰'</td>
+<td align="left">Shaper didn't attach gravecomb to u1E1B when shaping the text 'ḛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to Amacron when shaping the text 'Ā̰'</td>
+<td align="left">Shaper didn't attach gravecomb to u1E1A when shaping the text 'Ḛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E1B when shaping the text 'ḛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E1A when shaping the text 'Ḛ̄'</td>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -968,35 +1388,979 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
+<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
+<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1E2D when shaping the text 'ḭ́'</td>
+<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1E2C when shaping the text 'Ḭ́'</td>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ə̰̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1E2D when shaping the text 'ḭ̄'</td>
+<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1E2C when shaping the text 'Ḭ̄'</td>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ə̰̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
+<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ə̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ə̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E2D when shaping the text 'ḭ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E2C when shaping the text 'Ḭ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E75 when shaping the text 'ṵ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E74 when shaping the text 'Ṵ́'</td>
+<td align="left">mge_Latn (Mango)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƙ, Ƙ</td>
+<td align="left">tal_Latn (Tal), mbu_Latn (Mbula-Bwazza) and pip_Latn (Pero)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0268 when shaping the text 'ɨ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0197 when shaping the text 'Ɨ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0289 when shaping the text 'ʉ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0244 when shaping the text 'Ʉ̃'</td>
+<td align="left">ebo_Latn (Teke-Ebo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɩ̀, Ɲ, Ɩ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left">tuz_Latn (Turka)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">myk_Latn (Mamara Senoufo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ, Ƒ, Ʋ</td>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
+<td align="left">bsq_Latn (Bassa (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">ln_Latn (Lingala)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to aacute when shaping the text 'á̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Aacute when shaping the text 'Á̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to acircumflex when shaping the text 'â̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Acircumflex when shaping the text 'Â̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u01CE when shaping the text 'ǎ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u01CD when shaping the text 'Ǎ̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left">fvr_Latn (Fur)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">kpe_Latn (Kpelle)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɦ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to g when shaping the text 'g̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to G when shaping the text 'G̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to eng when shaping the text 'ŋ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to Eng when shaping the text 'Ŋ̈'</td>
+<td align="left">nmz_Latn (Nawdm)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0268 when shaping the text 'ɨ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0197 when shaping the text 'Ɨ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
+<td align="left">agq_Latn (Aghem)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞌj, ꞌd, ꞋNG, ꞋD, ꞌng, ꞋJ, ꞋB, ꞌb</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to edieresis when shaping the text 'ë̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Edieresis when shaping the text 'Ë̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to idieresis when shaping the text 'ï̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Idieresis when shaping the text 'Ï̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to udieresis when shaping the text 'ü̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Udieresis when shaping the text 'Ü̱'</td>
+<td align="left">bot_Latn (Bongo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ꞌ, Ꞌ</td>
+<td align="left">bcy_Latn (Bacama)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1008,27 +2372,107 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
+<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
+<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
+<td align="left">ann_Latn (Obolo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to oacute when shaping the text 'ó̰'</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to Oacute when shaping the text 'Ó̰'</td>
+<td align="left">Shaper didn't attach u0304 to v when shaping the text 'v̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to omacron when shaping the text 'ō̰'</td>
+<td align="left">Shaper didn't attach u0304 to V when shaping the text 'V̄'</td>
+<td align="left">swb_Latn (Maore Comorian, Latin)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0330 to Omacron when shaping the text 'Ō̰'</td>
+<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to aacute when shaping the text 'á̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Aacute when shaping the text 'Á̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to iacute when shaping the text 'í̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to Iacute when shaping the text 'Í̱'</td>
+<td align="left">kcg_Latn (Tyap)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1045,46 +2489,182 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to r when shaping the text 'r̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to R when shaping the text 'R̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E75 when shaping the text 'ṵ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E74 when shaping the text 'Ṵ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E75 when shaping the text 'ṵ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E74 when shaping the text 'Ṵ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to w when shaping the text 'w̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to W when shaping the text 'W̄'</td>
-<td align="left">mwm_Latn (Sar)</td>
+<td align="left">ddn_Latn (Dendi)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ̀, Ɤ, Ɩ̀, Ɤ̂, Ɤ̀, Ʋ̂, Ɩ, Ʋ, Ɩ̂, Ʋ́, Ɩ́, Ɤ́</td>
+<td align="left">The following base characters are missing from the font: Ɩ̃, Ƴ, ƴ, Ɓ, Ɩ, Ʋ̃, Ʋ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left">bfo_Latn (Malba Birifor)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɩ́, Ɩ̂, Ɩ̀</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028A when shaping the text 'ʊ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01B1 when shaping the text 'Ʊ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u028A when shaping the text 'ʊ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u01B1 when shaping the text 'Ʊ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u028A when shaping the text 'ʊ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u01B1 when shaping the text 'Ʊ̂'</td>
+<td align="left">blo_Latn (Anii)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɤ̀, Ɤ́, Ʋ́, Ʋ, Ɤ̂, Ɩ̀, Ʋ̂, Ɩ́, Ɤ, Ɩ̂, Ʋ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1268,23 +2848,911 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃'</td>
-<td align="left">awc_Latn (Cicipu)</td>
+<td align="left">The following base characters are missing from the font: Ɓ</td>
+<td align="left">dgh_Latn (Dghwede), bjt_Latn (Balanta-Ganja), mbo_Latn (Mbo) and bjv_Latn (Bedjond)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƒ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƙ, ƙ</td>
+<td align="left">anc_Latn (Ngas) and ckl_Latn (Kibaku)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ̃, Ɩ̃, Ɩ̃̀, Ƴ, Ʋ, Ʋ̃́, Ʋ̀, Ɩ, Ɗ, Ɓ, ƴ, Ⱳ, ⱳ, Ɩ̃́, Ɩ́, Ʋ̃̀, Ɩ̀, Ɲ, Ʋ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
+<td align="left">pug_Latn (Phuie)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ˗, Ʋ, Ɩ</td>
+<td align="left">god_Latn (Godié)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u01DD when shaping the text 'ǝ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018E when shaping the text 'Ǝ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u01DD when shaping the text 'ǝ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u018E when shaping the text 'Ǝ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left">nmg_Latn (Kwasio)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ̃́, Ʋ̃, Ʋ̃́, Ɲ, Ɩ, Ɩ́, Ʋ, Ʋ́, Ɩ̂, Ɩ̃̂, Ɩ̌, Ʋ̂, Ɩ̃</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0269 when shaping the text 'ɩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
+<td align="left">gna_Latn (Kaansa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ƴ, Ɓ</td>
+<td align="left">snf_Latn (Noon)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Icircumflex when shaping the text 'Î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
+<td align="left">pnz_Latn (Pana, Central African Republic)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ, ˗, ˮ, Ɩ</td>
+<td align="left">yre_Latn (Yaouré)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɑ̀, Ɑ, Ɑ̂, Ɑ̌</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɑ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɑ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɑ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0251 when shaping the text 'ɑ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0251 when shaping the text 'ɑ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0251 when shaping the text 'ɑ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left">byv_Latn (Medumba)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to agrave when shaping the text 'à̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to Agrave when shaping the text 'À̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1304,11 +3772,59 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɛ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɛ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɛ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɛ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E2D when shaping the text 'ḭ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E2C when shaping the text 'Ḭ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E2D when shaping the text 'ḭ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E2C when shaping the text 'Ḭ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1328,27 +3844,155 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">nyb_Latn (Nyangbo) and tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɔ̰̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɔ̰́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E75 when shaping the text 'ṵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E74 when shaping the text 'Ṵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E75 when shaping the text 'ṵ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E74 when shaping the text 'Ṵ́'</td>
+<td align="left">ntm_Latn (Nateni)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
-<td align="left">las_Latn (Lama, Togo), ted_Latn (Krumen, Tepo), kye_Latn (Krache), naw_Latn (Nawuri), kmy_Latn (Koma), ktj_Latn (Krumen, Plapo), kus_Latn (Kusaal), nko_Latn (Nkonya), bev_Latn (Bété, Daloa) and gud_Latn (Dida, Yocoboué)</td>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left">mls_Latn (Masalit)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɠ, Ƴ, Ɗ, ƴ, Ɲ</td>
+<td align="left">fuf_Latn (Pular)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left">etu_Latn (Ejagham)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ, Ɗ, Ɓ</td>
+<td align="left">bcw_Latn (Bana) and tsw_Latn (Tsishingini)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left">kyq_Latn (Kenga)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ̀, Ʋ̂, Ʋ, Ʋ́, Ʋ̀, Ɩ́, Ɩ, Ɩ̂</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1356,83 +4000,23 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
-<td align="left">mgz_Latn (Mbugwe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EA1 when shaping the text 'ạ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EA0 when shaping the text 'Ạ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EA1 when shaping the text 'ạ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EA0 when shaping the text 'Ạ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
-<td align="left">avu_Latn (Avokaya)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƴ, Ƴ</td>
-<td align="left">fue_Latn (Fulfulde, Borgu) and sok_Latn (Sokoro)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ́, Ʋ, Ɩ, Ɩ́</td>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1444,12 +4028,668 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left">xsm_Latn_BF (Kasem, Burkina Faso)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
+<td align="left">neb_Latn (Toura)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ⱳ, ⱳ, Ʋ̃, Ɩ, Ɩ̃, Ɓ, Ƴ, Ʋ, ƴ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left">lob_Latn (Lobi)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʝ, ƙ, Ɲ, Ƙ, Ɓ, Ɗ</td>
+<td align="left">ikx_Latn (Ik)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɲ</td>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ, Ʋ, Ɩ</td>
+<td align="left">kbp_Latn (Kabiyé)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɛ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D2 when shaping the text 'ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D1 when shaping the text 'Ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left">mcp_Latn (Makaa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Nʸ, ʷ, ˁ, tʸ, nʸ, ˀ, Tʸ, Dʸ, dʸ, ʸ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach dotbelowcomb to dcroat when shaping the text 'đ̣'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach dotbelowcomb to Dcroat when shaping the text 'Đ̣'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to z when shaping the text 'z̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to Z when shaping the text 'Z̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1E95 when shaping the text 'ẕ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1E94 when shaping the text 'Ẕ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E93 when shaping the text 'ẓ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E92 when shaping the text 'Ẓ̄'</td>
+<td align="left">zen_Latn (Zenaga (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">mdt_Latn (Mbere) and tvu_Latn (Tunen)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ɗ, Ƙ</td>
+<td align="left">tan_Latn (Tangale)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
+<td align="left">asg_Latn (Cishingini)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɑ̄, Ɑ́, Ɑ̀, Ɑ̌, Ɑ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0251 when shaping the text 'ɑ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɑ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0251 when shaping the text 'ɑ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɑ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0251 when shaping the text 'ɑ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɑ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0251 when shaping the text 'ɑ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɑ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ</td>
+<td align="left">ayb_Latn (Ayizo Gbe) and guw_Latn (Gun)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, Ꞌ, ƴ, Ɓ, ꞌ</td>
+<td align="left">mfi_Latn (Wandala)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ, Ƒ, Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">ee_Latn (Ewe)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -1494,882 +4734,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
 <td align="left">ksp_Latn (Kabba)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to v when shaping the text 'v̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to V when shaping the text 'V̄'</td>
-<td align="left">swb_Latn (Maore Comorian, Latin)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɗ, Ɓ</td>
-<td align="left">kqp_Latn (Kimré)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028A when shaping the text 'ʊ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u01B1 when shaping the text 'Ʊ́'</td>
-<td align="left">aks_Latn (Akeselem)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞉, ꞊</td>
-<td align="left">buu_Latn (Budu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to b when shaping the text 'b̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to B when shaping the text 'B̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to b when shaping the text 'b́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to B when shaping the text 'B́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to l when shaping the text 'l̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to L when shaping the text 'L̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">bud_Latn (Ntcham)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
-<td align="left">uth_Latn (ut-Hun)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to J when shaping the text 'J̌'</td>
-<td align="left">taq_Latn (Tamasheq (Latin)) and ttq_Latn (Tawallammat Tamajaq)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɽ</td>
-<td align="left">kib_Latn (Koalib)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECB when shaping the text 'ị̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECA when shaping the text 'Ị̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EE5 when shaping the text 'ụ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EE4 when shaping the text 'Ụ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to m when shaping the text 'm̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to M when shaping the text 'M̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
-<td align="left">ikw_Latn (Ikwere)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ƴ, Ɗ</td>
-<td align="left">snf_Latn (Noon) and sav_Latn (Saafi-Saafi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left">bwj_Latn (Láá Láá Bwamu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EB9 when shaping the text 'ẹ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EB8 when shaping the text 'Ẹ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECD when shaping the text 'ọ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECC when shaping the text 'Ọ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EE5 when shaping the text 'ụ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EE4 when shaping the text 'Ụ̃'</td>
-<td align="left">mhi_Latn (Ma’di)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left">ddn_Latn (Dendi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left">kyq_Latn (Kenga)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">mev_Latn (Mano)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ƴ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left">daa_Latn (Dangaléat)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">tvu_Latn (Tunen) and mdt_Latn (Mbere)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following mark characters are missing from the font: ᷄, ᷅</td>
-<td align="left">kss_Latn (Southern Kisi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">kpe_Latn (Kpelle)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ᵘ, ᵓ, ᶤ, ⁱ, ᵒ, ᵉ, ᶶ, ᵃ, ᵋ</td>
-<td align="left">teo_Latn (Teso)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
-<td align="left">dip_Latn (Dinka, Northeastern) and din_Latn (Dinka)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
-<td align="left">kia_Latn (Kim)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɓ, Ʋ, Ɩ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left">dgi_Latn (Northern Dagara)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ᵽ, ᵽ</td>
-<td align="left">bqj_Latn (Bandial)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2580,6 +4944,214 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECB when shaping the text 'ị̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECA when shaping the text 'Ị̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EE5 when shaping the text 'ụ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EE4 when shaping the text 'Ụ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
+<td align="left">ekp_Latn (Ekpeye)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɠ, Ɓ, Ɲ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɗ, ƴ</td>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
+<td align="left">ish_Latn (Esan)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
 <td align="left"></td>
 </tr>
@@ -2600,11 +5172,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɩ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2616,12 +5184,812 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">ksf_Latn (Bafia)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028A when shaping the text 'ʊ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01B1 when shaping the text 'Ʊ́'</td>
+<td align="left">aks_Latn (Akeselem)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left">tbz_Latn (Ditammari)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: u᷆, U᷆, I᷅, O᷅, A᷆, A᷅, i᷅, e᷅, i᷆, E᷆, o᷅, U᷅, o᷆, u᷅, a᷅, I᷆, a᷆, O᷆, E᷅, e᷆</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following mark characters are missing from the font: ᷆, ᷅</td>
+<td align="left">btt_Latn (Bete-Bendi)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƴ, ƴ</td>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">lu_Latn (Luba-Katanga) and yav_Latn (Yangben)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECB when shaping the text 'ị̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECA when shaping the text 'Ị̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EE5 when shaping the text 'ụ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EE4 when shaping the text 'Ụ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to m when shaping the text 'm̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to M when shaping the text 'M̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
+<td align="left">ikw_Latn (Ikwere)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
+<td align="left">bmq_Latn (Bomu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: gʷ, Gʷ, kʷ, Kʷ, Ɣ</td>
+<td align="left">shi_Latn (Tachelhit (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to J when shaping the text 'J̌'</td>
+<td align="left">taq_Latn (Tamasheq (Latin)) and ttq_Latn (Tawallammat Tamajaq)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01CE when shaping the text 'ǎ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01CD when shaping the text 'Ǎ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0229 when shaping the text 'ȩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0228 when shaping the text 'Ȩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0229 when shaping the text 'ȩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0228 when shaping the text 'Ȩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ograve when shaping the text 'ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ograve when shaping the text 'Ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D2 when shaping the text 'ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D1 when shaping the text 'Ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɔ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɔ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ugrave when shaping the text 'ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ugrave when shaping the text 'Ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D4 when shaping the text 'ǔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u01D3 when shaping the text 'Ǔ̧'</td>
+<td align="left">mnf_Latn (Mundani)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">bfd_Latn (Bafut)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɩ, Ʋ</td>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2760,307 +6128,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">bom_Latn (Berom)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0324 to w when shaping the text 'w̤'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0324 to W when shaping the text 'W̤'</td>
-<td align="left">fan_Latn (Fang)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E1B when shaping the text 'ḛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E1A when shaping the text 'Ḛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
-<td align="left">sba_Latn (Ngambay)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɗ, Ɓ</td>
-<td align="left">fuc_Latn (Pulaar)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ʋ, Ƒ</td>
-<td align="left">wci_Latn (Gbe, Waci)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ˀ, Ɓ, Ɗ</td>
-<td align="left">giz_Latn (Southern Giziga)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left">myk_Latn (Mamara Senoufo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: dʸ, Tʸ, ʷ, Nʸ, Dʸ, nʸ, ʸ, ˀ, tʸ, ˁ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to dcroat when shaping the text 'đ̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to Dcroat when shaping the text 'Đ̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to z when shaping the text 'z̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to Z when shaping the text 'Z̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1E95 when shaping the text 'ẕ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1E94 when shaping the text 'Ẕ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E93 when shaping the text 'ẓ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E92 when shaping the text 'Ẓ̄'</td>
-<td align="left">zen_Latn (Zenaga (Latin))</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
-<td align="left">pcm_Latn (Nigerian Pidgin)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ</td>
-<td align="left">wib_Latn (Toussian, Southern), fod_Latn (Foodo), kdh_Latn (Tem) and keu_Latn (Akebu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3069,318 +6145,18 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">gvl_Latn (Gulay)</td>
+<td align="left">dua_Latn (Duala)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, ƴ, Ɓ</td>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">The following base characters are missing from the font: Ƙ, Ɓ, ƙ, Ɗ</td>
+<td align="left">ank_Latn (Goemai)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ʋ̀, Ɩ, Ʋ́, Ʋ̂, Ɩ́, Ɩ̀, Ɩ̂</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
-<td align="left">neb_Latn (Toura)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ƒ, Ʋ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">ee_Latn (Ewe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left">sbd_Latn (Southern Samo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left">etx_Latn (Iten)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɥ, Ɥ̃̀, Ɥ̃́, Ɗ, Ɥ̀, Ɥ́, Ɥ̂</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3392,107 +6168,11 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3501,294 +6181,14 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0275 when shaping the text 'ɵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u019F when shaping the text 'Ɵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0275 when shaping the text 'ɵ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u019F when shaping the text 'Ɵ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0275 when shaping the text 'ɵ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u019F when shaping the text 'Ɵ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0265 when shaping the text 'ɥ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɥ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0265 when shaping the text 'ɥ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɥ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0265 when shaping the text 'ɥ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɥ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0265 when shaping the text 'ɥ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɥ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0265 when shaping the text 'ɥ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɥ̃́'</td>
-<td align="left">dnj_Latn_LR (Liberian Dan)</td>
+<td align="left">ksf_Latn (Bafia)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ⱳ, ƴ, Ɓ, Ⱳ, Ɩ, Ʋ̃, Ɩ̃, Ƴ, Ʋ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left">lob_Latn (Lobi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECB when shaping the text 'ị̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECA when shaping the text 'Ị̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EE5 when shaping the text 'ụ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EE4 when shaping the text 'Ụ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
-<td align="left">ekp_Latn (Ekpeye)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ, Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to AE when shaping the text 'Æ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to AE when shaping the text 'Æ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to AE when shaping the text 'Æ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to ae when shaping the text 'æ̀'</td>
+<td align="left">The following base characters are missing from the font: Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3796,59 +6196,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to ae when shaping the text 'æ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to ae when shaping the text 'æ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left">tik_Latn (Tikar)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following mark characters are missing from the font: ͟</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to c when shaping the text 'c̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to C when shaping the text 'C̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to p when shaping the text 'p̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to P when shaping the text 'P̱'</td>
-<td align="left">udu_Latn (Uduk)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3857,146 +6205,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left">yo_Latn_BJ (Yoruba, Benin)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0268 when shaping the text 'ɨ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0197 when shaping the text 'Ɨ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
-<td align="left">nzk_Latn (Nzakara)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left">etu_Latn (Ejagham)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: A᷆, Ɓ, ɔ᷇, Ɔ᷆, E᷇, I᷆, O᷆, e᷇, ɔ᷆, u᷇, ɛ᷇, A᷇, u᷆, o᷇, U᷇, i᷇, Ɛ᷆, e᷆, E᷆, O᷇, Ɛ᷇, I᷇, U᷆, o᷆, a᷆, Ɔ᷇, ɛ᷆, i᷆, a᷇</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following mark characters are missing from the font: ᷇, ᷆</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4013,210 +6221,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left">bas_Latn (Basaa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɦ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to g when shaping the text 'g̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to G when shaping the text 'G̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to eng when shaping the text 'ŋ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to Eng when shaping the text 'Ŋ̈'</td>
-<td align="left">nmz_Latn (Nawdm)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɗy, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
-<td align="left">kkj_Latn (Kako)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0325 to l when shaping the text 'l̥'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0325 to L when shaping the text 'L̥'</td>
-<td align="left">csk_Latn (Jola-Kasa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɑ</td>
-<td align="left">nza_Latn (Tigon Mbembe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ꞌ, Ɗ, Ꞌ</td>
-<td align="left">kdl_Latn (Tsikimba)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4252,38 +6256,6 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
 <td align="left"></td>
 </tr>
@@ -4313,30 +6285,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to oslash when shaping the text 'ø̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Oslash when shaping the text 'Ø̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to oslash when shaping the text 'ø̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Oslash when shaping the text 'Ø̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4369,30 +6317,346 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">bax_Latn (Bamun (Latin))</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">bqv_Latn (Koro Wachi) and bba_Latn (Baatonum)</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɗ, Ɓ</td>
+<td align="left">kqp_Latn (Kimré)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0229 when shaping the text 'ȩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0228 when shaping the text 'Ȩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ə̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ə̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ə̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ə̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ə̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ə̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Igrave when shaping the text 'Ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Icircumflex when shaping the text 'Î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ograve when shaping the text 'ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ograve when shaping the text 'Ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɔ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɔ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ugrave when shaping the text 'ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ugrave when shaping the text 'Ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
+<td align="left">vut_Latn (Vute)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ᵘ, ᵃ, ᵒ, ᵋ, ⁱ, ᶶ, ᵉ, ᶤ, ᵓ</td>
+<td align="left">teo_Latn (Teso)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ̂, Ʋ̀, Ɩ, Ɩ̀, Ʋ, Ʋ̂, Ɩ̌, Ɩ́, Ʋ̌, Ʋ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4404,79 +6668,171 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
+<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0268 when shaping the text 'ɨ̈'</td>
+<td align="left">Shaper didn't attach u030C to u0269 when shaping the text 'ɩ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0197 when shaping the text 'Ɨ̈'</td>
+<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɩ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
-<td align="left">lnl_Latn (South Central Banda)</td>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u028B when shaping the text 'ʋ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ʋ̌'</td>
+<td align="left">goa_Latn (Guro)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ɲ</td>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left">bwj_Latn (Láá Láá Bwamu)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ɦ</td>
-<td align="left">pym_Latn (Pyam)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">The following base characters are missing from the font: ꞌd, ꞋW, ꞌb, ꞌw, ꞋD, ꞋY, ꞋB, ꞌy</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4509,22 +6865,650 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
-<td align="left">ijs_Latn (Ijo, Southeast)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EB9 when shaping the text 'ẹ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EB8 when shaping the text 'Ẹ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECD when shaping the text 'ọ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECC when shaping the text 'Ọ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EE5 when shaping the text 'ụ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EE4 when shaping the text 'Ụ̃'</td>
+<td align="left">kbo_Latn (Keliko)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɲ, Ɗ, Ɓ</td>
-<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɣ</td>
+<td align="left">aha_Latn (Ahanta)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃, Ɩ</td>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
+<td align="left">mgz_Latn (Mbugwe)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ꞌ, Ɓ, Ɗ, ꞌ</td>
+<td align="left">ndv_Latn (Ndut)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃'</td>
+<td align="left">awc_Latn (Cicipu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ɗ, Ƴ</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɗ, Ɓ</td>
+<td align="left">bsc_Latn (Bassari)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to b when shaping the text 'b̯'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to B when shaping the text 'B̯'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
+<td align="left">rub_Latn (Gungu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɩ, Ɩ̃́, Ɩ́, Ʋ́, Ʋ̃́, Ʋ̃, Ʋ, Ɩ̃</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
+<td align="left">kst_Latn (Winyé)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
+<td align="left">kzr_Latn (Karang)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to b when shaping the text 'b̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to B when shaping the text 'B̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to b when shaping the text 'b́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to B when shaping the text 'B́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to l when shaping the text 'l̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to L when shaping the text 'L̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">bud_Latn (Ntcham)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, Ƭ, ƭ, Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to J when shaping the text 'J̌'</td>
+<td align="left">tmh_Latn (Tamashek)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰J'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰j'</td>
+<td align="left">djc_Latn (Dar Daju Daju)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
+<td align="left">kia_Latn (Kim)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɽ</td>
+<td align="left">kib_Latn (Koalib)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left">lgg_Latn (Lugbara)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
+<td align="left">ybb_Latn (Yemba)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƒ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4536,11 +7520,19 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4549,23 +7541,155 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028A when shaping the text 'ʊ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01B1 when shaping the text 'Ʊ̃'</td>
-<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">nyb_Latn (Nyangbo) and tcd_Latn (Tafi)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƙ, Ɗ, Ƙ</td>
-<td align="left">ckl_Latn (Kibaku)</td>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">wwa_Latn (Waama)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left">box_Latn (Buamu)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -4577,6 +7701,14 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4604,6 +7736,14 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
 <td align="left"></td>
 </tr>
@@ -4617,98 +7757,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">ln_Latn (Lingala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɗ, Ʋ, Ɓ, Ɠ</td>
-<td align="left">tod_Latn (Toma)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to OE when shaping the text 'Œ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to OE when shaping the text 'Œ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Oslash when shaping the text 'Ø̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to oe when shaping the text 'œ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4716,48 +7764,32 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to oe when shaping the text 'œ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to oslash when shaping the text 'ø̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left">nnh_Latn (Ngiemboon)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -5080,1030 +8112,6 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u025B when shaping the text 'ɛ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0190 when shaping the text 'Ɛ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0268 when shaping the text 'ɨ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0197 when shaping the text 'Ɨ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0254 when shaping the text 'ɔ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0186 when shaping the text 'Ɔ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0289 when shaping the text 'ʉ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u0244 when shaping the text 'Ʉ̱'</td>
-<td align="left">kdj_Latn (Karamojong)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞌy, ꞌd, ꞋD, ꞋB, ꞋY, ꞌw, ꞋW, ꞌb</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EB9 when shaping the text 'ẹ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EB8 when shaping the text 'Ẹ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECD when shaping the text 'ọ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1ECC when shaping the text 'Ọ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EE5 when shaping the text 'ụ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u1EE4 when shaping the text 'Ụ̃'</td>
-<td align="left">kbo_Latn (Keliko)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, Ɗ, Ɓ</td>
-<td align="left">bcw_Latn (Bana)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ƒ</td>
-<td align="left">avn_Latn (Avatime)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Kʷ, Gʷ, Ɣ, gʷ, kʷ</td>
-<td align="left">shi_Latn (Tachelhit (Latin))</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
-<td align="left">bmq_Latn (Bomu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ɩ, Ʋ</td>
-<td align="left">aha_Latn (Ahanta)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ̂, Ɩ, Ɩ̀, Ɩ́</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028A when shaping the text 'ʊ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u01B1 when shaping the text 'Ʊ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u028A when shaping the text 'ʊ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u01B1 when shaping the text 'Ʊ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u028A when shaping the text 'ʊ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u01B1 when shaping the text 'Ʊ̂'</td>
-<td align="left">blo_Latn (Anii)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞋNG, ꞌb, ꞌj, ꞌd, ꞋB, ꞋD, ꞌng, ꞋJ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to edieresis when shaping the text 'ë̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Edieresis when shaping the text 'Ë̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to idieresis when shaping the text 'ï̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Idieresis when shaping the text 'Ï̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to udieresis when shaping the text 'ü̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Udieresis when shaping the text 'Ü̱'</td>
-<td align="left">bot_Latn (Bongo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƥ, Ɓ, Ƈ, Ƥ, ƴ, ƭ, ƈ, Ƭ, Ɗ, Ƴ</td>
-<td align="left">srr_Latn (Serer)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: E᷅, I᷆, o᷅, e᷅, U᷅, O᷆, I᷅, e᷆, U᷆, a᷅, u᷅, A᷅, E᷆, A᷆, a᷆, u᷆, i᷅, O᷅, i᷆, o᷆</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following mark characters are missing from the font: ᷅, ᷆</td>
-<td align="left">btt_Latn (Bete-Bendi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left">lgg_Latn (Lugbara)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0268 when shaping the text 'ɨ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0197 when shaping the text 'Ɨ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
-<td align="left">agq_Latn (Aghem)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƙ, Ɓ, Ɗ, ƙ</td>
-<td align="left">mbu_Latn (Mbula-Bwazza)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">nga_Latn (Ngbaka)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ƙ, Ɓ</td>
-<td align="left">wja_Latn (Waja) and tal_Latn (Tal)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to agrave when shaping the text 'à̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01CE when shaping the text 'ǎ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01CD when shaping the text 'Ǎ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0229 when shaping the text 'ȩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0228 when shaping the text 'Ȩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0229 when shaping the text 'ȩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0228 when shaping the text 'Ȩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɨ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɨ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ograve when shaping the text 'ò̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ograve when shaping the text 'Ò̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D2 when shaping the text 'ǒ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D1 when shaping the text 'Ǒ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɔ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɔ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ugrave when shaping the text 'ù̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ugrave when shaping the text 'Ù̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D4 when shaping the text 'ǔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D3 when shaping the text 'Ǔ̧'</td>
-<td align="left">mnf_Latn (Mundani)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
-<td align="left">ish_Latn (Esan)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
 <td align="left"></td>
 </tr>
@@ -6220,335 +8228,67 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left">ife_Latn (Ifè)</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left">pcm_Latn (Nigerian Pidgin)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
+<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
+<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u01DD when shaping the text 'ǝ̌'</td>
+<td align="left">Shaper didn't attach u0330 to amacron when shaping the text 'ā̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u018E when shaping the text 'Ǝ̌'</td>
+<td align="left">Shaper didn't attach u0330 to Amacron when shaping the text 'Ā̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u01DD when shaping the text 'ǝ̄'</td>
+<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u018E when shaping the text 'Ǝ̄'</td>
+<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left">Shaper didn't attach u0304 to u1E1B when shaping the text 'ḛ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left">nmg_Latn (Kwasio)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ꞷ, Ɪ, Ɪ̃, ꞷ, ꞷ̃, Ꞷ̃</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u026A when shaping the text 'ɪ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɪ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'ꞷ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ꞷ̃'</td>
-<td align="left">kzc_Latn (Bondoukou Kulango)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ʝ, Ƙ, Ɗ, ƙ, Ɲ</td>
-<td align="left">ikx_Latn (Ik)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left">mgo_Latn (Metaʼ)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u032F to d when shaping the text 'd̯'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u032F to D when shaping the text 'D̯'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u032F to t when shaping the text 't̯'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u032F to T when shaping the text 'T̯'</td>
-<td align="left">pkb_Latn (Pokomo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɣ, Ʋ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">lom_Latn (Loma, Liberia)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
+<td align="left">Shaper didn't attach u0304 to u1E1A when shaping the text 'Ḛ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -6560,455 +8300,27 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u1E2D when shaping the text 'ḭ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u1E2C when shaping the text 'Ḭ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left">Shaper didn't attach u0304 to u1E2D when shaping the text 'ḭ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">ewo_Latn (Ewondo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1EBC when shaping the text 'Ẽ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1EBD when shaping the text 'ẽ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
-<td align="left">lee_Latn (Lyélé)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ̃, Ɩ̃, Ɩ́, Ʋ́, Ʋ̃́, Ɩ, Ɩ̃́, Ʋ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
-<td align="left">kst_Latn (Winyé)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƙ, Ɗ, ƙ, Ɓ</td>
-<td align="left">ank_Latn (Goemai)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left">Shaper didn't attach u0304 to u1E2C when shaping the text 'Ḭ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7028,195 +8340,27 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
+<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
+<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
+<td align="left">Shaper didn't attach u0330 to oacute when shaping the text 'ó̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
+<td align="left">Shaper didn't attach u0330 to Oacute when shaping the text 'Ó̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
+<td align="left">Shaper didn't attach u0330 to omacron when shaping the text 'ō̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
-<td align="left">jgo_Latn (Ngomba)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0332 to e when shaping the text 'e̲'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0332 to E when shaping the text 'E̲'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0332 to o when shaping the text 'o̲'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0332 to O when shaping the text 'O̲'</td>
-<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɦ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to R when shaping the text 'R̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to R when shaping the text 'R̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to S when shaping the text 'S̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to r when shaping the text 'r̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to r when shaping the text 'r̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to s when shaping the text 's̀'</td>
-<td align="left">dno_Latn (Ndrulo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left">Shaper didn't attach u0330 to Omacron when shaping the text 'Ō̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7228,1115 +8372,19 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">Shaper didn't attach u0304 to r when shaping the text 'r̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">bqc_Latn (Boko)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɩ́, Ɩ, Ɩ̀</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left">tuz_Latn (Turka)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɣ</td>
-<td align="left">kbp_Latn (Kabiyé)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">emk_Latn (Maninkakan, Eastern)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ʋ, Ɩ</td>
-<td align="left">bbo_Latn (Northern Bobo Madaré) and bib_Latn (Bissa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
-<td align="left">krw_Latn (Western Krahn)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, ƴ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰J'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰j'</td>
-<td align="left">djc_Latn (Dar Daju Daju)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ɩ</td>
-<td align="left">dop_Latn (Lukpa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƙ, ƙ, Ɓ, Ɗ</td>
-<td align="left">wji_Latn (Warji)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0268 when shaping the text 'ɨ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0197 when shaping the text 'Ɨ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0289 when shaping the text 'ʉ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0244 when shaping the text 'Ʉ̃'</td>
-<td align="left">ebo_Latn (Teke-Ebo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left">lu_Latn (Luba-Katanga) and yav_Latn (Yangben)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, Ɓ, Ɲ, ƴ</td>
-<td align="left">bsc_Latn_GN (Guinean Bassari)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ɓ, Ƴ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
-<td align="left">kzr_Latn (Karang)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
-<td align="left">asg_Latn (Cishingini)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">lol_Latn (Mongo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Icircumflex when shaping the text 'Î̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
-<td align="left">pnz_Latn (Pana, Central African Republic)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: gʷ, Gʷ, kʷ, Kʷ, Ɣ</td>
-<td align="left">tzm_Latn (Central Atlas Tamazight)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɗ, Ɓ</td>
-<td align="left">bcn_Latn (Bali)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to agrave when shaping the text 'à̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Agrave when shaping the text 'À̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E1B when shaping the text 'ḛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E1A when shaping the text 'Ḛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ə̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ə̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ə̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ə̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E2D when shaping the text 'ḭ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E2C when shaping the text 'Ḭ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɔ̰́'</td>
+<td align="left">Shaper didn't attach u0304 to R when shaping the text 'R̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8345,26 +8393,46 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u1E74 when shaping the text 'Ṵ́'</td>
-<td align="left">mge_Latn (Mango)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E75 when shaping the text 'ṵ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E74 when shaping the text 'Ṵ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to w when shaping the text 'w̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to W when shaping the text 'W̄'</td>
+<td align="left">mwm_Latn (Sar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɦ, Ɓ</td>
-<td align="left">mcn_Latn (Masana)</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƴ, Ƴ</td>
+<td align="left">tnr_Latn (Ménik) and fuc_Latn (Pulaar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
-<td align="left">cae_Latn (Lehar)</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɣ</td>
+<td align="left">dop_Latn (Lukpa) and kpo_Latn (Ikposo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞌ, Ɗ, Ɓ, Ꞌ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8372,11 +8440,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to OE when shaping the text 'Œ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8384,11 +8456,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
+<td align="left">Shaper didn't attach u030C to AE when shaping the text 'Æ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8396,11 +8472,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to oe when shaping the text 'œ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8408,1728 +8488,52 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
-<td align="left">bkm_Latn (Kom)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to aacute when shaping the text 'á̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to agrave when shaping the text 'à̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to acircumflex when shaping the text 'â̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0229 when shaping the text 'ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0228 when shaping the text 'Ȩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0229 when shaping the text 'ȩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0228 when shaping the text 'Ȩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0229 when shaping the text 'ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0228 when shaping the text 'Ȩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ə̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ə̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ə̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ə̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0259 when shaping the text 'ə̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ə̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u018F when shaping the text 'Ə̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ə̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Iacute when shaping the text 'Í̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Igrave when shaping the text 'Ì̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Icircumflex when shaping the text 'Î̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɨ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɨ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɨ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0268 when shaping the text 'ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0197 when shaping the text 'Ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɨ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ograve when shaping the text 'ò̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ograve when shaping the text 'Ò̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɔ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0327 when shaping the text 'Ɔ̧̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɔ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to uacute when shaping the text 'ú̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Uacute when shaping the text 'Ú̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ugrave when shaping the text 'ù̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ugrave when shaping the text 'Ù̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ucircumflex when shaping the text 'û̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ucircumflex when shaping the text 'Û̧'</td>
-<td align="left">vut_Latn (Vute)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɑ̌, Ɑ, Ɑ̀, Ɑ̂</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɑ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɑ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɑ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0251 when shaping the text 'ɑ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0251 when shaping the text 'ɑ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0251 when shaping the text 'ɑ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left">byv_Latn (Medumba)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left">Shaper didn't attach u030C to ae when shaping the text 'æ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
-<td align="left">bsq_Latn (Bassa (Latin))</td>
+<td align="left">tik_Latn (Tikar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ɩ́, Ʋ̂, Ɩ̂, Ɩ̀, Ʋ, Ʋ́, Ʋ̀, Ɩ̌, Ʋ̌</td>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0269 when shaping the text 'ɩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u028B when shaping the text 'ʋ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ʋ̌'</td>
-<td align="left">goa_Latn (Guro)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
-<td align="left">bdh_Latn (Baka, DRC/South Sudan), png_Latn (Pangu) and cdr_Latn (Kamuku)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƴ, ƴ</td>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to aacute when shaping the text 'á̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Aacute when shaping the text 'Á̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to acircumflex when shaping the text 'â̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Acircumflex when shaping the text 'Â̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u01CE when shaping the text 'ǎ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u01CD when shaping the text 'Ǎ̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left">fvr_Latn (Fur)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left">soy_Latn (Miyobe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ƙ, Ɗ</td>
-<td align="left">anc_Latn (Ngas) and pip_Latn (Pero)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɲ, Ƴ, Ɠ, Ɗ</td>
-<td align="left">fuf_Latn (Pular)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ʋ̃̀, Ɓ, Ɩ́, Ɩ̀, Ʋ̀, ⱳ, Ʋ́, Ʋ̃́, Ⱳ, Ɗ, Ɩ̃, Ɲ, Ʋ, Ɩ̃́, Ɩ, Ɩ̃̀, Ʋ̃</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0269 when shaping the text 'ɩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u028B when shaping the text 'ʋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
-<td align="left">pug_Latn (Phuie)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left">nnw_Latn (Southern Nuni)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left">bqp_Latn (Bisã)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɲ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left">dya_Latn (Dyan)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left">mas_Latn (Masai)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ˮ, ˗</td>
-<td align="left">ati_Latn (Attié)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɗ, Ƴ</td>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left">gur_Latn (Frafra)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0327 when shaping the text 'Ɛ̧́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0327 when shaping the text 'Ɛ̧̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0327 when shaping the text 'Ɛ̧̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to o when shaping the text 'o̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to O when shaping the text 'O̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to oacute when shaping the text 'ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Oacute when shaping the text 'Ó̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to ocircumflex when shaping the text 'ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to Ocircumflex when shaping the text 'Ô̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D2 when shaping the text 'ǒ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0327 to u01D1 when shaping the text 'Ǒ̧'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left">mcp_Latn (Makaa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ƴ, Ɩ̃, Ʋ, ƴ, Ʋ̃, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left">bfo_Latn (Malba Birifor)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ꞌ, Ɓ, ꞌ, Ɗ, ƴ</td>
-<td align="left">mfi_Latn (Wandala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ꞌ, Ꞌ, Ɗ</td>
-<td align="left">tsw_Latn (Tsishingini)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɠ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
+<td align="left">ijs_Latn (Ijo, Southeast)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -10224,1475 +8628,39 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left">The following base characters are missing from the font: Ɦ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left">Shaper didn't attach u0302 to R when shaping the text 'R̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left">Shaper didn't attach gravecomb to R when shaping the text 'R̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left">Shaper didn't attach gravecomb to S when shaping the text 'S̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left">Shaper didn't attach u0302 to r when shaping the text 'r̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left">Shaper didn't attach gravecomb to r when shaping the text 'r̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">grb_Latn (Grebo)</td>
+<td align="left">Shaper didn't attach gravecomb to s when shaping the text 's̀'</td>
+<td align="left">dno_Latn (Ndrulo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left">nnh_Latn (Ngiemboon)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ƴ, Ɓ</td>
-<td align="left">bsc_Latn (Bassari) and tnr_Latn (Ménik)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɑ, Ɑ̀, Ɑ̌, Ɑ̄, Ɑ́</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0251 when shaping the text 'ɑ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɑ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0251 when shaping the text 'ɑ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɑ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0251 when shaping the text 'ɑ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɑ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0251 when shaping the text 'ɑ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɑ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
-<td align="left">fmp_Latn (Fe’fe’)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ</td>
-<td align="left">ayb_Latn (Ayizo Gbe) and guw_Latn (Gun)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃́, Ɩ́, Ʋ̃, Ɩ, Ʋ́, Ʋ̃́, Ʋ, Ɓ, Ɩ̃</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
-<td align="left">sld_Latn (Sissala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ́, Ʋ̃, Ɩ̃́, Ʋ̃́, Ɩ̌, Ɩ̃̂, Ɩ́, Ɩ̂, Ɲ, Ɩ̃, Ɩ, Ʋ, Ʋ̂</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0269 when shaping the text 'ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0269 when shaping the text 'ɩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to the base glyph when shaping the text 'Ɩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u028B when shaping the text 'ʋ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ʋ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ʋ̃́'</td>
-<td align="left">gna_Latn (Kaansa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to agrave when shaping the text 'à̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Agrave when shaping the text 'À̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɛ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɛ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u025B when shaping the text 'ɛ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɛ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0190 when shaping the text 'Ɛ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɛ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E2D when shaping the text 'ḭ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E2C when shaping the text 'Ḭ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E2D when shaping the text 'ḭ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E2C when shaping the text 'Ḭ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0330 when shaping the text 'Ɔ̰̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0254 when shaping the text 'ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0186 when shaping the text 'Ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0330 when shaping the text 'Ɔ̰́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E75 when shaping the text 'ṵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E74 when shaping the text 'Ṵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E75 when shaping the text 'ṵ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E74 when shaping the text 'Ṵ́'</td>
-<td align="left">ntm_Latn (Nateni)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ɓ, Ɗ, Ꞌ</td>
-<td align="left">bcy_Latn (Bacama)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left">loq_Latn (Lobala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, ˮ, Ʋ, ˗</td>
-<td align="left">yre_Latn (Yaouré)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
-<td align="left">mls_Latn (Masalit)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
-<td align="left">kaj_Latn (Jju)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">dua_Latn (Duala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to aacute when shaping the text 'á̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Aacute when shaping the text 'Á̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to iacute when shaping the text 'í̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to Iacute when shaping the text 'Í̱'</td>
-<td align="left">kcg_Latn (Tyap)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
-<td align="left">yba_Latn (Yala)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">bfd_Latn (Bafut)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɣ, Ƭ, ƭ, Ɓ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to J when shaping the text 'J̌'</td>
-<td align="left">tmh_Latn (Tamashek)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left">bum_Latn (Bulu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left">wwa_Latn (Waama)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
-<td align="left">box_Latn (Buamu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ, ˗, Ʋ</td>
-<td align="left">god_Latn (Godié)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: ꟈ, Ɽ, Ꟈ</td>
+<td align="left">The following base characters are missing from the font: Ꟈ, Ɽ, ꟈ</td>
 <td align="left">mor_Latn (Moro)</td>
 </tr>
 <tr>
@@ -11956,39 +8924,19 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
-<td align="left">ann_Latn (Obolo)</td>
+<td align="left">The following base characters are missing from the font: Ƴ, ƙ, Ɗ, Ɓ, ƴ, Ƙ</td>
+<td align="left">kai_Latn (Karekare)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u032F to b when shaping the text 'b̯'</td>
+<td align="left">Shaper didn't attach u0331 to a when shaping the text 'a̱'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u032F to B when shaping the text 'B̯'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to i when shaping the text 'i̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to I when shaping the text 'I̱'</td>
+<td align="left">Shaper didn't attach u0331 to A when shaping the text 'A̱'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11997,15 +8945,1191 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
-<td align="left">rub_Latn (Gungu)</td>
+<td align="left">kaj_Latn (Jju)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƙ, ƴ, Ƴ, ƙ, Ɓ, Ɗ</td>
-<td align="left">kai_Latn (Karekare)</td>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EBC when shaping the text 'Ẽ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EBD when shaping the text 'ẽ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
+<td align="left">lee_Latn (Lyélé)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to a when shaping the text 'a̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to A when shaping the text 'A̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to aacute when shaping the text 'á̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to Aacute when shaping the text 'Á̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E1B when shaping the text 'ḛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E1A when shaping the text 'Ḛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
+<td align="left">sba_Latn (Ngambay)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: e᷆, O᷆, a᷇, Ɔ᷆, U᷇, A᷆, i᷇, ɔ᷇, E᷆, I᷆, Ɓ, o᷆, A᷇, I᷇, u᷇, a᷆, o᷇, U᷆, e᷇, ɛ᷇, Ɛ᷆, i᷆, ɔ᷆, u᷆, O᷇, ɛ᷆, E᷇, Ɛ᷇, Ɔ᷇</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following mark characters are missing from the font: ᷇, ᷆</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left">bas_Latn (Basaa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, Ɓ, Ɗ</td>
+<td align="left">kdl_Latn (Tsikimba)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">lol_Latn (Mongo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɥ̃̀, Ɗ, Ɥ́, Ɥ̃́, Ɥ̀, Ɓ, Ɥ̂, Ɥ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u01DD when shaping the text 'ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018E when shaping the text 'Ǝ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u01DD when shaping the text 'ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018E when shaping the text 'Ǝ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01DD when shaping the text 'ǝ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u018E when shaping the text 'Ǝ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0275 when shaping the text 'ɵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u019F when shaping the text 'Ɵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0275 when shaping the text 'ɵ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u019F when shaping the text 'Ɵ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0275 when shaping the text 'ɵ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u019F when shaping the text 'Ɵ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0265 when shaping the text 'ɥ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɥ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0265 when shaping the text 'ɥ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɥ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0265 when shaping the text 'ɥ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɥ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0265 when shaping the text 'ɥ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɥ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0265 when shaping the text 'ɥ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɥ̃́'</td>
+<td align="left">dnj_Latn_LR (Liberian Dan)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left">bqc_Latn (Boko)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0325 to l when shaping the text 'l̥'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0325 to L when shaping the text 'L̥'</td>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left">mne_Latn (Naba)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to u when shaping the text 'u̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to U when shaping the text 'U̱'</td>
+<td align="left">uth_Latn (ut-Hun)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, Ɓ, ƈ, Ƥ, ƴ, Ƈ, ƥ, Ƭ, ƭ</td>
+<td align="left">srr_Latn (Serer)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, ƴ, Ɗ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
+<td align="left">daa_Latn (Dangaléat)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ˀ</td>
+<td align="left">giz_Latn (Southern Giziga)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to oslash when shaping the text 'ø̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Oslash when shaping the text 'Ø̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to oslash when shaping the text 'ø̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Oslash when shaping the text 'Ø̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0289 when shaping the text 'ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0244 when shaping the text 'Ʉ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left">nfu_Latn (Mfumte)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞉, ꞊</td>
+<td align="left">buu_Latn (Budu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">gur_Latn (Frafra)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left">vai_Latn (Vai (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ̃, Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0269 when shaping the text 'ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to the base glyph when shaping the text 'Ɩ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u028A when shaping the text 'ʊ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u01B1 when shaping the text 'Ʊ̃'</td>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ƴ, Ɗ</td>
+<td align="left">cae_Latn (Lehar)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -12014,6 +10138,1874 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ƙ</td>
 <td align="left">nin_Latn (Ninzo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ɲ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left">dya_Latn (Dyan)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left">etx_Latn (Iten)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ƙ, Ɓ</td>
+<td align="left">wji_Latn (Warji)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ƙ, Ɗ, ƙ</td>
+<td align="left">hia_Latn (Lamang)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɠ, Ɓ, Ɗ, Ʋ</td>
+<td align="left">tod_Latn (Toma)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
+<td align="left">krw_Latn (Western Krahn)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">gvl_Latn (Gulay)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ɲ, Ɓ, Ƴ</td>
+<td align="left">bsc_Latn_GN (Guinean Bassari)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EB9 when shaping the text 'ẹ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EB8 when shaping the text 'Ẹ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECD when shaping the text 'ọ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECC when shaping the text 'Ọ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE5 when shaping the text 'ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EE4 when shaping the text 'Ụ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EE5 when shaping the text 'ụ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EE4 when shaping the text 'Ụ̃'</td>
+<td align="left">mhi_Latn (Ma’di)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƙ, Ɗ, ƙ, Ɓ</td>
+<td align="left">wja_Latn (Waja)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">yo_Latn_BJ (Yoruba, Benin)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to OE when shaping the text 'Œ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0197 when shaping the text 'Ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to OE when shaping the text 'Œ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Oslash when shaping the text 'Ø̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to oe when shaping the text 'œ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0268 when shaping the text 'ɨ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to oe when shaping the text 'œ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to oslash when shaping the text 'ø̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left">ozm_Latn (Koonzime)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to AE when shaping the text 'Æ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to OE when shaping the text 'Œ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to AE when shaping the text 'Æ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to ae when shaping the text 'æ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to oe when shaping the text 'œ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to ae when shaping the text 'æ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
+<td align="left">bkm_Latn (Kom)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃́'</td>
+<td align="left">soy_Latn (Miyobe)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ˮ, ˗</td>
+<td align="left">ati_Latn (Attié)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɯ̏, Ɤ̂, Ɯ̋, Ɯ̀, Ɯ̄, Ɤ, Ɯ̂, Ɤ̏, Ɤ̄, Ɤ̀, Ɯ́, Ɯ, Ɤ̋, Ɤ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to a when shaping the text 'a̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to A when shaping the text 'A̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to ae when shaping the text 'æ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to AE when shaping the text 'Æ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to ae when shaping the text 'æ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to AE when shaping the text 'Æ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to ae when shaping the text 'æ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to AE when shaping the text 'Æ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to ae when shaping the text 'æ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to AE when shaping the text 'Æ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u028C when shaping the text 'ʌ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u0245 when shaping the text 'Ʌ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u028C when shaping the text 'ʌ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0245 when shaping the text 'Ʌ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u028C when shaping the text 'ʌ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0245 when shaping the text 'Ʌ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028C when shaping the text 'ʌ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0245 when shaping the text 'Ʌ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u028C when shaping the text 'ʌ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u0245 when shaping the text 'Ʌ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u028C when shaping the text 'ʌ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0245 when shaping the text 'Ʌ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to e when shaping the text 'e̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to E when shaping the text 'E̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u025B when shaping the text 'ɛ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u0190 when shaping the text 'Ɛ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u025B when shaping the text 'ɛ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u0190 when shaping the text 'Ɛ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to i when shaping the text 'i̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to I when shaping the text 'I̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u0264 when shaping the text 'ɤ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to the base glyph when shaping the text 'Ɤ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0264 when shaping the text 'ɤ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɤ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0264 when shaping the text 'ɤ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɤ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0264 when shaping the text 'ɤ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɤ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u0264 when shaping the text 'ɤ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to the base glyph when shaping the text 'Ɤ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0264 when shaping the text 'ɤ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɤ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to oe when shaping the text 'œ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to OE when shaping the text 'Œ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to oe when shaping the text 'œ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to OE when shaping the text 'Œ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to oe when shaping the text 'œ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to OE when shaping the text 'Œ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to oe when shaping the text 'œ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to OE when shaping the text 'Œ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to oe when shaping the text 'œ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to OE when shaping the text 'Œ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oe when shaping the text 'œ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to OE when shaping the text 'Œ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to u026F when shaping the text 'ɯ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030F to the base glyph when shaping the text 'Ɯ̏'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u026F when shaping the text 'ɯ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɯ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u026F when shaping the text 'ɯ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to the base glyph when shaping the text 'Ɯ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u026F when shaping the text 'ɯ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɯ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to u026F when shaping the text 'ɯ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to the base glyph when shaping the text 'Ɯ̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u026F when shaping the text 'ɯ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɯ̂'</td>
+<td align="left">dnj_Latn (Dan)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EA1 when shaping the text 'ạ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EA0 when shaping the text 'Ạ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECB when shaping the text 'ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1ECA when shaping the text 'Ị̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EA1 when shaping the text 'ạ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1EA0 when shaping the text 'Ạ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECB when shaping the text 'ị̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u1ECA when shaping the text 'Ị̃'</td>
+<td align="left">avu_Latn (Avokaya)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ᵽ, Ᵽ</td>
+<td align="left">bqj_Latn (Bandial)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0268 when shaping the text 'ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0197 when shaping the text 'Ɨ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0268 when shaping the text 'ɨ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0197 when shaping the text 'Ɨ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
+<td align="left">nzk_Latn (Nzakara)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɑ</td>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left">mas_Latn (Masai)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɲ, Ʋ</td>
+<td align="left">bib_Latn (Bissa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɓ, Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left">lom_Latn (Loma, Liberia)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0324 to w when shaping the text 'w̤'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0324 to W when shaping the text 'W̤'</td>
+<td align="left">fan_Latn (Fang)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, Ɗ, ƴ</td>
+<td align="left">sok_Latn (Sokoro)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ, Ʋ́, Ʋ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0269 when shaping the text 'ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u028B when shaping the text 'ʋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ʋ́'</td>
+<td align="left">xsm_Latn_BF (Kasem, Burkina Faso)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0259 when shaping the text 'ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u018F when shaping the text 'Ə̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u018F when shaping the text 'Ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">ewo_Latn (Ewondo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following mark characters are missing from the font: ᷄, ᷅</td>
+<td align="left">kss_Latn (Southern Kisi)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to d when shaping the text 'd̯'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to D when shaping the text 'D̯'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to t when shaping the text 't̯'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u032F to T when shaping the text 'T̯'</td>
+<td align="left">pkb_Latn (Pokomo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɣ, Gʷ, kʷ, gʷ, Kʷ</td>
+<td align="left">tzm_Latn (Central Atlas Tamazight)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0289 when shaping the text 'ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0244 when shaping the text 'Ʉ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0289 when shaping the text 'ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0244 when shaping the text 'Ʉ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0289 when shaping the text 'ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0244 when shaping the text 'Ʉ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0289 when shaping the text 'ʉ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0244 when shaping the text 'Ʉ̈'</td>
+<td align="left">jgo_Latn (Ngomba)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left">nnw_Latn (Southern Nuni)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƒ, Ʋ</td>
+<td align="left">avn_Latn (Avatime)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left">bqp_Latn (Bisã)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0332 to e when shaping the text 'e̲'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0332 to E when shaping the text 'E̲'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0332 to o when shaping the text 'o̲'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0332 to O when shaping the text 'O̲'</td>
+<td align="left">ema_Latn (Emai-Iuleha-Ora)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">bom_Latn (Berom)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left">bum_Latn (Bulu)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u025B when shaping the text 'ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0190 when shaping the text 'Ɛ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0254 when shaping the text 'ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0186 when shaping the text 'Ɔ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">grb_Latn (Grebo)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ɗy</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u025B when shaping the text 'ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0254 when shaping the text 'ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0190 when shaping the text 'Ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to u0186 when shaping the text 'Ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
+<td align="left">kkj_Latn (Kako)</td>
 </tr>
 </tbody>
 </table>
@@ -12843,351 +12835,115 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
+<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
-<td align="left">ybb_Latn (Yemba)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ʋ̈</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ˗</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ꞊</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ˮ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to u028B when shaping the text 'ʋ̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to the base glyph when shaping the text 'Ʋ̈'</td>
-<td align="left">dnj_Latn (Dan)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to a when shaping the text 'a̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to A when shaping the text 'A̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to e when shaping the text 'e̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to E when shaping the text 'E̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EBD when shaping the text 'ẽ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u1EBC when shaping the text 'Ẽ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1EBD when shaping the text 'ẽ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1EBC when shaping the text 'Ẽ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to i when shaping the text 'i̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to I when shaping the text 'I̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to itilde when shaping the text 'ĩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Itilde when shaping the text 'Ĩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to oslash when shaping the text 'ø̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Oslash when shaping the text 'Ø̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to oslash when shaping the text 'ø̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030B to Oslash when shaping the text 'Ø̋'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
-<td align="left">awc_Latn (Cicipu)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EA1 when shaping the text 'ạ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EA0 when shaping the text 'Ạ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
+<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
+<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
+<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
+<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1EA1 when shaping the text 'ạ̄'</td>
+<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1EA0 when shaping the text 'Ạ̄'</td>
+<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
+<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
+<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
+<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
 <td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
-<td align="left">abn_Latn (Abua)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to v when shaping the text 'v̱'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to V when shaping the text 'V̱'</td>
-<td align="left">swb_Latn (Maore Comorian, Latin)</td>
 </tr>
 <tr>
-<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɐ</td>
+<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɐ̀</td>
+<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɐ́</td>
+<td align="left">Shaper didn't attach u030D to atilde when shaping the text 'ã̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɐ̂</td>
+<td align="left">Shaper didn't attach u030D to Atilde when shaping the text 'Ã̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: ⓐ</td>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ⓐ</td>
+<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'ɛ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0250 when shaping the text 'ɐ̀'</td>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɐ̀'</td>
+<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'Ɛ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0250 when shaping the text 'ɐ́'</td>
+<td align="left">Shaper didn't attach u030D to itilde when shaping the text 'ĩ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɐ́'</td>
+<td align="left">Shaper didn't attach u030D to Itilde when shaping the text 'Ĩ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to u0250 when shaping the text 'ɐ̂'</td>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɐ̂'</td>
+<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'ɔ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'Ɔ̃̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left">Shaper didn't attach u030D to utilde when shaping the text 'ũ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left">Shaper didn't attach u030D to Utilde when shaping the text 'Ũ̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -13199,30 +12955,6 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
 <td align="left"></td>
 </tr>
@@ -13231,244 +12963,100 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to itilde when shaping the text 'ĩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Itilde when shaping the text 'Ĩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left">kib_Latn (Koalib)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
+<td align="left">nga_Latn (Ngbaka)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɗ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ƭ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ƭ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to F when shaping the text 'F̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to G when shaping the text 'G̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to J when shaping the text 'J̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1E62 when shaping the text 'Ṣ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to f when shaping the text 'f̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to g when shaping the text 'g̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to j when shaping the text 'j̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u1E63 when shaping the text 'ṣ̌'</td>
-<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">The following auxiliary characters are missing from the font: ˀ</td>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach dotbelowcomb to g when shaping the text 'g̣'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach dotbelowcomb to G when shaping the text 'G̣'</td>
-<td align="left">tuq_Latn (Tedaga)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to nacute when shaping the text 'ń̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Nacute when shaping the text 'Ń̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u01F9 when shaping the text 'ǹ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u01F8 when shaping the text 'Ǹ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to r when shaping the text 'r̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to R when shaping the text 'R̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'n̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'N̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to r when shaping the text 'r̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to R when shaping the text 'R̄'</td>
-<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">Shaper didn't attach u0331 to H when shaping the text 'H̱'</td>
+<td align="left">udu_Latn (Uduk)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -13671,187 +13259,67 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: a᷄</td>
+<td align="left">Shaper didn't attach u0330 to amacron when shaping the text 'ā̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: A᷄</td>
+<td align="left">Shaper didn't attach u0330 to Amacron when shaping the text 'Ā̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: a᷅</td>
+<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: A᷅</td>
+<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: e᷄</td>
+<td align="left">Shaper didn't attach u0304 to u1E1B when shaping the text 'ḛ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: E᷄</td>
+<td align="left">Shaper didn't attach u0304 to u1E1A when shaping the text 'Ḛ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: e᷅</td>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: E᷅</td>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: ɛ᷄</td>
+<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɛ᷄</td>
+<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'ə̰̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: ɛ᷅</td>
+<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɛ᷅</td>
+<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'Ə̰̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: i᷄</td>
+<td align="left">Shaper didn't attach u0304 to u0268 when shaping the text 'ɨ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: I᷄</td>
+<td align="left">Shaper didn't attach u0304 to u0197 when shaping the text 'Ɨ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: i᷅</td>
+<td align="left">Shaper didn't attach u0304 to l when shaping the text 'l̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: I᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: o᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: O᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: o᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: O᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ɔ᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɔ᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ɔ᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɔ᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: u᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: U᷄</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: u᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: U᷅</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to a when shaping the text 'a̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to A when shaping the text 'A̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to e when shaping the text 'e̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to E when shaping the text 'E̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0190 when shaping the text 'Ɛ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to i when shaping the text 'i̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to I when shaping the text 'I̍'</td>
+<td align="left">Shaper didn't attach u0304 to L when shaping the text 'L̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -13863,35 +13331,155 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
+<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
+<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030D to eng when shaping the text 'ŋ̍'</td>
+<td align="left">Shaper didn't attach u0330 to oacute when shaping the text 'ó̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030D to Eng when shaping the text 'Ŋ̍'</td>
+<td align="left">Shaper didn't attach u0330 to Oacute when shaping the text 'Ó̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
+<td align="left">Shaper didn't attach u0330 to ograve when shaping the text 'ò̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
+<td align="left">Shaper didn't attach u0330 to Ograve when shaping the text 'Ò̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left">Shaper didn't attach u0330 to omacron when shaping the text 'ō̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left">Shaper didn't attach u0330 to Omacron when shaping the text 'Ō̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E75 when shaping the text 'ṵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1E74 when shaping the text 'Ṵ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E75 when shaping the text 'ṵ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1E74 when shaping the text 'Ṵ̄'</td>
+<td align="left">mge_Latn (Mango)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɩ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ʋ</td>
+<td align="left">xsm_Latn (Kasem) and lgg_Latn (Lugbara)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
+<td align="left">buc_Latn (Bushi)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to v when shaping the text 'v̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to V when shaping the text 'V̱'</td>
+<td align="left">swb_Latn (Maore Comorian, Latin)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
+<td align="left">kea_Latn (Kabuverdianu)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left">etu_Latn (Ejagham)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0259 when shaping the text 'ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018F when shaping the text 'Ə́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to eng when shaping the text 'ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Eng when shaping the text 'Ŋ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to nacute when shaping the text 'ń̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to Nacute when shaping the text 'Ń̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -13900,118 +13488,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0254 when shaping the text 'ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u0186 when shaping the text 'Ɔ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to u when shaping the text 'u̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
-<td align="left">kss_Latn (Southern Kisi)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ꞵ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ꞵ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
-<td align="left">buw_Latn (gevové) and puu_Latn (Punu)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u01DD when shaping the text 'ǝ̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018E when shaping the text 'Ǝ̰'</td>
-<td align="left">sba_Latn (Ngambay)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ˤ</td>
-<td align="left">zen_Latn (Zenaga (Latin))</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
-<td align="left">pcm_Latn (Nigerian Pidgin)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -14031,20 +13507,116 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left">Shaper didn't attach gravecomb to eng when shaping the text 'ŋ̀'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left">gvl_Latn (Gulay)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng when shaping the text 'Ŋ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u01F9 when shaping the text 'ǹ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u01F8 when shaping the text 'Ǹ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to r when shaping the text 'r̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to R when shaping the text 'R̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to n when shaping the text 'n̰̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'n̰̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'N̰̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to r when shaping the text 'r̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to R when shaping the text 'R̄'</td>
+<td align="left">kyq_Latn (Kenga)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -14067,20 +13639,500 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
+<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
+<td align="left">The following auxiliary characters are missing from the font: ˤ</td>
+<td align="left">zen_Latn (Zenaga (Latin))</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
+<td align="left">The following auxiliary characters are missing from the font: ꞵ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
-<td align="left">etx_Latn (Iten)</td>
+<td align="left">The following auxiliary characters are missing from the font: Ꞵ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0324 to w when shaping the text 'w̤'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0324 to W when shaping the text 'W̤'</td>
+<td align="left">mdt_Latn (Mbere)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EA1 when shaping the text 'ạ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EA0 when shaping the text 'Ạ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB9 when shaping the text 'ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EB8 when shaping the text 'Ẹ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECB when shaping the text 'ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECA when shaping the text 'Ị́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECD when shaping the text 'ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1ECC when shaping the text 'Ọ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE5 when shaping the text 'ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EA1 when shaping the text 'ạ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EA0 when shaping the text 'Ạ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB9 when shaping the text 'ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EB8 when shaping the text 'Ẹ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECB when shaping the text 'ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECA when shaping the text 'Ị̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECD when shaping the text 'ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1ECC when shaping the text 'Ọ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE5 when shaping the text 'ụ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u1EE4 when shaping the text 'Ụ̄'</td>
+<td align="left">abn_Latn (Abua)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EB9 when shaping the text 'ẹ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EB8 when shaping the text 'Ẹ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1ECB when shaping the text 'ị̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1ECA when shaping the text 'Ị̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1ECD when shaping the text 'ọ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1ECC when shaping the text 'Ọ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EE5 when shaping the text 'ụ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EE4 when shaping the text 'Ụ̌'</td>
+<td align="left">ekp_Latn (Ekpeye) and igb_Latn (Ebira)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to aogonek when shaping the text 'ą́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Aogonek when shaping the text 'Ą́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0259 when shaping the text 'ə̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u018F when shaping the text 'Ə̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0259 when shaping the text 'ə̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ə̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u018F when shaping the text 'Ə̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ə̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u025B when shaping the text 'ɛ̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0190 when shaping the text 'Ɛ̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u025B when shaping the text 'ɛ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ɛ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0190 when shaping the text 'Ɛ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ɛ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to iogonek when shaping the text 'į́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Iogonek when shaping the text 'Į́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0254 when shaping the text 'ɔ̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0186 when shaping the text 'Ɔ̨'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0254 when shaping the text 'ɔ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ɔ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0328 to u0186 when shaping the text 'Ɔ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ɔ̨́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to uogonek when shaping the text 'ų́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Uogonek when shaping the text 'Ų́'</td>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
+<td align="left">ish_Latn (Esan)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
+<td align="left">bax_Latn (Bamun (Latin))</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ʈ</td>
+<td align="left">luo_Latn (Luo), nus_Latn (Nuer) and ach_Latn (Acoli)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to a when shaping the text 'a̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to A when shaping the text 'A̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to e when shaping the text 'e̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to E when shaping the text 'E̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBD when shaping the text 'ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EBC when shaping the text 'Ẽ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBD when shaping the text 'ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u1EBC when shaping the text 'Ẽ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EBD when shaping the text 'ẽ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u1EBC when shaping the text 'Ẽ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EBD when shaping the text 'ẽ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u1EBC when shaping the text 'Ẽ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to i when shaping the text 'i̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to I when shaping the text 'I̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to itilde when shaping the text 'ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Itilde when shaping the text 'Ĩ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to Itilde when shaping the text 'Ĩ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to itilde when shaping the text 'ĩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Itilde when shaping the text 'Ĩ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to oslash when shaping the text 'ø̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Oslash when shaping the text 'Ø̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to oslash when shaping the text 'ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Oslash when shaping the text 'Ø̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to oslash when shaping the text 'ø̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030B to Oslash when shaping the text 'Ø̋'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to oslash when shaping the text 'ø̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to Oslash when shaping the text 'Ø̃̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to utilde when shaping the text 'ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to Utilde when shaping the text 'Ũ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
+<td align="left">awc_Latn (Cicipu)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
+<td align="left">nup_Latn (Nupe-Nupe-Tako)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to h when shaping the text 'h̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to H when shaping the text 'H̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to w when shaping the text 'w̃'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach tildecomb to W when shaping the text 'W̃'</td>
+<td align="left">bsc_Latn (Bassari)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -14139,6 +14191,218 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɲ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɲ̀</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɲ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0272 when shaping the text 'ɲ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɲ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0272 when shaping the text 'ɲ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɲ́'</td>
+<td align="left">eto_Latn (Eton, Cameroon)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɐ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɐ̀</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɐ́</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɐ̂</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ⓐ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ⓐ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0250 when shaping the text 'ɐ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɐ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0250 when shaping the text 'ɐ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɐ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0250 when shaping the text 'ɐ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to the base glyph when shaping the text 'Ɐ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left">kib_Latn (Koalib)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u0259 when shaping the text 'ə̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u018F when shaping the text 'Ə̈'</td>
+<td align="left">ybb_Latn (Yemba)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach dotbelowcomb to g when shaping the text 'g̣'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach dotbelowcomb to G when shaping the text 'G̣'</td>
+<td align="left">tuq_Latn (Tedaga)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
+<td align="left">pcm_Latn (Nigerian Pidgin)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u01DD when shaping the text 'ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u018E when shaping the text 'Ǝ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u01DD when shaping the text 'ǝ̰'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0330 to u018E when shaping the text 'Ǝ̰'</td>
+<td align="left">sba_Latn (Ngambay)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">The following auxiliary characters are missing from the font: ƃ</td>
 <td align="left"></td>
 </tr>
@@ -14151,88 +14415,48 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1EB9 when shaping the text 'ẹ̌'</td>
+<td align="left">The following auxiliary characters are missing from the font: Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1EB8 when shaping the text 'Ẹ̌'</td>
+<td align="left">The following auxiliary characters are missing from the font: Ƭ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1ECB when shaping the text 'ị̌'</td>
+<td align="left">The following auxiliary characters are missing from the font: ƭ</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1ECA when shaping the text 'Ị̌'</td>
+<td align="left">Shaper didn't attach dotbelowcomb to F when shaping the text 'F̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1ECD when shaping the text 'ọ̌'</td>
+<td align="left">Shaper didn't attach dotbelowcomb to G when shaping the text 'G̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1ECC when shaping the text 'Ọ̌'</td>
+<td align="left">Shaper didn't attach dotbelowcomb to J when shaping the text 'J̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1EE5 when shaping the text 'ụ̌'</td>
+<td align="left">Shaper didn't attach u030C to u1E62 when shaping the text 'Ṣ̌'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u030C to u1EE4 when shaping the text 'Ụ̌'</td>
-<td align="left">ekp_Latn (Ekpeye) and igb_Latn (Ebira)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left">Shaper didn't attach dotbelowcomb to f when shaping the text 'f̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
+<td align="left">Shaper didn't attach dotbelowcomb to g when shaping the text 'g̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
+<td align="left">Shaper didn't attach dotbelowcomb to j when shaping the text 'j̣'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
-<td align="left">mg_Latn (Malagasy)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɩ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ʋ</td>
-<td align="left">xsm_Latn (Kasem) and lgg_Latn (Lugbara)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0331 to H when shaping the text 'H̱'</td>
-<td align="left">udu_Latn (Uduk)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
-<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">Shaper didn't attach u030C to u1E63 when shaping the text 'ṣ̌'</td>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -14615,23 +14839,243 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to m when shaping the text 'm̀'</td>
+<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">Shaper didn't attach gravecomb to M when shaping the text 'M̀'</td>
-<td align="left">nup_Latn (Nupe-Nupe-Tako)</td>
+<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
+<td align="left">mg_Latn (Malagasy)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: ˀ</td>
-<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">The following auxiliary characters are missing from the font: ꞵ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ꞵ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
+<td align="left">puu_Latn (Punu) and buw_Latn (gevové)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ꞌ</td>
+<td align="left">cae_Latn (Lehar)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to E when shaping the text 'E̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to o when shaping the text 'o̱'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0331 to O when shaping the text 'O̱'</td>
+<td align="left">etx_Latn (Iten)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0259 when shaping the text 'ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0268 when shaping the text 'ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0197 when shaping the text 'Ɨ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0268 when shaping the text 'ɨ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0197 when shaping the text 'Ɨ́'</td>
+<td align="left">gvl_Latn (Gulay)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ʋ̈</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ˗</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ꞊</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ˮ</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to u028B when shaping the text 'ʋ̈'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0308 to the base glyph when shaping the text 'Ʋ̈'</td>
+<td align="left">dnj_Latn (Dan)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: a᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: A᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: a᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: A᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: e᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: E᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: e᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: E᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ɛ᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɛ᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ɛ᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɛ᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: i᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: I᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: i᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: I᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: o᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: O᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: o᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: O᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ɔ᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɔ᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ɔ᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: Ɔ᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: u᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: U᷄</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: u᷅</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: U᷅</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -14651,6 +15095,46 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach gravecomb to u025B when shaping the text 'ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0190 when shaping the text 'Ɛ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u025B when shaping the text 'ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0190 when shaping the text 'Ɛ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u030D to u025B when shaping the text 'ɛ̍'</td>
 <td align="left"></td>
 </tr>
@@ -14667,11 +15151,75 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to eng when shaping the text 'ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to Eng when shaping the text 'Ŋ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to eng when shaping the text 'ŋ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030D to Eng when shaping the text 'Ŋ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u030D to o when shaping the text 'o̍'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030D to O when shaping the text 'O̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0254 when shaping the text 'ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach gravecomb to u0186 when shaping the text 'Ɔ̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0254 when shaping the text 'ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach acutecomb to u0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -14688,187 +15236,7 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u030D to U when shaping the text 'U̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to atilde when shaping the text 'ã̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to Atilde when shaping the text 'Ã̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'ɛ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'Ɛ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to itilde when shaping the text 'ĩ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to Itilde when shaping the text 'Ĩ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'ɔ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to tildecomb when shaping the text 'Ɔ̃̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to utilde when shaping the text 'ũ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030D to Utilde when shaping the text 'Ũ̍'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u025B when shaping the text 'ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0190 when shaping the text 'Ɛ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0254 when shaping the text 'ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to u0186 when shaping the text 'Ɔ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to itilde when shaping the text 'ĩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Itilde when shaping the text 'Ĩ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to utilde when shaping the text 'ũ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to Utilde when shaping the text 'Ũ̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u025B when shaping the text 'ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0190 when shaping the text 'Ɛ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0254 when shaping the text 'ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to u0186 when shaping the text 'Ɔ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u025B when shaping the text 'ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0190 when shaping the text 'Ɛ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to itilde when shaping the text 'ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Itilde when shaping the text 'Ĩ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to u0186 when shaping the text 'Ɔ̃̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to utilde when shaping the text 'ũ̌'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u030C to Utilde when shaping the text 'Ũ̌'</td>
-<td align="left">nga_Latn (Ngbaka)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB9 when shaping the text 'ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1EB8 when shaping the text 'Ẹ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECD when shaping the text 'ọ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
-<td align="left">ish_Latn (Esan)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ʈ</td>
-<td align="left">luo_Latn (Luo), nus_Latn (Nuer) and ach_Latn (Acoli)</td>
+<td align="left">kss_Latn (Southern Kisi)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -14959,388 +15327,12 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɲ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɲ̀</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɲ́</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u0272 when shaping the text 'ɲ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to the base glyph when shaping the text 'Ɲ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0272 when shaping the text 'ɲ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to the base glyph when shaping the text 'Ɲ́'</td>
-<td align="left">eto_Latn (Eton, Cameroon)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to amacron when shaping the text 'ā̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Amacron when shaping the text 'Ā̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1B when shaping the text 'ḛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u1E1A when shaping the text 'Ḛ́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E1B when shaping the text 'ḛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E1A when shaping the text 'Ḛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u0259 when shaping the text 'ə̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'ə̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to u018F when shaping the text 'Ə̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0330 when shaping the text 'Ə̰̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0268 when shaping the text 'ɨ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0197 when shaping the text 'Ɨ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to l when shaping the text 'l̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to L when shaping the text 'L̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to m when shaping the text 'm̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to M when shaping the text 'M̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to n when shaping the text 'n̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to N when shaping the text 'N̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to oacute when shaping the text 'ó̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Oacute when shaping the text 'Ó̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to ograve when shaping the text 'ò̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Ograve when shaping the text 'Ò̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to omacron when shaping the text 'ō̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0330 to Omacron when shaping the text 'Ō̰'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E75 when shaping the text 'ṵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach gravecomb to u1E74 when shaping the text 'Ṵ̀'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E75 when shaping the text 'ṵ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u1E74 when shaping the text 'Ṵ̄'</td>
-<td align="left">mge_Latn (Mango)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ꞌ</td>
-<td align="left">cae_Latn (Lehar)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to aogonek when shaping the text 'ą́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Aogonek when shaping the text 'Ą́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0259 when shaping the text 'ə̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u018F when shaping the text 'Ə̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0259 when shaping the text 'ə̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ə̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u018F when shaping the text 'Ə̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ə̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u025B when shaping the text 'ɛ̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0190 when shaping the text 'Ɛ̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u025B when shaping the text 'ɛ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ɛ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0190 when shaping the text 'Ɛ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ɛ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to iogonek when shaping the text 'į́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Iogonek when shaping the text 'Į́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0254 when shaping the text 'ɔ̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0186 when shaping the text 'Ɔ̨'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0254 when shaping the text 'ɔ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'ɔ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0328 to u0186 when shaping the text 'Ɔ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to u0328 when shaping the text 'Ɔ̨́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to uogonek when shaping the text 'ų́'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach acutecomb to Uogonek when shaping the text 'Ų́'</td>
-<td align="left">gkp_Latn (Kpelle, Guinea)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
-<td align="left">kea_Latn (Kabuverdianu)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">Shaper didn't attach u0330 to o when shaping the text 'o̰'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach u0330 to O when shaping the text 'O̰'</td>
 <td align="left">grb_Latn (Grebo)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to h when shaping the text 'h̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to H when shaping the text 'H̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to w when shaping the text 'w̃'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach tildecomb to W when shaping the text 'W̃'</td>
-<td align="left">bsc_Latn (Bassari)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u025B when shaping the text 'ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0190 when shaping the text 'Ɛ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0259 when shaping the text 'ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u018F when shaping the text 'Ə̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0254 when shaping the text 'ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0186 when shaping the text 'Ɔ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0289 when shaping the text 'ʉ̄'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0304 to u0244 when shaping the text 'Ʉ̄'</td>
-<td align="left">bax_Latn (Bamun (Latin))</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to N when shaping the text 'N̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0302 to n when shaping the text 'n̂'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to N when shaping the text 'N̈'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0308 to n when shaping the text 'n̈'</td>
-<td align="left">buc_Latn (Bushi)</td>
-</tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ꞵ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ꞵ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: Ɣ</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0324 to w when shaping the text 'w̤'</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">Shaper didn't attach u0324 to W when shaping the text 'W̤'</td>
-<td align="left">mdt_Latn (Mbere)</td>
 </tr>
 </tbody>
 </table>
@@ -15625,7 +15617,7 @@ tonos (U+0384)</p>
 * ⚠️ **WARN** <p>The most common width is 1000 among a set of 36 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-less, u2213, multiply, plus, equal, greater, logicalnot, minus, plusminus, divide, approxequal, similar</p>
+less, divide, similar, minus, plusminus, greater, equal, logicalnot, approxequal, u2213, plus, multiply</p>
  [code: width-outliers]
 
 
@@ -15731,32 +15723,32 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, math, duployan, canadian-aboriginal, tai-le, hebrew, tifinagh, todhri, malayalam, coptic, old-permic</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, duployan, malayalam, syriac, tai-le, old-permic, math, coptic, todhri, hebrew</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030E COMBINING DOUBLE VERTICAL LINE ABOVE: try adding ethiopic</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, duployan, cherokee</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032C COMBINING CARON BELOW: try adding math</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, thai, cherokee, tifinagh, gothic, caucasian-albanian, sunuwar</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, cherokee, tifinagh, thai, syriac, gothic, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0337 COMBINING SHORT SOLIDUS OVERLAY: not included in any glyphset definition</li>
-<li>U+2010 HYPHEN: try adding one of: cham, kaithi, lisu, sundanese, arabic, hebrew, kharoshthi, syloti-nagri, yi, sora-sompeng, coptic, armenian, kayah-li</li>
+<li>U+2010 HYPHEN: try adding one of: cham, kaithi, sundanese, armenian, syloti-nagri, yi, kharoshthi, arabic, sora-sompeng, kayah-li, lisu, hebrew, coptic</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: try adding math</li>
 <li>U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK: try adding adlam</li>
@@ -15774,7 +15766,7 @@ definitions.</p>
 <li>U+2047 DOUBLE QUESTION MARK: try adding math</li>
 <li>U+2048 QUESTION EXCLAMATION MARK: try adding mongolian</li>
 <li>U+2049 EXCLAMATION QUESTION MARK: try adding mongolian</li>
-<li>U+205D TRICOLON: try adding one of: meroitic, old-hungarian, meroitic-hieroglyphs, carian</li>
+<li>U+205D TRICOLON: try adding one of: meroitic-hieroglyphs, meroitic, carian, old-hungarian</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
 <li>U+2074 SUPERSCRIPT FOUR: try adding math</li>
 <li>U+2075 SUPERSCRIPT FIVE: try adding math</li>
@@ -15853,8 +15845,8 @@ definitions.</p>
 <li>U+217E SMALL ROMAN NUMERAL FIVE HUNDRED: try adding symbols</li>
 <li>U+217F SMALL ROMAN NUMERAL ONE THOUSAND: try adding symbols</li>
 <li>U+2189 VULGAR FRACTION ZERO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
 <li>U+21CB LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON: try adding math</li>
 <li>U+21CC RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON: try adding math</li>
 <li>U+21CD LEFTWARDS DOUBLE ARROW WITH STROKE: try adding math</li>
@@ -15929,7 +15921,7 @@ definitions.</p>
 <li>U+2287 SUPERSET OF OR EQUAL TO: try adding math</li>
 <li>U+228A SUBSET OF WITH NOT EQUAL TO: try adding math</li>
 <li>U+228B SUPERSET OF WITH NOT EQUAL TO: try adding math</li>
-<li>U+2299 CIRCLED DOT OPERATOR: try adding one of: math, symbols</li>
+<li>U+2299 CIRCLED DOT OPERATOR: try adding one of: symbols, math</li>
 <li>U+22A5 UP TACK: try adding math</li>
 <li>U+22BF RIGHT TRIANGLE: try adding math</li>
 <li>U+2312 ARC: try adding symbols</li>
@@ -15953,8 +15945,8 @@ definitions.</p>
 <li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: mongolian, yi, symbols</li>
 <li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: mongolian, yi, symbols</li>
 <li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: mongolian, yi, symbols</li>
-<li>U+2474 PARENTHESIZED DIGIT ONE: try adding one of: math, symbols</li>
-<li>U+2475 PARENTHESIZED DIGIT TWO: try adding one of: math, symbols</li>
+<li>U+2474 PARENTHESIZED DIGIT ONE: try adding one of: symbols, math</li>
+<li>U+2475 PARENTHESIZED DIGIT TWO: try adding one of: symbols, math</li>
 <li>U+2476 PARENTHESIZED DIGIT THREE: try adding symbols</li>
 <li>U+2477 PARENTHESIZED DIGIT FOUR: try adding symbols</li>
 <li>U+2478 PARENTHESIZED DIGIT FIVE: try adding symbols</li>
@@ -15996,9 +15988,9 @@ definitions.</p>
 <li>U+25A0 BLACK SQUARE: try adding symbols</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
@@ -16009,10 +16001,10 @@ definitions.</p>
 <li>U+2606 WHITE STAR: try adding symbols</li>
 <li>U+2640 FEMALE SIGN: try adding symbols</li>
 <li>U+2642 MALE SIGN: try adding symbols</li>
-<li>U+266A EIGHTH NOTE: try adding one of: music, symbols</li>
-<li>U+266D MUSIC FLAT SIGN: try adding one of: math, music, symbols</li>
-<li>U+266E MUSIC NATURAL SIGN: try adding one of: math, music, symbols</li>
-<li>U+266F MUSIC SHARP SIGN: try adding one of: math, music, symbols</li>
+<li>U+266A EIGHTH NOTE: try adding one of: symbols, music</li>
+<li>U+266D MUSIC FLAT SIGN: try adding one of: symbols, math, music</li>
+<li>U+266E MUSIC NATURAL SIGN: try adding one of: symbols, math, music</li>
+<li>U+266F MUSIC SHARP SIGN: try adding one of: symbols, math, music</li>
 <li>U+2ACB SUBSET OF ABOVE NOT EQUAL TO: try adding math</li>
 <li>U+2ACC SUPERSET OF ABOVE NOT EQUAL TO: try adding math</li>
 <li>U+301F LOW DOUBLE PRIME QUOTATION MARK: not included in any glyphset definition</li>
