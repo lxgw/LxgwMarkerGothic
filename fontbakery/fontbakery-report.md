@@ -200,15 +200,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƴ, Ƴ</td>
-<td align="left">ff_Latn (Fulah) and ff_Latn (Fulah)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ƴ, Ɓ</td>
+<td align="left">ff_Latn (Fulah), fuq_Latn (Central-Eastern Niger Fulfulde) and ff_Latn (Fulah)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, Ƙ, ƴ, Ƴ, ƙ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɓ, ƙ, Ɗ, Ƙ</td>
 <td align="left">ha_Latn (Hausa) and ha_Latn (Hausa)</td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ҡ, Ҡ, ҙ, Ҙ, Ҫ, ҫ</td>
+<td align="left">The following base characters are missing from the font: ҫ, ҡ, Ҡ, Ҙ, ҙ, Ҫ</td>
 <td align="left">ba_Cyrl (Bashkir)</td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ҫ, ӗ, ҫ, Ӗ, Ӑ, ӑ</td>
+<td align="left">The following base characters are missing from the font: ҫ, Ҫ, Ӑ, Ӗ, ӑ, ӗ</td>
 <td align="left">cv_Cyrl (Chuvash)</td>
 </tr>
 <tr>
@@ -276,15 +276,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
-<td align="left">kbd_Cyrl (Kabardian) and ady_Cyrl (Adyghe)</td>
+<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
+<td align="left">kbd_Cyrl (Kabardian), ady_Cyrl (Adyghe), dar_Cyrl (Dargwa), lez_Cyrl (Lezghian) and inh_Cyrl (Ingush)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: пӏ, чӏ, кӏ, гӏ, рхӏ, хӏ, тӏ, цӏ</td>
+<td align="left">The following base characters are missing from the font: пӏ, кӏ, чӏ, рхӏ, тӏ, гӏ, хӏ, цӏ</td>
 <td align="left">ce_Cyrl (Chechen)</td>
 </tr>
 <tr>
@@ -300,15 +300,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
-<td align="left">av_Cyrl (Avaric), dar_Cyrl (Dargwa), lez_Cyrl (Lezghian) and inh_Cyrl (Ingush)</td>
+<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
+<td align="left">av_Cyrl (Avaric)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӵ, ӝ, Ӝ</td>
+<td align="left">The following base characters are missing from the font: Ӝ, ӝ, ӵ</td>
 <td align="left">udm_Cyrl (Udmurt)</td>
 </tr>
 <tr>
@@ -360,7 +360,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꟈ, Ɽ, Ꟈ</td>
+<td align="left">The following base characters are missing from the font: Ɽ, ꟈ, Ꟈ</td>
 <td align="left">mor_Latn (Moro)</td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ꞌ, Ɗ, ꞌ</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ, Ɓ, Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -568,7 +568,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɗ, Ɓ</td>
 <td align="left">kqp_Latn (Kimré)</td>
 </tr>
 <tr>
@@ -577,7 +577,7 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left">maf_Latn (Mafa), jgk_Latn (Gwak), yer_Latn (Tarok), sur_Latn (Mwaghavul), mua_Latn (Mundang), gde_Latn (Gude), mqb_Latn (Mbuko), mzm_Latn (Mumuye), meq_Latn (Merey), bys_Latn (Burak), dbq_Latn (Daba), bwr_Latn (Bura-Pabir), xuo_Latn (Kuo), yay_Latn (Agwagwune), hig_Latn (Kamwe), enn_Latn (Engenni), xed_Latn (Hdi) and ttr_Latn (Tera)</td>
+<td align="left">maf_Latn (Mafa), yer_Latn (Tarok), mua_Latn (Mundang), buc_Latn (Bushi), fuv_Latn (Nigerian Fulfulde), mzm_Latn (Mumuye), gmm_Latn (Gbaya-Mbodomo), yay_Latn (Agwagwune), hig_Latn (Kamwe), enn_Latn (Engenni) and pbi_Latn (Parkwa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -796,8 +796,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ɗ, Ƙ</td>
-<td align="left">tan_Latn (Tangale)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƙ, ƙ, Ɓ</td>
+<td align="left">tan_Latn (Tangale) and wji_Latn (Warji)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -1068,7 +1068,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ˮ, Ʋ, Ɩ, ˗</td>
+<td align="left">The following base characters are missing from the font: Ɩ, ˗, ˮ, Ʋ</td>
 <td align="left">yre_Latn (Yaouré)</td>
 </tr>
 <tr>
@@ -1076,15 +1076,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƴ, ƴ</td>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ɩ̌, Ɩ̃́, Ɩ́, Ʋ̃, Ɲ, Ʋ́, Ɩ̃̂, Ɩ̃, Ʋ̂, Ʋ̃́, Ɩ̂</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ̌, Ɩ̃́, Ʋ̃́, Ɩ̃, Ʋ̃, Ɩ́, Ɩ̃̂, Ɲ, Ʋ̂, Ɩ, Ɩ̂, Ʋ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1276,7 +1268,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɑ̂, Ɑ̀, Ɑ, Ɑ̌</td>
+<td align="left">The following base characters are missing from the font: Ɑ, Ɑ̌, Ɑ̂, Ɑ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1488,8 +1480,16 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ʋ, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɲ, Ʋ</td>
 <td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">jgk_Latn (Gwak), bkc_Latn (Baka, Cameroon/Gabon), sur_Latn (Mwaghavul), gby_Latn (Gbari), gde_Latn (Gude), mqb_Latn (Mbuko), meq_Latn (Merey), cky_Latn (Cakfem-Mushere), gqr_Latn (Gor), cla_Latn (Ron), bys_Latn (Burak), dbq_Latn (Daba), bwr_Latn (Bura-Pabir), xuo_Latn (Kuo), muy_Latn (Muyang), xed_Latn (Hdi) and ttr_Latn (Tera)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -1584,8 +1584,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, Ƴ, ƴ</td>
-<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
+<td align="left">bsc_Latn (Bassari) and cae_Latn (Lehar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -1764,7 +1764,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1856,15 +1856,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɩ, Ʋ</td>
-<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ʋ, Ɩ</td>
+<td align="left">nku_Latn (Kulango, Bouna) and bib_Latn (Bissa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ɣ</td>
 <td align="left">kbp_Latn (Kabiyé)</td>
 </tr>
 <tr>
@@ -1880,8 +1880,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
-<td align="left">nuv_Latn (Nuni, Northern), ktj_Latn (Krumen, Plapo), kye_Latn (Krache), any_Latn (Anyin), kmy_Latn (Koma), kus_Latn (Kusaal), sil_Latn (Sisaala, Tumulung), wob_Latn (Wè Northern), nwb_Latn (Nyabwa), kyf_Latn (Kouya) and kvf_Latn (Kabalai)</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left">nuv_Latn (Nuni, Northern), lor_Latn (Téén), ktj_Latn (Krumen, Plapo), kmy_Latn (Koma), kus_Latn (Kusaal), sil_Latn (Sisaala, Tumulung), sig_Latn (Paasaal), abi_Latn (Abidji), nwb_Latn (Nyabwa), bev_Latn (Bété, Daloa), kyf_Latn (Kouya) and ade_Latn (Adele)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2220,7 +2220,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᶶ, ᵓ, ᵃ, ᵋ, ⁱ, ᶤ, ᵒ, ᵉ, ᵘ</td>
+<td align="left">The following base characters are missing from the font: ᵋ, ᵒ, ᵓ, ᵃ, ᵘ, ᵉ, ᶶ, ⁱ, ᶤ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -2228,15 +2228,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
-<td align="left">muh_Latn (Mündü), log_Latn (Logo), bex_Latn (Jur Modo) and cdr_Latn (Kamuku)</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
+<td align="left">muh_Latn (Mündü), acd_Latn (Gikyode), png_Latn (Pangu), gng_Latn (Ngangam) and bdh_Latn (Baka, DRC/South Sudan)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɩ̃̀, Ɗ, Ɩ́, Ɲ, Ɩ, Ⱳ, Ʋ, Ɩ̃́, Ʋ̃, Ɩ̀, ⱳ, Ƴ, Ɩ̃, Ʋ́, Ʋ̃́, ƴ, Ʋ̃̀, Ʋ̀</td>
+<td align="left">The following base characters are missing from the font: Ʋ̀, Ɩ, Ʋ̃́, Ɩ̃, ƴ, Ɩ̃̀, Ʋ́, Ƴ, ⱳ, Ɩ́, Ɩ̀, Ɓ, Ʋ, Ɗ, Ɲ, Ʋ̃, Ⱳ, Ʋ̃̀, Ɩ̃́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2438,22 +2438,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach tildecomb to u028B when shaping the text 'ʋ̃́'</td>
 <td align="left">pug_Latn (Phuie)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƙ, Ɓ, Ƙ</td>
-<td align="left">wji_Latn (Warji)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left">bkc_Latn (Baka, Cameroon/Gabon), gby_Latn (Gbari), buc_Latn (Bushi), fuv_Latn (Nigerian Fulfulde), cky_Latn (Cakfem-Mushere), gmm_Latn (Gbaya-Mbodomo), gqr_Latn (Gor), cla_Latn (Ron), muy_Latn (Muyang) and pbi_Latn (Parkwa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2724,7 +2708,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: I᷆, E᷅, A᷆, e᷆, O᷆, o᷅, A᷅, o᷆, i᷅, U᷅, U᷆, a᷅, E᷆, u᷅, i᷆, e᷅, I᷅, u᷆, O᷅, a᷆</td>
+<td align="left">The following base characters are missing from the font: u᷆, U᷆, e᷅, i᷅, e᷆, U᷅, o᷅, O᷅, a᷆, O᷆, I᷆, A᷆, A᷅, u᷅, a᷅, E᷅, E᷆, o᷆, i᷆, I᷅</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2736,7 +2720,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ɩ, Ƴ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɩ, Ʋ, Ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2786,14 +2770,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach tildecomb to u0254 when shaping the text 'ɔ̃'</td>
 <td align="left">dgi_Latn (Northern Dagara)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
-<td align="left">lor_Latn (Téén), las_Latn (Lama, Togo), naw_Latn (Nawuri), nko_Latn (Nkonya), gud_Latn (Dida, Yocoboué), mos_Latn (Mossi), sig_Latn (Paasaal), ted_Latn (Krumen, Tepo), abi_Latn (Abidji), bev_Latn (Bété, Daloa) and ade_Latn (Adele)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2888,15 +2864,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
-<td align="left">bav_Latn (Vengo), acd_Latn (Gikyode), did_Latn (Didinga), png_Latn (Pangu), gng_Latn (Ngangam), ndz_Latn (Ndogo) and bdh_Latn (Baka, DRC/South Sudan)</td>
+<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
+<td align="left">bav_Latn (Vengo), did_Latn (Didinga), log_Latn (Logo), bex_Latn (Jur Modo), cdr_Latn (Kamuku) and ndz_Latn (Ndogo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌng, ꞋD, ꞌd, ꞋB, ꞌj, ꞋNG, ꞌb, ꞋJ</td>
+<td align="left">The following base characters are missing from the font: ꞌb, ꞋNG, ꞋJ, ꞋB, ꞌng, ꞌd, ꞋD, ꞌj</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2928,7 +2904,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƙ, ƙ, Ɓ, Ɗ, Ʝ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ƙ, Ʝ, Ɲ, Ɗ</td>
 <td align="left">ikx_Latn (Ik)</td>
 </tr>
 <tr>
@@ -2936,7 +2912,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, ƴ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ƴ, Ɗ</td>
 <td align="left">tnr_Latn (Ménik)</td>
 </tr>
 <tr>
@@ -3748,7 +3724,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƙ, ƙ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɗ, Ɓ</td>
 <td align="left">tal_Latn (Tal)</td>
 </tr>
 <tr>
@@ -3756,7 +3732,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƴ, Ƴ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3766,6 +3742,14 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach u0330 to N when shaping the text 'N̰'</td>
 <td align="left">kyq_Latn (Kenga)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
+<td align="left">kye_Latn (Krache), las_Latn (Lama, Togo), naw_Latn (Nawuri), any_Latn (Anyin), nko_Latn (Nkonya), gud_Latn (Dida, Yocoboué), mos_Latn (Mossi), ted_Latn (Krumen, Tepo), wob_Latn (Wè Northern) and kvf_Latn (Kabalai)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -3832,7 +3816,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3936,7 +3920,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ́, Ɩ, Ʋ̀, Ɩ̀, Ʋ̂, Ɩ́, Ʋ, Ɩ̂</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ́, Ʋ̀, Ɩ́, Ɩ̂, Ɩ̀, Ʋ̂, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4040,7 +4024,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ˀ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ˀ, Ɓ</td>
 <td align="left">giz_Latn (Southern Giziga)</td>
 </tr>
 <tr>
@@ -4078,14 +4062,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u1EE4 when shaping the text 'Ụ́'</td>
 <td align="left">ijs_Latn (Ijo, Southeast)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
-<td align="left">cae_Latn (Lehar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -4160,7 +4136,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃, Ƴ, Ɓ, Ʋ, Ɩ, ƴ, Ʋ̃</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɩ̃, Ʋ, Ʋ̃, ƴ, Ɩ, Ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4200,7 +4176,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̂, Ɩ̀, Ɩ́, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ̀, Ɩ, Ɩ́, Ɩ̂</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4360,7 +4336,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ƴ, Ꞌ, Ɓ, ꞌ</td>
+<td align="left">The following base characters are missing from the font: ƴ, ꞌ, Ƴ, Ɗ, Ɓ, Ꞌ</td>
 <td align="left">mfi_Latn (Wandala)</td>
 </tr>
 <tr>
@@ -4368,7 +4344,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɪ̃, ꞷ, Ꞷ̃, ꞷ̃, Ꞷ, Ɪ</td>
+<td align="left">The following base characters are missing from the font: Ꞷ̃, Ɪ, ꞷ, ꞷ̃, Ɪ̃, Ꞷ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4392,7 +4368,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ʋ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɗ, Ɓ</td>
 <td align="left">bcn_Latn (Bali)</td>
 </tr>
 <tr>
@@ -4652,7 +4628,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ƴ, ƴ</td>
 <td align="left">snf_Latn (Noon)</td>
 </tr>
 <tr>
@@ -4660,7 +4636,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɩ̃</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4700,7 +4676,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: gʷ, Ɣ, Gʷ, kʷ, Kʷ</td>
+<td align="left">The following base characters are missing from the font: Kʷ, Ɣ, kʷ, Gʷ, gʷ</td>
 <td align="left">tzm_Latn (Central Atlas Tamazight)</td>
 </tr>
 <tr>
@@ -4744,7 +4720,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ʋ, Ƒ</td>
+<td align="left">The following base characters are missing from the font: Ƒ, Ɣ, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4800,7 +4776,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɥ̃́, Ɥ̃̀, Ɥ́, Ɥ̀, Ɗ, Ɥ, Ɓ, Ɥ̂</td>
+<td align="left">The following base characters are missing from the font: Ɥ̀, Ɥ́, Ɓ, Ɥ̃̀, Ɥ̃́, Ɥ, Ɗ, Ɥ̂</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5048,7 +5024,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɲ, Ɗ, ƴ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɲ, Ɓ, Ɗ, ƴ</td>
 <td align="left">bsc_Latn_GN (Guinean Bassari)</td>
 </tr>
 <tr>
@@ -5056,7 +5032,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ, Ʋ, Ʋ́</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ́, Ʋ, Ɩ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5232,7 +5208,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ꞌ, Ꞌ</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, Ɗ, Ɓ, ꞌ</td>
 <td align="left">tsw_Latn (Tsishingini)</td>
 </tr>
 <tr>
@@ -5308,7 +5284,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, ƴ, Ƴ, Ɗ, Ɓ, Ƙ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, Ƙ, Ɓ, ƴ, ƙ</td>
 <td align="left">kai_Latn (Karekare)</td>
 </tr>
 <tr>
@@ -5832,7 +5808,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɠ, Ɲ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɠ, Ɓ, Ɲ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5928,7 +5904,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƭ, ƈ, Ɓ, Ɗ, ƴ, Ƴ, ƥ, Ƥ, Ƈ, Ƭ</td>
+<td align="left">The following base characters are missing from the font: ƈ, ƥ, Ƈ, ƭ, ƴ, Ɗ, Ɓ, Ƥ, Ƭ, Ƴ</td>
 <td align="left">srr_Latn (Serer)</td>
 </tr>
 <tr>
@@ -6148,7 +6124,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, Ɦ</td>
+<td align="left">The following base characters are missing from the font: Ɦ, Ɗ, Ɓ</td>
 <td align="left">mcn_Latn (Masana)</td>
 </tr>
 <tr>
@@ -6156,15 +6132,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ꞌ, ꞌ</td>
-<td align="left">kdl_Latn (Tsikimba) and bcw_Latn (Bana)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ꞌ, ꞌ, Ɓ</td>
+<td align="left">kdl_Latn (Tsikimba)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, ˗, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, ˗, Ɩ</td>
 <td align="left">god_Latn (Godié)</td>
 </tr>
 <tr>
@@ -6224,7 +6200,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƒ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ƒ</td>
 <td align="left">avn_Latn (Avatime)</td>
 </tr>
 <tr>
@@ -6240,8 +6216,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɓ, Ɗ</td>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƴ, Ƴ</td>
+<td align="left">fuh_Latn (Fulfulde, Western Niger) and sok_Latn (Sokoro)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -6360,7 +6336,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, Ɲ, Ƴ, ƴ, Ɠ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɠ, Ɓ, Ɲ, Ƴ</td>
 <td align="left">fuf_Latn (Pular)</td>
 </tr>
 <tr>
@@ -6780,8 +6756,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɓ, Ɗ</td>
-<td align="left">hia_Latn (Lamang)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƙ, Ɓ, ƙ</td>
+<td align="left">hia_Latn (Lamang) and pip_Latn (Pero)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -6896,7 +6872,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌb, ꞌy, ꞋB, ꞋY, ꞋW, ꞌd, ꞋD, ꞌw</td>
+<td align="left">The following base characters are missing from the font: ꞋD, ꞋY, ꞌw, ꞋB, ꞌb, ꞌy, ꞌd, ꞋW</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7160,7 +7136,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɗ, ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7176,7 +7152,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ̀, Ɩ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ̀, Ɲ, Ɩ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7336,7 +7312,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ̃́, Ɩ̃, Ʋ, Ɩ, Ʋ́, Ɓ, Ɩ̃́, Ɩ́, Ʋ̃</td>
+<td align="left">The following base characters are missing from the font: Ʋ́, Ʋ̃, Ɩ, Ɓ, Ʋ̃́, Ɩ̃́, Ɩ́, Ʋ, Ɩ̃</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7496,7 +7472,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɦ, Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɦ, Ɓ, Ɗ</td>
 <td align="left">pym_Latn (Pyam)</td>
 </tr>
 <tr>
@@ -7504,7 +7480,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7712,7 +7688,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɲ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7736,11 +7712,11 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: i᷆, i᷇, ɛ᷇, U᷇, ɛ᷆, A᷆, ɔ᷆, e᷇, o᷇, E᷆, A᷇, I᷆, Ɛ᷆, u᷆, Ɓ, U᷆, E᷇, o᷆, a᷇, O᷆, I᷇, a᷆, Ɔ᷇, u᷇, Ɔ᷆, Ɛ᷇, O᷇, ɔ᷇, e᷆</td>
+<td align="left">The following base characters are missing from the font: ɔ᷆, U᷆, E᷆, E᷇, U᷇, I᷇, o᷇, a᷇, Ɛ᷆, i᷆, u᷆, I᷆, Ɛ᷇, ɛ᷇, o᷆, e᷆, O᷆, Ɔ᷇, ɛ᷆, e᷇, i᷇, ɔ᷇, A᷇, Ɔ᷆, u᷇, a᷆, O᷇, Ɓ, A᷆</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following mark characters are missing from the font: ᷆, ᷇</td>
+<td align="left">The following mark characters are missing from the font: ᷇, ᷆</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7828,7 +7804,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ, Ɗ, Ɓ</td>
 <td align="left">bcy_Latn (Bacama)</td>
 </tr>
 <tr>
@@ -7836,7 +7812,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ̃́, Ʋ́, Ɩ́, Ʋ̃, Ɩ̃́, Ɓ, Ɩ̃, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ̃́, Ɩ̃́, Ɩ́, Ɓ, Ʋ, Ʋ́, Ɩ, Ʋ̃, Ɩ̃</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8072,8 +8048,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, Ɗ, ƴ</td>
-<td align="left">fub_Latn (Fulfulde, Adamawa) and sav_Latn (Saafi-Saafi)</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɓ, Ɗ</td>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -8100,7 +8076,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɗy, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɗy, Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8186,14 +8162,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach u0327 to U when shaping the text 'U̧'</td>
 <td align="left">kkj_Latn (Kako)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ɲ</td>
-<td align="left">bib_Latn (Bissa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -8388,7 +8356,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ̂, Ɤ́, Ɤ̏, Ɤ̀, Ɤ̄, Ɯ̏, Ɤ̋, Ɯ̂, Ɯ, Ɯ̄, Ɤ, Ɯ̀, Ɯ́, Ɯ̋</td>
+<td align="left">The following base characters are missing from the font: Ɯ̏, Ɤ̋, Ɯ̄, Ɯ̂, Ɤ, Ɤ̄, Ɯ́, Ɤ̂, Ɯ̀, Ɤ́, Ɤ̀, Ɯ, Ɯ̋, Ɤ̏</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8904,7 +8872,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ́, Ʋ̀, Ɤ́, Ɩ́, Ʋ̂, Ɩ̂, Ɤ, Ɩ̀, Ɤ̀, Ʋ, Ɤ̂</td>
+<td align="left">The following base characters are missing from the font: Ɤ̂, Ɩ̂, Ʋ̀, Ɤ́, Ʋ, Ʋ́, Ɤ, Ɩ, Ɤ̀, Ɩ́, Ʋ̂, Ɩ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9124,7 +9092,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƴ, Ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9196,7 +9164,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: t͟h, T͟H</td>
+<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9224,7 +9192,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9264,7 +9232,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ɩ́</td>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9306,6 +9274,14 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach acutecomb to u01B1 when shaping the text 'Ʊ́'</td>
 <td align="left">aks_Latn (Akeselem)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -9380,7 +9356,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɗ, Ɠ, Ɓ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɓ, Ɠ, Ɲ, Ɗ</td>
 <td align="left">tod_Latn (Toma)</td>
 </tr>
 <tr>
@@ -9764,7 +9740,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, ꞌ, Ɓ, Ɗ, Ꞌ</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ƴ, Ꞌ, ꞌ, Ɓ</td>
 <td align="left">ndv_Latn (Ndut)</td>
 </tr>
 <tr>
@@ -9772,7 +9748,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ƙ, ƙ, Ɓ, Ɗ</td>
 <td align="left">ank_Latn (Goemai)</td>
 </tr>
 <tr>
@@ -9780,7 +9756,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9830,14 +9806,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach acutecomb to itilde when shaping the text 'ĩ́'</td>
 <td align="left">bwj_Latn (Láá Láá Bwamu)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ƴ, Ɓ</td>
-<td align="left">sok_Latn (Sokoro) and fue_Latn (Fulfulde, Borgu)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -10068,6 +10036,14 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ꞌ, Ꞌ</td>
+<td align="left">bcw_Latn (Bana)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach gravecomb to u018F when shaping the text 'Ə̀'</td>
 <td align="left"></td>
 </tr>
@@ -10264,7 +10240,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ˀ, dʸ, ˁ, ʸ, Tʸ, nʸ, tʸ, Dʸ, ʷ, Nʸ</td>
+<td align="left">The following base characters are missing from the font: tʸ, Tʸ, ʸ, Dʸ, ˀ, ˁ, ʷ, Nʸ, nʸ, dʸ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10298,6 +10274,14 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach u0304 to u1E92 when shaping the text 'Ẓ̄'</td>
 <td align="left">zen_Latn (Zenaga (Latin))</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɗ, Ƴ</td>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -10472,7 +10456,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10600,7 +10584,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ, Ɗ, ƴ, Ƴ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ, Ƴ, Ɗ, ƴ</td>
 <td align="left">ffm_Latn (Maasina Fulfulde)</td>
 </tr>
 <tr>
@@ -10608,7 +10592,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɑ́, Ɑ̌, Ɑ̄, Ɑ, Ɑ̀</td>
+<td align="left">The following base characters are missing from the font: Ɑ̄, Ɑ, Ɑ́, Ɑ̌, Ɑ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10796,7 +10780,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃, Ʋ̃, Ƴ, ⱳ, ƴ, Ʋ, Ɩ, Ɓ, Ⱳ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ⱳ, Ɩ̃, Ɩ, Ʋ̃, Ƴ, ⱳ, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10844,7 +10828,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
 <td align="left">bmq_Latn (Bomu)</td>
 </tr>
 <tr>
@@ -10852,7 +10836,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11052,7 +11036,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ɓ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ɣ, Ʋ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11132,15 +11116,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƙ, Ƙ, Ɓ</td>
-<td align="left">pip_Latn (Pero)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11168,7 +11144,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Gʷ, kʷ, Kʷ, gʷ</td>
+<td align="left">The following base characters are missing from the font: Kʷ, Gʷ, Ɣ, kʷ, gʷ</td>
 <td align="left">shi_Latn (Tachelhit (Latin))</td>
 </tr>
 <tr>
@@ -11528,7 +11504,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƒ, Ɣ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ƒ, Ʋ, Ɣ</td>
 <td align="left">wci_Latn (Gbe, Waci)</td>
 </tr>
 <tr>
@@ -11536,7 +11512,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ɓ, Ƴ</td>
 <td align="left">fuc_Latn (Pulaar)</td>
 </tr>
 <tr>
@@ -11544,7 +11520,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƙ, Ɓ, ƙ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƙ, Ƙ</td>
 <td align="left">anc_Latn (Ngas)</td>
 </tr>
 <tr>
@@ -11652,7 +11628,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ɓ, Ƙ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ƙ, Ɓ</td>
 <td align="left">mbu_Latn (Mbula-Bwazza)</td>
 </tr>
 <tr>
@@ -11660,7 +11636,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƭ, ƭ, Ɓ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɣ, ƭ, Ƭ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11816,7 +11792,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ʋ, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ɣ, Ʋ</td>
 <td align="left">aha_Latn (Ahanta)</td>
 </tr>
 <tr>
@@ -11876,7 +11852,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ƙ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɓ</td>
 <td align="left">nin_Latn (Ninzo)</td>
 </tr>
 <tr>
@@ -11892,7 +11868,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƙ, Ƙ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƙ, Ɓ, Ƙ</td>
 <td align="left">wja_Latn (Waja)</td>
 </tr>
 <tr>
@@ -11900,7 +11876,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƙ, ƙ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ƙ, Ɗ, ƙ</td>
 <td align="left">ckl_Latn (Kibaku)</td>
 </tr>
 <tr>
@@ -11908,7 +11884,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̀, Ɩ́, Ʋ̂, Ʋ̀, Ɩ̌, Ʋ, Ɩ̂, Ʋ́, Ɩ, Ʋ̌</td>
+<td align="left">The following base characters are missing from the font: Ʋ̌, Ɩ̂, Ʋ̂, Ʋ, Ɩ, Ɩ́, Ɩ̀, Ɩ̌, Ʋ̀, Ʋ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -15649,7 +15625,7 @@ tonos (U+0384)</p>
 * ⚠️ **WARN** <p>The most common width is 1000 among a set of 36 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-greater, logicalnot, similar, divide, less, u2213, multiply, plusminus, equal, approxequal, minus, plus</p>
+multiply, divide, equal, u2213, less, similar, plusminus, logicalnot, approxequal, minus, greater, plus</p>
  [code: width-outliers]
 
 
@@ -15752,22 +15728,22 @@ subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
 <li>U+02CD MODIFIER LETTER LOW MACRON: try adding lisu</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, todhri, duployan, malayalam, coptic, math, old-permic, hebrew, syriac, tai-le, tifinagh</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, coptic, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, canadian-aboriginal, hebrew, duployan, syriac, tai-le, todhri, old-permic, tifinagh, coptic, malayalam</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030E COMBINING DOUBLE VERTICAL LINE ABOVE: try adding ethiopic</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
-<li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac, duployan</li>
+<li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
@@ -15777,10 +15753,10 @@ definitions.</p>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
 <li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, caucasian-albanian, sunuwar, cherokee, thai, syriac, tifinagh</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, cherokee, thai, tifinagh, caucasian-albanian, sunuwar</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0337 COMBINING SHORT SOLIDUS OVERLAY: not included in any glyphset definition</li>
-<li>U+2010 HYPHEN: try adding one of: kaithi, kayah-li, lisu, coptic, sundanese, syloti-nagri, yi, kharoshthi, arabic, hebrew, cham, sora-sompeng, armenian</li>
+<li>U+2010 HYPHEN: try adding one of: armenian, kaithi, cham, syloti-nagri, hebrew, sundanese, sora-sompeng, kharoshthi, arabic, lisu, kayah-li, yi, coptic</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: try adding math</li>
 <li>U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK: try adding adlam</li>
@@ -15798,7 +15774,7 @@ definitions.</p>
 <li>U+2047 DOUBLE QUESTION MARK: try adding math</li>
 <li>U+2048 QUESTION EXCLAMATION MARK: try adding mongolian</li>
 <li>U+2049 EXCLAMATION QUESTION MARK: try adding mongolian</li>
-<li>U+205D TRICOLON: try adding one of: meroitic-hieroglyphs, old-hungarian, meroitic, carian</li>
+<li>U+205D TRICOLON: try adding one of: carian, old-hungarian, meroitic-hieroglyphs, meroitic</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
 <li>U+2074 SUPERSCRIPT FOUR: try adding math</li>
 <li>U+2075 SUPERSCRIPT FIVE: try adding math</li>
@@ -15957,26 +15933,26 @@ definitions.</p>
 <li>U+22A5 UP TACK: try adding math</li>
 <li>U+22BF RIGHT TRIANGLE: try adding math</li>
 <li>U+2312 ARC: try adding symbols</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, yi, symbols</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, yi, symbols</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, yi, symbols</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, yi, symbols</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2469 CIRCLED NUMBER TEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+246A CIRCLED NUMBER ELEVEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+246B CIRCLED NUMBER TWELVE: try adding one of: mongolian, yi, symbols</li>
-<li>U+246C CIRCLED NUMBER THIRTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+246D CIRCLED NUMBER FOURTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+246E CIRCLED NUMBER FIFTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+246F CIRCLED NUMBER SIXTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2470 CIRCLED NUMBER SEVENTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: mongolian, yi, symbols</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: symbols, yi, mongolian</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: symbols, yi, mongolian</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: symbols, yi, mongolian</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: symbols, yi, mongolian</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2469 CIRCLED NUMBER TEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246A CIRCLED NUMBER ELEVEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246B CIRCLED NUMBER TWELVE: try adding one of: symbols, yi, mongolian</li>
+<li>U+246C CIRCLED NUMBER THIRTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246D CIRCLED NUMBER FOURTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246E CIRCLED NUMBER FIFTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246F CIRCLED NUMBER SIXTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2470 CIRCLED NUMBER SEVENTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: symbols, yi, mongolian</li>
 <li>U+2474 PARENTHESIZED DIGIT ONE: try adding one of: symbols, math</li>
 <li>U+2475 PARENTHESIZED DIGIT TWO: try adding one of: symbols, math</li>
 <li>U+2476 PARENTHESIZED DIGIT THREE: try adding symbols</li>
@@ -16033,10 +16009,10 @@ definitions.</p>
 <li>U+2606 WHITE STAR: try adding symbols</li>
 <li>U+2640 FEMALE SIGN: try adding symbols</li>
 <li>U+2642 MALE SIGN: try adding symbols</li>
-<li>U+266A EIGHTH NOTE: try adding one of: symbols, music</li>
-<li>U+266D MUSIC FLAT SIGN: try adding one of: symbols, math, music</li>
-<li>U+266E MUSIC NATURAL SIGN: try adding one of: symbols, math, music</li>
-<li>U+266F MUSIC SHARP SIGN: try adding one of: symbols, math, music</li>
+<li>U+266A EIGHTH NOTE: try adding one of: music, symbols</li>
+<li>U+266D MUSIC FLAT SIGN: try adding one of: music, symbols, math</li>
+<li>U+266E MUSIC NATURAL SIGN: try adding one of: music, symbols, math</li>
+<li>U+266F MUSIC SHARP SIGN: try adding one of: music, symbols, math</li>
 <li>U+2ACB SUBSET OF ABOVE NOT EQUAL TO: try adding math</li>
 <li>U+2ACC SUPERSET OF ABOVE NOT EQUAL TO: try adding math</li>
 <li>U+301F LOW DOUBLE PRIME QUOTATION MARK: not included in any glyphset definition</li>
