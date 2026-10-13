@@ -87,6 +87,8 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 ## 授权信息
 本字体是基于开源字体 [たぬゴ角](https://tanukifont.com/tanugo/) 改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
+
+> [!NOTE]
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
