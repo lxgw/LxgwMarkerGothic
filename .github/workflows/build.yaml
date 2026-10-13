@@ -1,8 +1,16 @@
 name: Build font and specimen
 
-on: 
-  - push
-  - workflow_dispatch
+permissions:
+  contents: write
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      run_commit_fonts:
+        description: 'Set to true to run the commit-fonts job when manually dispatching'
+        required: false
+        default: 'false'
 
 jobs:
   build:
@@ -30,21 +38,8 @@ jobs:
     - name: gen zip file name
       id: zip-name
       shell: bash
-      # Set the archive name to repo name + "-assets" e.g "MavenPro-assets"
+      # Set the archive name to repo name + "-fonts"
       run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
-
-    # If a new release is cut, use the release tag to auto-bump the source files
-    # - name: Bump release
-    #   if: github.event_name == 'release'
-    #   run: |
-    #     . venv/bin/activate
-    #     SRCS=$(yq e ".sources[]" sources/config.yaml)
-    #     TAG_NAME=${GITHUB_REF/refs\/tags\//}
-    #     echo "Bumping $SRCS to $TAG_NAME"
-    #     for src in $SRCS
-    #     do
-    #       bumpfontversion sources/$src --new-version $TAG_NAME;
-    #     done
 
     - name: Build font
       run: make build
@@ -70,12 +65,6 @@ jobs:
           out
     outputs:
       zip_name: ${{ env.ZIP_NAME }}
-
-  # There are two ways a release can be created: either by pushing a tag, or by
-  # creating a release from the GitHub UI. Pushing a tag does not automatically
-  # create a release, so we have to do that ourselves. However, creating a
-  # release from the GitHub UI *does* push a tag, and we don't want to create
-  # a new release in that case because one already exists!
 
   release:
     name: Create and populate release
@@ -118,3 +107,46 @@ jobs:
       - name: Set release live
         run: |
           gh release edit ${{ github.ref_name }} --draft=false
+
+  commit-fonts:
+    name: Commit built fonts from artifact into repo
+    needs: build
+    runs-on: ubuntu-latest
+    if: >
+      contains(github.ref, 'refs/tags/') || (github.event_name == 'workflow_dispatch' && github.event.inputs.run_commit_fonts == 'true')
+    env:
+      ZIP_NAME: ${{ needs.build.outputs.zip_name }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: ${{ env.ZIP_NAME }}
+          path: temp_artifact
+
+      - name: Copy fonts into fonts/ttf and fonts/gf
+        run: |
+          set -e
+          mkdir -p fonts/ttf fonts/gf
+          if [ -d temp_artifact/fonts/ttf ]; then cp -a temp_artifact/fonts/ttf/* fonts/ttf/ || true; fi
+          if [ -d temp_artifact/fonts/gf ];  then cp -a temp_artifact/fonts/gf/*  fonts/gf/  || true; fi
+          # If only ttf present, also populate fonts/gf for compatibility
+          if [ -d temp_artifact/fonts/ttf ] && [ ! -d temp_artifact/fonts/gf ]; then cp -a temp_artifact/fonts/ttf/* fonts/gf/ || true; fi
+          git status --porcelain
+
+      - name: Commit and push built fonts
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add fonts/ttf fonts/gf || true
+            git commit -m "Add built fonts from artifact ${{ github.ref_name }} [skip ci]" || echo "No changes to commit"
+            git push
+          else
+            echo "No changes to commit"
+          fi
