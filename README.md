@@ -111,7 +111,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - 根据 OFL 1.1「许可与条件」中第 3 条的规定，在制作衍生字体时，未经作者明确的书面授权，字体名称不可使用原有字体的「保留名称」。然而，本字体已经上架 [Google Fonts](https://fonts.google.com)，为配合该平台当时的上架规定，未在 OFL.txt 中声明保留名称。因此，在法律上，本字体的保留名称条款不具强制效力，但是，作者（@lxgw）仍希望基于开源社区的共识与惯例，呼吁衍生字体的名称中避免使用以下字样：**霞鹜**（霞鶩）、**落霞孤鹜**（落霞孤鶩）、**LXGW**，以尊重作者（@lxgw）的笔名及品牌标识。同时，根据第 4 条，未经作者（@lxgw）明确书面授权，本字体的任何衍生字体不得以作者（@lxgw）的名义推广、背书或宣传。
 - 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
