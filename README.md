@@ -132,7 +132,13 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwMarkerGothic.svg)](https://starchart.cc/lxgw/LxgwMarkerGothic)
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwmarkergothic&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwmarkergothic&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwmarkergothic&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwmarkergothic&type=date&legend=top-left" />
+ </picture>
+</a>
 
