@@ -200,15 +200,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, Ɗ, ƴ</td>
-<td align="left">ff_Latn (Fulah) and ff_Latn (Fulah)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, ƴ, Ɓ</td>
+<td align="left">ff_Latn (Fulah), ff_Latn (Fulah) and sav_Latn (Saafi-Saafi)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ƙ, Ɓ, ƙ</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ɓ, Ƴ, Ƙ, Ɗ, ƙ</td>
 <td align="left">ha_Latn (Hausa) and ha_Latn (Hausa)</td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ҡ, Ҫ, Ҙ, ҙ, ҫ, ҡ</td>
+<td align="left">The following base characters are missing from the font: Ҡ, ҫ, Ҫ, Ҙ, ҡ, ҙ</td>
 <td align="left">ba_Cyrl (Bashkir)</td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ҫ, Ӑ, ӑ, Ҫ, Ӗ, ӗ</td>
+<td align="left">The following base characters are missing from the font: Ӗ, ҫ, Ҫ, Ӑ, ӗ, ӑ</td>
 <td align="left">cv_Cyrl (Chuvash)</td>
 </tr>
 <tr>
@@ -276,15 +276,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
-<td align="left">kbd_Cyrl (Kabardian), ady_Cyrl (Adyghe), dar_Cyrl (Dargwa), lez_Cyrl (Lezghian) and inh_Cyrl (Ingush)</td>
+<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
+<td align="left">kbd_Cyrl (Kabardian), dar_Cyrl (Dargwa) and lez_Cyrl (Lezghian)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: тӏ, цӏ, чӏ, хӏ, гӏ, пӏ, рхӏ, кӏ</td>
+<td align="left">The following base characters are missing from the font: тӏ, гӏ, пӏ, чӏ, кӏ, рхӏ, хӏ, цӏ</td>
 <td align="left">ce_Cyrl (Chechen)</td>
 </tr>
 <tr>
@@ -300,15 +300,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ӏ, ӏ</td>
-<td align="left">av_Cyrl (Avaric)</td>
+<td align="left">The following base characters are missing from the font: ӏ, Ӏ</td>
+<td align="left">av_Cyrl (Avaric), ady_Cyrl (Adyghe) and inh_Cyrl (Ingush)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ӵ, Ӝ, ӝ</td>
+<td align="left">The following base characters are missing from the font: ӵ, ӝ, Ӝ</td>
 <td align="left">udm_Cyrl (Udmurt)</td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ҥ, Ҥ</td>
+<td align="left">The following base characters are missing from the font: Ҥ, ҥ</td>
 <td align="left">chm_Cyrl (Mari)</td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ҕ, ҥ</td>
+<td align="left">The following base characters are missing from the font: ҥ, ҕ</td>
 <td align="left">sah_Cyrl (Sakha)</td>
 </tr>
 <tr>
@@ -596,15 +596,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
-<td align="left">naw_Latn (Nawuri), abi_Latn (Abidji), nko_Latn (Nkonya), ted_Latn (Krumen, Tepo), any_Latn (Anyin), sig_Latn (Paasaal), nwb_Latn (Nyabwa), kmy_Latn (Koma), mos_Latn (Mossi), nuv_Latn (Nuni, Northern), kvf_Latn (Kabalai), bev_Latn (Bété, Daloa) and las_Latn (Lama, Togo)</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
+<td align="left">naw_Latn (Nawuri), abi_Latn (Abidji), ade_Latn (Adele), gud_Latn (Dida, Yocoboué), ted_Latn (Krumen, Tepo), kyf_Latn (Kouya), any_Latn (Anyin), nwb_Latn (Nyabwa), kmy_Latn (Koma), lor_Latn (Téén), nuv_Latn (Nuni, Northern), bev_Latn (Bété, Daloa) and las_Latn (Lama, Togo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƙ, Ɗ, Ɓ, ƙ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, ƙ, Ɓ, Ƙ</td>
 <td align="left">pip_Latn (Pero)</td>
 </tr>
 <tr>
@@ -844,7 +844,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ꞌ, ꞌ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ꞌ, Ꞌ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -972,7 +972,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: a᷅, I᷅, E᷅, o᷆, U᷅, A᷆, A᷅, e᷆, I᷆, u᷆, i᷅, o᷅, u᷅, U᷆, O᷅, a᷆, e᷅, E᷆, O᷆, i᷆</td>
+<td align="left">The following base characters are missing from the font: o᷆, I᷆, i᷅, A᷅, u᷆, O᷆, e᷆, O᷅, i᷆, E᷅, a᷅, o᷅, e᷅, a᷆, I᷅, E᷆, U᷆, U᷅, u᷅, A᷆</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1017,14 +1017,14 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
-<td align="left">dbq_Latn (Daba), bkc_Latn (Baka, Cameroon/Gabon), fuv_Latn (Nigerian Fulfulde), gqr_Latn (Gor), bys_Latn (Burak), buc_Latn (Bushi), muy_Latn (Muyang), sur_Latn (Mwaghavul), enn_Latn (Engenni), jgk_Latn (Gwak), cky_Latn (Cakfem-Mushere), meq_Latn (Merey), bwr_Latn (Bura-Pabir), ttr_Latn (Tera), gde_Latn (Gude), xuo_Latn (Kuo), xed_Latn (Hdi) and mqb_Latn (Mbuko)</td>
+<td align="left">dbq_Latn (Daba), mzm_Latn (Mumuye), buc_Latn (Bushi), jgk_Latn (Gwak), pbi_Latn (Parkwa), yer_Latn (Tarok), meq_Latn (Merey), gde_Latn (Gude), yay_Latn (Agwagwune), cla_Latn (Ron) and xuo_Latn (Kuo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƴ, Ƴ</td>
 <td align="left">tnr_Latn (Ménik)</td>
 </tr>
 <tr>
@@ -1032,7 +1032,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɣ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɓ, Ɣ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1329,14 +1329,6 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
-<td align="left">mzm_Latn (Mumuye), gby_Latn (Gbari), gmm_Latn (Gbaya-Mbodomo), pbi_Latn (Parkwa), yer_Latn (Tarok), mua_Latn (Mundang), yay_Latn (Agwagwune), cla_Latn (Ron), maf_Latn (Mafa) and hig_Latn (Kamwe)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1476,7 +1468,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1741,7 +1733,15 @@ fontbakery version: 1.1.0
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: Ɣ, Ɩ</td>
-<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">kpo_Latn (Ikposo) and dop_Latn (Lukpa)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">bkc_Latn (Baka, Cameroon/Gabon), fuv_Latn (Nigerian Fulfulde), gqr_Latn (Gor), gby_Latn (Gbari), bys_Latn (Burak), muy_Latn (Muyang), sur_Latn (Mwaghavul), gmm_Latn (Gbaya-Mbodomo), enn_Latn (Engenni), cky_Latn (Cakfem-Mushere), bwr_Latn (Bura-Pabir), ttr_Latn (Tera), mua_Latn (Mundang), maf_Latn (Mafa), xed_Latn (Hdi), hig_Latn (Kamwe) and mqb_Latn (Mbuko)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -2064,7 +2064,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, ˮ, Ɩ, ˗</td>
+<td align="left">The following base characters are missing from the font: ˮ, Ɩ, ˗, Ʋ</td>
 <td align="left">yre_Latn (Yaouré)</td>
 </tr>
 <tr>
@@ -3204,7 +3204,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ꞌ, Ɗ, ꞌ</td>
+<td align="left">The following base characters are missing from the font: ꞌ, Ɓ, Ꞌ, Ɗ</td>
 <td align="left">bcy_Latn (Bacama)</td>
 </tr>
 <tr>
@@ -3212,16 +3212,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ɣ</td>
-<td align="left">dop_Latn (Lukpa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɦ, Ɓ, Ɗ</td>
-<td align="left">pym_Latn (Pyam) and mcn_Latn (Masana)</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ɦ</td>
+<td align="left">pym_Latn (Pyam)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -3328,7 +3320,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ꞌ, Ꞌ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ꞌ, ꞌ, Ɓ</td>
 <td align="left">bcw_Latn (Bana)</td>
 </tr>
 <tr>
@@ -3360,7 +3352,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Gʷ, Kʷ, kʷ, gʷ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: gʷ, Ɣ, Kʷ, kʷ, Gʷ</td>
 <td align="left">tzm_Latn (Central Atlas Tamazight)</td>
 </tr>
 <tr>
@@ -3520,7 +3512,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɑ̀, Ɑ̌, Ɑ́, Ɑ, Ɑ̄</td>
+<td align="left">The following base characters are missing from the font: Ɑ́, Ɑ̀, Ɑ̄, Ɑ, Ɑ̌</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3656,7 +3648,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƙ, Ƙ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɓ, Ɗ</td>
 <td align="left">tan_Latn (Tangale)</td>
 </tr>
 <tr>
@@ -3708,7 +3700,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɯ̄, Ɯ̀, Ɤ, Ɤ̀, Ɯ̂, Ɤ̂, Ɤ̋, Ɯ̋, Ɤ̏, Ɤ́, Ɯ́, Ɯ̏, Ɤ̄, Ɯ</td>
+<td align="left">The following base characters are missing from the font: Ɤ̂, Ɤ̀, Ɤ̏, Ɤ, Ɯ̄, Ɤ̋, Ɯ̂, Ɤ̄, Ɤ́, Ɯ̋, Ɯ, Ɯ́, Ɯ̏, Ɯ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4096,16 +4088,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
-<td align="left">ade_Latn (Adele), ktj_Latn (Krumen, Plapo), gud_Latn (Dida, Yocoboué), kyf_Latn (Kouya), kus_Latn (Kusaal), sil_Latn (Sisaala, Tumulung), lor_Latn (Téén), wob_Latn (Wè Northern) and kye_Latn (Krache)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
-<td align="left">bex_Latn (Jur Modo), did_Latn (Didinga), log_Latn (Logo), gng_Latn (Ngangam), acd_Latn (Gikyode) and ndz_Latn (Ndogo)</td>
+<td align="left">bex_Latn (Jur Modo), log_Latn (Logo), png_Latn (Pangu), gng_Latn (Ngangam), muh_Latn (Mündü), cdr_Latn (Kamuku) and bav_Latn (Vengo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -4180,7 +4164,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɣ, Ƒ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ƒ, Ʋ, Ɣ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4680,7 +4664,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, ƴ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4704,8 +4688,16 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ɓ, Ƙ</td>
-<td align="left">tal_Latn (Tal) and mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ɗ, Ƙ, Ɓ</td>
+<td align="left">tal_Latn (Tal)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
+<td align="left">did_Latn (Didinga), bdh_Latn (Baka, DRC/South Sudan), acd_Latn (Gikyode) and ndz_Latn (Ndogo)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -4732,7 +4724,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞋB, ꞋY, ꞌy, ꞌw, ꞋD, ꞌb, ꞌd, ꞋW</td>
+<td align="left">The following base characters are missing from the font: ꞋW, ꞋB, ꞌy, ꞌw, ꞌd, ꞌb, ꞋD, ꞋY</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4804,7 +4796,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̃́, Ʋ́, Ɩ, Ʋ̀, Ɓ, ƴ, Ʋ̃, Ɲ, Ʋ, ⱳ, Ƴ, Ɩ̀, Ɩ̃̀, Ʋ̃́, Ɗ, Ⱳ, Ɩ̃, Ʋ̃̀, Ɩ́</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left">nko_Latn (Nkonya), ktj_Latn (Krumen, Plapo), kus_Latn (Kusaal), sig_Latn (Paasaal), sil_Latn (Sisaala, Tumulung), mos_Latn (Mossi), wob_Latn (Wè Northern), kvf_Latn (Kabalai) and kye_Latn (Krache)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɩ̃̀, Ʋ̃, Ɩ̃́, Ɓ, Ɩ̃, Ʋ̃̀, Ɩ, Ʋ̀, Ɩ̀, Ʋ, ƴ, ⱳ, Ⱳ, Ɗ, Ƴ, Ɩ́, Ʋ̃́, Ɲ, Ʋ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5080,8 +5080,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, ƴ, Ɓ</td>
-<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɗ, Ɓ, ƴ</td>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde) and fuh_Latn (Fulfulde, Western Niger)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -5140,8 +5140,16 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƙ, Ƙ, Ɗ</td>
-<td align="left">anc_Latn (Ngas), ank_Latn (Goemai) and wji_Latn (Warji)</td>
+<td align="left">The following base characters are missing from the font: Ƙ, Ɗ, ƙ, Ɓ</td>
+<td align="left">anc_Latn (Ngas)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɦ, Ɗ</td>
+<td align="left">mcn_Latn (Masana)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -5156,7 +5164,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ̃́, Ɓ, Ɩ̃, Ɩ̃́, Ʋ, Ʋ̃, Ɩ́, Ɩ, Ʋ́</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ̃, Ɩ, Ɓ, Ɩ̃́, Ʋ̃, Ɩ́, Ʋ́, Ʋ̃́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5344,16 +5352,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɗ, Ƴ</td>
-<td align="left">sav_Latn (Saafi-Saafi)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɣ</td>
-<td align="left">aha_Latn (Ahanta)</td>
+<td align="left">aha_Latn (Ahanta) and kbp_Latn (Kabiyé)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -5382,14 +5382,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach gravecomb to u1ECC when shaping the text 'Ọ̀'</td>
 <td align="left">ann_Latn (Obolo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ƴ, Ɓ</td>
-<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -5552,15 +5544,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ƴ, Ɓ, Ƴ</td>
-<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ɗ, Ƴ</td>
+<td align="left">bsc_Latn (Bassari) and cae_Latn (Lehar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, Ɲ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5584,7 +5576,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᵽ, Ᵽ</td>
+<td align="left">The following base characters are missing from the font: Ᵽ, ᵽ</td>
 <td align="left">bqj_Latn (Bandial)</td>
 </tr>
 <tr>
@@ -5700,7 +5692,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɩ, Ʋ</td>
 <td align="left">bbo_Latn (Northern Bobo Madaré)</td>
 </tr>
 <tr>
@@ -5796,7 +5788,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, Ɓ, ƴ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɗ, ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5812,15 +5804,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ɗ, Ƙ</td>
-<td align="left">ckl_Latn (Kibaku)</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƙ, Ƙ</td>
+<td align="left">ckl_Latn (Kibaku) and mbu_Latn (Mbula-Bwazza)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞷ, Ɪ̃, Ꞷ̃, Ɪ, ꞷ̃, Ꞷ</td>
+<td align="left">The following base characters are missing from the font: ꞷ, ꞷ̃, Ɪ̃, Ꞷ̃, Ɪ, Ꞷ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5844,15 +5836,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
-<td align="left">png_Latn (Pangu), bdh_Latn (Baka, DRC/South Sudan), muh_Latn (Mündü), cdr_Latn (Kamuku) and bav_Latn (Vengo)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɓ, A᷇, I᷆, e᷇, a᷆, O᷆, A᷆, I᷇, u᷆, u᷇, Ɔ᷇, o᷇, Ɛ᷇, U᷇, U᷆, ɛ᷆, Ɔ᷆, a᷇, E᷇, ɔ᷆, o᷆, e᷆, i᷇, ɔ᷇, O᷇, Ɛ᷆, ɛ᷇, E᷆, i᷆</td>
+<td align="left">The following base characters are missing from the font: Ɛ᷆, E᷇, o᷇, ɛ᷇, ɔ᷆, ɛ᷆, u᷆, U᷇, A᷆, e᷇, O᷆, a᷆, i᷇, Ɛ᷇, I᷇, I᷆, ɔ᷇, u᷇, U᷆, E᷆, A᷇, e᷆, Ɔ᷇, o᷆, a᷇, i᷆, O᷇, Ɓ, Ɔ᷆</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -6196,7 +6180,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ƙ, ƙ, Ɗ, Ɓ</td>
 <td align="left">hia_Latn (Lamang)</td>
 </tr>
 <tr>
@@ -6360,7 +6344,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: dʸ, Nʸ, Tʸ, tʸ, Dʸ, ˀ, nʸ, ˁ, ʷ, ʸ</td>
+<td align="left">The following base characters are missing from the font: dʸ, ˁ, ʷ, Dʸ, ˀ, ʸ, nʸ, tʸ, Tʸ, Nʸ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -6400,7 +6384,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -6764,7 +6748,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ʋ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɗ, Ɓ</td>
 <td align="left">bcn_Latn (Bali)</td>
 </tr>
 <tr>
@@ -6788,7 +6772,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƭ, Ƈ, Ƥ, Ƴ, ƴ, Ɗ, Ɓ, ƥ, ƈ, ƭ</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ƥ, ƥ, ƈ, Ɗ, Ɓ, Ƴ, Ƈ, Ƭ, ƭ</td>
 <td align="left">srr_Latn (Serer)</td>
 </tr>
 <tr>
@@ -6796,7 +6780,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -6884,7 +6868,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7128,8 +7112,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ƴ, Ɗ</td>
-<td align="left">snf_Latn (Noon)</td>
+<td align="left">The following base characters are missing from the font: ƴ, Ƴ, Ɓ, Ɗ</td>
+<td align="left">snf_Latn (Noon) and fuc_Latn (Pulaar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -7160,7 +7144,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɲ, Ƴ, ƴ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ƙ, Ɓ, ƙ, Ɗ</td>
+<td align="left">ank_Latn (Goemai)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, ƴ, Ɓ, Ɲ</td>
 <td align="left">ffm_Latn (Maasina Fulfulde)</td>
 </tr>
 <tr>
@@ -7492,7 +7484,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƙ, Ƙ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ƙ, Ɓ, ƙ</td>
 <td align="left">nin_Latn (Ninzo)</td>
 </tr>
 <tr>
@@ -7552,15 +7544,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɣ, Ɩ</td>
-<td align="left">kbp_Latn (Kabiyé)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ɩ̂, Ʋ̌, Ʋ, Ɩ́, Ɩ̌, Ʋ̂, Ʋ̀, Ʋ́, Ɩ, Ɩ̀</td>
+<td align="left">The following base characters are missing from the font: Ɩ̀, Ʋ̀, Ʋ, Ɩ́, Ɩ, Ʋ̂, Ɩ̂, Ɩ̌, Ʋ́, Ʋ̌</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7780,7 +7764,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƙ, Ɓ, ƙ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƙ, Ƙ</td>
 <td align="left">wja_Latn (Waja)</td>
 </tr>
 <tr>
@@ -7788,7 +7772,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɓ, Ʋ, Ɗ, Ɠ</td>
+<td align="left">The following base characters are missing from the font: Ɲ, Ɠ, Ɗ, Ʋ, Ɓ</td>
 <td align="left">tod_Latn (Toma)</td>
 </tr>
 <tr>
@@ -7796,16 +7780,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ, ƴ, Ƴ</td>
-<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
 <td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ƴ, Ɓ</td>
-<td align="left">fuc_Latn (Pulaar)</td>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -7948,7 +7924,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ʋ̃, Ɩ, Ɓ, Ƴ, Ʋ, Ɩ̃</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɩ̃, Ɩ, Ƴ, ƴ, Ʋ, Ʋ̃</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7988,7 +7964,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, Ɠ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɲ, Ɠ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8096,7 +8072,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8112,7 +8088,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᵉ, ᵃ, ᵋ, ⁱ, ᵓ, ᵘ, ᶶ, ᶤ, ᵒ</td>
+<td align="left">The following base characters are missing from the font: ᶤ, ᵃ, ᵒ, ⁱ, ᵓ, ᵉ, ᵋ, ᵘ, ᶶ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -8164,7 +8140,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ́, Ɩ́, Ʋ, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ʋ, Ɩ, Ʋ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8288,7 +8264,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: Ɣ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8360,7 +8336,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, ƴ, Ƴ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, ƴ, ꞌ, Ꞌ, Ɓ</td>
 <td align="left">mfi_Latn (Wandala)</td>
 </tr>
 <tr>
@@ -8368,7 +8344,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ̂, Ʋ, Ɩ̂, Ɩ, Ʋ́, Ɩ̌, Ʋ̃́, Ɩ̃́, Ɩ̃, Ʋ̃, Ɩ́, Ɲ, Ɩ̃̂</td>
+<td align="left">The following base characters are missing from the font: Ɩ̃, Ɩ̂, Ɩ̌, Ʋ́, Ʋ̂, Ʋ̃́, Ɩ, Ʋ̃, Ɩ́, Ɲ, Ʋ, Ɩ̃̂, Ɩ̃́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8764,7 +8740,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ꞌ, Ꞌ</td>
+<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, Ɗ, Ɓ</td>
 <td align="left">kdl_Latn (Tsikimba)</td>
 </tr>
 <tr>
@@ -8780,7 +8756,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: t͟h, T͟H</td>
+<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -8802,14 +8778,6 @@ fontbakery version: 1.1.0
 <tr>
 <td align="left">Shaper didn't attach u0331 to P when shaping the text 'P̱'</td>
 <td align="left">udu_Latn (Uduk)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
-<td align="left">cae_Latn (Lehar)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -8904,7 +8872,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ƙ, Ɗ, Ɓ, ƙ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ƙ, ƙ, Ɗ, Ɓ</td>
 <td align="left">kai_Latn (Karekare)</td>
 </tr>
 <tr>
@@ -8912,7 +8880,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ɓ, Ƴ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, Ɗ, ƴ</td>
 <td align="left">sok_Latn (Sokoro)</td>
 </tr>
 <tr>
@@ -9028,7 +8996,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ˗, ˮ</td>
+<td align="left">The following base characters are missing from the font: ˮ, ˗</td>
 <td align="left">ati_Latn (Attié)</td>
 </tr>
 <tr>
@@ -9036,7 +9004,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƒ, Ʋ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: Ɣ, Ƒ, Ʋ</td>
 <td align="left">wci_Latn (Gbe, Waci)</td>
 </tr>
 <tr>
@@ -9044,7 +9012,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ꞌ, Ɓ, Ɗ, ꞌ</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, Ɗ, ꞌ, Ɓ</td>
 <td align="left">tsw_Latn (Tsishingini)</td>
 </tr>
 <tr>
@@ -9092,7 +9060,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, Ɗ, Ƴ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƴ, Ɓ, ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9108,7 +9076,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɓ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ɓ, ƴ, Ƴ</td>
 <td align="left">fue_Latn (Fulfulde, Borgu)</td>
 </tr>
 <tr>
@@ -9116,7 +9084,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌj, ꞋJ, ꞌb, ꞌd, ꞋB, ꞋNG, ꞋD, ꞌng</td>
+<td align="left">The following base characters are missing from the font: ꞌj, ꞋB, ꞋNG, ꞌb, ꞋD, ꞌd, ꞌng, ꞋJ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9168,7 +9136,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ̀, Ɩ́, Ɩ, Ɩ̂</td>
+<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ̂, Ɩ̀, Ɩ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9296,7 +9264,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ, Ɤ̂, Ʋ, Ɩ̀, Ɤ̀, Ɤ́, Ʋ̂, Ʋ́, Ʋ̀, Ɩ̂, Ɩ́, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɤ́, Ɩ, Ɤ̂, Ɩ́, Ɤ̀, Ɤ, Ʋ̀, Ʋ́, Ɩ̂, Ɩ̀, Ʋ̂, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9480,7 +9448,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƒ, Ʋ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ƒ</td>
 <td align="left">avn_Latn (Avatime)</td>
 </tr>
 <tr>
@@ -9768,7 +9736,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ʋ, Ɓ, Ɩ́, Ɩ̃́, Ɩ̃, Ʋ̃́, Ʋ̃, Ʋ́</td>
+<td align="left">The following base characters are missing from the font: Ʋ̃, Ɩ, Ɩ́, Ɩ̃, Ɩ̃́, Ɓ, Ʋ, Ʋ́, Ʋ̃́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9872,7 +9840,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: gʷ, Gʷ, Kʷ, kʷ, Ɣ</td>
+<td align="left">The following base characters are missing from the font: Ɣ, Gʷ, gʷ, Kʷ, kʷ</td>
 <td align="left">shi_Latn (Tachelhit (Latin))</td>
 </tr>
 <tr>
@@ -9880,8 +9848,8 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɲ, Ɩ</td>
-<td align="left">bib_Latn (Bissa) and nku_Latn (Kulango, Bouna)</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ɲ</td>
+<td align="left">bib_Latn (Bissa)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
@@ -9944,7 +9912,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɥ, Ɥ́, Ɥ̀, Ɥ̃̀, Ɥ̂, Ɥ̃́, Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ɥ, Ɥ̂, Ɗ, Ɥ̀, Ɥ́, Ɓ, Ɥ̃́, Ɥ̃̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10192,7 +10160,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, ˀ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: ˀ, Ɗ, Ɓ</td>
 <td align="left">giz_Latn (Southern Giziga)</td>
 </tr>
 <tr>
@@ -10200,7 +10168,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ, Ƴ, Ɓ, ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ꞌ, Ƴ, Ɗ, ꞌ, ƴ</td>
 <td align="left">ndv_Latn (Ndut)</td>
 </tr>
 <tr>
@@ -10340,7 +10308,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʝ, ƙ, Ɗ, Ƙ, Ɓ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ƙ, Ʝ, Ɗ, Ɓ, Ɲ, ƙ</td>
 <td align="left">ikx_Latn (Ik)</td>
 </tr>
 <tr>
@@ -10692,7 +10660,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ƴ, ƴ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ƴ, ƴ, Ɗ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10804,7 +10772,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ʋ, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10860,7 +10828,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, ƴ, Ɗ, Ɲ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, ƴ, Ƴ, Ɗ, Ɲ</td>
 <td align="left">bsc_Latn_GN (Guinean Bassari)</td>
 </tr>
 <tr>
@@ -10868,7 +10836,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ˗, Ʋ, Ɩ</td>
+<td align="left">The following base characters are missing from the font: Ɩ, ˗, Ʋ</td>
 <td align="left">god_Latn (Godié)</td>
 </tr>
 <tr>
@@ -10876,7 +10844,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ, Ƴ, ƴ, Ʋ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɩ, Ƴ, Ɓ, ƴ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -10932,7 +10900,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɑ̌, Ɑ̂, Ɑ, Ɑ̀</td>
+<td align="left">The following base characters are missing from the font: Ɑ̀, Ɑ, Ɑ̂, Ɑ̌</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11060,7 +11028,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꞌ, Ꞌ</td>
+<td align="left">The following base characters are missing from the font: Ꞌ, ꞌ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11152,7 +11120,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɩ́, Ɩ, Ʋ́, Ʋ̂, Ʋ̀, Ɩ̂, Ʋ, Ɩ̀</td>
+<td align="left">The following base characters are missing from the font: Ʋ̂, Ɩ, Ɩ̀, Ʋ́, Ɩ́, Ʋ̀, Ɩ̂, Ʋ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11272,7 +11240,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƭ, Ɓ, Ƭ, Ɣ, Ɗ</td>
+<td align="left">The following base characters are missing from the font: Ɗ, Ƭ, ƭ, Ɣ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11352,6 +11320,14 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">The following base characters are missing from the font: Ʋ, Ɲ, Ɩ</td>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach u0331 to e when shaping the text 'e̱'</td>
 <td align="left"></td>
 </tr>
@@ -11416,7 +11392,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɲ, Ƴ, Ɗ, ƴ, Ɠ</td>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɲ, Ɗ, Ɠ, Ƴ, ƴ</td>
 <td align="left">fuf_Latn (Pular)</td>
 </tr>
 <tr>
@@ -11424,7 +11400,15 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɗ, Ɓ</td>
+<td align="left">The following base characters are missing from the font: ƙ, Ɓ, Ɗ, Ƙ</td>
+<td align="left">wji_Latn (Warji)</td>
+</tr>
+<tr>
+<td align="left">Mandatory orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following base characters are missing from the font: Ɓ, Ɗ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -11856,7 +11840,7 @@ fontbakery version: 1.1.0
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɓ, Ɩ, Ʋ, Ʋ̃, ⱳ, Ƴ, Ɩ̃, ƴ, Ⱳ</td>
+<td align="left">The following base characters are missing from the font: ⱳ, Ɩ, ƴ, Ɩ̃, Ⱳ, Ʋ, Ʋ̃, Ƴ, Ɓ</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -15599,7 +15583,7 @@ tonos (U+0384)</p>
 
 
 
-* ⚠️ **WARN** <p>Font file is 3.1Mb; ideally it should be less than 1.0Mb</p>
+* ⚠️ **WARN** <p>Font file is 3.4Mb; ideally it should be less than 1.0Mb</p>
  [code: large-font]
 
 
@@ -15638,7 +15622,7 @@ tonos (U+0384)</p>
 * ⚠️ **WARN** <p>The most common width is 1000 among a set of 36 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 500:
-plus, plusminus, approxequal, less, multiply, u2213, greater, similar, divide, equal, logicalnot, minus</p>
+greater, plus, less, multiply, similar, approxequal, minus, divide, equal, plusminus, u2213, logicalnot</p>
  [code: width-outliers]
 
 
@@ -15741,35 +15725,35 @@ subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
 <li>U+02CD MODIFIER LETTER LOW MACRON: try adding lisu</li>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, malayalam, tai-le, todhri, canadian-aboriginal, coptic, syriac, duployan, math, hebrew, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, coptic, math, todhri, duployan, canadian-aboriginal, syriac, tai-le, old-permic, hebrew, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030E COMBINING DOUBLE VERTICAL LINE ABOVE: try adding ethiopic</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
-<li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac, duployan</li>
+<li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, cherokee, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032C COMBINING CARON BELOW: try adding math</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, syriac, cherokee, sunuwar, caucasian-albanian, tifinagh, gothic</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, caucasian-albanian, syriac, sunuwar, cherokee, tifinagh, thai</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0337 COMBINING SHORT SOLIDUS OVERLAY: not included in any glyphset definition</li>
-<li>U+2010 HYPHEN: try adding one of: kharoshthi, lisu, arabic, sora-sompeng, coptic, sundanese, yi, kaithi, kayah-li, armenian, hebrew, cham, syloti-nagri</li>
+<li>U+2010 HYPHEN: try adding one of: coptic, yi, cham, armenian, syloti-nagri, arabic, kayah-li, sundanese, lisu, kharoshthi, hebrew, sora-sompeng, kaithi</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: try adding math</li>
@@ -15789,7 +15773,7 @@ definitions.</p>
 <li>U+2047 DOUBLE QUESTION MARK: try adding math</li>
 <li>U+2048 QUESTION EXCLAMATION MARK: try adding mongolian</li>
 <li>U+2049 EXCLAMATION QUESTION MARK: try adding mongolian</li>
-<li>U+205D TRICOLON: try adding one of: meroitic, old-hungarian, carian, meroitic-hieroglyphs</li>
+<li>U+205D TRICOLON: try adding one of: old-hungarian, meroitic-hieroglyphs, meroitic, carian</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
 <li>U+2074 SUPERSCRIPT FOUR: try adding math</li>
 <li>U+2075 SUPERSCRIPT FIVE: try adding math</li>
@@ -15870,14 +15854,14 @@ definitions.</p>
 <li>U+217E SMALL ROMAN NUMERAL FIVE HUNDRED: try adding symbols</li>
 <li>U+217F SMALL ROMAN NUMERAL ONE THOUSAND: try adding symbols</li>
 <li>U+2189 VULGAR FRACTION ZERO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+21A8 UP DOWN ARROW WITH BASE: try adding math</li>
 <li>U+21B5 DOWNWARDS ARROW WITH CORNER LEFTWARDS: try adding math</li>
 <li>U+21B9 LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR: try adding math</li>
@@ -15906,7 +15890,7 @@ definitions.</p>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
 <li>U+2213 MINUS-OR-PLUS SIGN: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, tai-tham, yi, symbols</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: tai-tham, yi, symbols, math</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221D PROPORTIONAL TO: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
@@ -15958,7 +15942,7 @@ definitions.</p>
 <li>U+2287 SUPERSET OF OR EQUAL TO: try adding math</li>
 <li>U+228A SUBSET OF WITH NOT EQUAL TO: try adding math</li>
 <li>U+228B SUPERSET OF WITH NOT EQUAL TO: try adding math</li>
-<li>U+2299 CIRCLED DOT OPERATOR: try adding one of: math, symbols</li>
+<li>U+2299 CIRCLED DOT OPERATOR: try adding one of: symbols, math</li>
 <li>U+22A5 UP TACK: try adding math</li>
 <li>U+22BF RIGHT TRIANGLE: try adding math</li>
 <li>U+2302 HOUSE: try adding symbols</li>
@@ -16036,8 +16020,8 @@ definitions.</p>
 <li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: mongolian, yi, symbols</li>
 <li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: mongolian, yi, symbols</li>
 <li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: mongolian, yi, symbols</li>
-<li>U+2474 PARENTHESIZED DIGIT ONE: try adding one of: math, symbols</li>
-<li>U+2475 PARENTHESIZED DIGIT TWO: try adding one of: math, symbols</li>
+<li>U+2474 PARENTHESIZED DIGIT ONE: try adding one of: symbols, math</li>
+<li>U+2475 PARENTHESIZED DIGIT TWO: try adding one of: symbols, math</li>
 <li>U+2476 PARENTHESIZED DIGIT THREE: try adding symbols</li>
 <li>U+2477 PARENTHESIZED DIGIT FOUR: try adding symbols</li>
 <li>U+2478 PARENTHESIZED DIGIT FIVE: try adding symbols</li>
@@ -16177,13 +16161,13 @@ definitions.</p>
 <li>U+25A9 SQUARE WITH DIAGONAL CROSSHATCH FILL: try adding symbols</li>
 <li>U+25AC BLACK RECTANGLE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C8 WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND: try adding symbols</li>
@@ -16217,13 +16201,13 @@ definitions.</p>
 <li>U+2666 BLACK DIAMOND SUIT: try adding symbols</li>
 <li>U+2667 WHITE CLUB SUIT: try adding symbols</li>
 <li>U+2668 HOT SPRINGS: try adding symbols</li>
-<li>U+2669 QUARTER NOTE: try adding one of: music, symbols</li>
-<li>U+266A EIGHTH NOTE: try adding one of: music, symbols</li>
-<li>U+266B BEAMED EIGHTH NOTES: try adding one of: music, symbols</li>
-<li>U+266C BEAMED SIXTEENTH NOTES: try adding one of: music, symbols</li>
-<li>U+266D MUSIC FLAT SIGN: try adding one of: math, music, symbols</li>
-<li>U+266E MUSIC NATURAL SIGN: try adding one of: math, music, symbols</li>
-<li>U+266F MUSIC SHARP SIGN: try adding one of: math, music, symbols</li>
+<li>U+2669 QUARTER NOTE: try adding one of: symbols, music</li>
+<li>U+266A EIGHTH NOTE: try adding one of: symbols, music</li>
+<li>U+266B BEAMED EIGHTH NOTES: try adding one of: symbols, music</li>
+<li>U+266C BEAMED SIXTEENTH NOTES: try adding one of: symbols, music</li>
+<li>U+266D MUSIC FLAT SIGN: try adding one of: symbols, music, math</li>
+<li>U+266E MUSIC NATURAL SIGN: try adding one of: symbols, music, math</li>
+<li>U+266F MUSIC SHARP SIGN: try adding one of: symbols, music, math</li>
 <li>U+2713 CHECK MARK: try adding symbols</li>
 <li>U+2717 BALLOT X: try adding symbols</li>
 <li>U+2776 DINGBAT NEGATIVE CIRCLED DIGIT ONE: try adding symbols</li>
@@ -19406,6 +19390,2356 @@ definitions.</p>
 <li>U+9FEB CJK UNIFIED IDEOGRAPH-9FEB: not included in any glyphset definition</li>
 <li>U+9FEC CJK UNIFIED IDEOGRAPH-9FEC: not included in any glyphset definition</li>
 <li>U+9FED CJK UNIFIED IDEOGRAPH-9FED: not included in any glyphset definition</li>
+<li>U+AC00 HANGUL SYLLABLE GA: try adding korean</li>
+<li>U+AC01 HANGUL SYLLABLE GAG: try adding korean</li>
+<li>U+AC04 HANGUL SYLLABLE GAN: try adding korean</li>
+<li>U+AC07 HANGUL SYLLABLE GAD: try adding korean</li>
+<li>U+AC08 HANGUL SYLLABLE GAL: try adding korean</li>
+<li>U+AC09 HANGUL SYLLABLE GALG: try adding korean</li>
+<li>U+AC0A HANGUL SYLLABLE GALM: try adding korean</li>
+<li>U+AC10 HANGUL SYLLABLE GAM: try adding korean</li>
+<li>U+AC11 HANGUL SYLLABLE GAB: try adding korean</li>
+<li>U+AC12 HANGUL SYLLABLE GABS: try adding korean</li>
+<li>U+AC13 HANGUL SYLLABLE GAS: try adding korean</li>
+<li>U+AC14 HANGUL SYLLABLE GASS: try adding korean</li>
+<li>U+AC15 HANGUL SYLLABLE GANG: try adding korean</li>
+<li>U+AC16 HANGUL SYLLABLE GAJ: try adding korean</li>
+<li>U+AC17 HANGUL SYLLABLE GAC: try adding korean</li>
+<li>U+AC19 HANGUL SYLLABLE GAT: try adding korean</li>
+<li>U+AC1A HANGUL SYLLABLE GAP: try adding korean</li>
+<li>U+AC1B HANGUL SYLLABLE GAH: try adding korean</li>
+<li>U+AC1C HANGUL SYLLABLE GAE: try adding korean</li>
+<li>U+AC1D HANGUL SYLLABLE GAEG: try adding korean</li>
+<li>U+AC20 HANGUL SYLLABLE GAEN: try adding korean</li>
+<li>U+AC24 HANGUL SYLLABLE GAEL: try adding korean</li>
+<li>U+AC2C HANGUL SYLLABLE GAEM: try adding korean</li>
+<li>U+AC2D HANGUL SYLLABLE GAEB: try adding korean</li>
+<li>U+AC2F HANGUL SYLLABLE GAES: try adding korean</li>
+<li>U+AC30 HANGUL SYLLABLE GAESS: try adding korean</li>
+<li>U+AC31 HANGUL SYLLABLE GAENG: try adding korean</li>
+<li>U+AC38 HANGUL SYLLABLE GYA: try adding korean</li>
+<li>U+AC39 HANGUL SYLLABLE GYAG: try adding korean</li>
+<li>U+AC3C HANGUL SYLLABLE GYAN: try adding korean</li>
+<li>U+AC40 HANGUL SYLLABLE GYAL: try adding korean</li>
+<li>U+AC4B HANGUL SYLLABLE GYAS: try adding korean</li>
+<li>U+AC4D HANGUL SYLLABLE GYANG: try adding korean</li>
+<li>U+AC54 HANGUL SYLLABLE GYAE: try adding korean</li>
+<li>U+AC58 HANGUL SYLLABLE GYAEN: try adding korean</li>
+<li>U+AC5C HANGUL SYLLABLE GYAEL: try adding korean</li>
+<li>U+AC70 HANGUL SYLLABLE GEO: try adding korean</li>
+<li>U+AC71 HANGUL SYLLABLE GEOG: try adding korean</li>
+<li>U+AC74 HANGUL SYLLABLE GEON: try adding korean</li>
+<li>U+AC77 HANGUL SYLLABLE GEOD: try adding korean</li>
+<li>U+AC78 HANGUL SYLLABLE GEOL: try adding korean</li>
+<li>U+AC7A HANGUL SYLLABLE GEOLM: try adding korean</li>
+<li>U+AC80 HANGUL SYLLABLE GEOM: try adding korean</li>
+<li>U+AC81 HANGUL SYLLABLE GEOB: try adding korean</li>
+<li>U+AC83 HANGUL SYLLABLE GEOS: try adding korean</li>
+<li>U+AC84 HANGUL SYLLABLE GEOSS: try adding korean</li>
+<li>U+AC85 HANGUL SYLLABLE GEONG: try adding korean</li>
+<li>U+AC86 HANGUL SYLLABLE GEOJ: try adding korean</li>
+<li>U+AC89 HANGUL SYLLABLE GEOT: try adding korean</li>
+<li>U+AC8A HANGUL SYLLABLE GEOP: try adding korean</li>
+<li>U+AC8B HANGUL SYLLABLE GEOH: try adding korean</li>
+<li>U+AC8C HANGUL SYLLABLE GE: try adding korean</li>
+<li>U+AC90 HANGUL SYLLABLE GEN: try adding korean</li>
+<li>U+AC94 HANGUL SYLLABLE GEL: try adding korean</li>
+<li>U+AC9C HANGUL SYLLABLE GEM: try adding korean</li>
+<li>U+AC9D HANGUL SYLLABLE GEB: try adding korean</li>
+<li>U+AC9F HANGUL SYLLABLE GES: try adding korean</li>
+<li>U+ACA0 HANGUL SYLLABLE GESS: try adding korean</li>
+<li>U+ACA1 HANGUL SYLLABLE GENG: try adding korean</li>
+<li>U+ACA8 HANGUL SYLLABLE GYEO: try adding korean</li>
+<li>U+ACA9 HANGUL SYLLABLE GYEOG: try adding korean</li>
+<li>U+ACAA HANGUL SYLLABLE GYEOGG: try adding korean</li>
+<li>U+ACAC HANGUL SYLLABLE GYEON: try adding korean</li>
+<li>U+ACAF HANGUL SYLLABLE GYEOD: try adding korean</li>
+<li>U+ACB0 HANGUL SYLLABLE GYEOL: try adding korean</li>
+<li>U+ACB8 HANGUL SYLLABLE GYEOM: try adding korean</li>
+<li>U+ACB9 HANGUL SYLLABLE GYEOB: try adding korean</li>
+<li>U+ACBB HANGUL SYLLABLE GYEOS: try adding korean</li>
+<li>U+ACBC HANGUL SYLLABLE GYEOSS: try adding korean</li>
+<li>U+ACBD HANGUL SYLLABLE GYEONG: try adding korean</li>
+<li>U+ACC1 HANGUL SYLLABLE GYEOT: try adding korean</li>
+<li>U+ACC4 HANGUL SYLLABLE GYE: try adding korean</li>
+<li>U+ACC8 HANGUL SYLLABLE GYEN: try adding korean</li>
+<li>U+ACCC HANGUL SYLLABLE GYEL: try adding korean</li>
+<li>U+ACD5 HANGUL SYLLABLE GYEB: try adding korean</li>
+<li>U+ACD7 HANGUL SYLLABLE GYES: try adding korean</li>
+<li>U+ACE0 HANGUL SYLLABLE GO: try adding korean</li>
+<li>U+ACE1 HANGUL SYLLABLE GOG: try adding korean</li>
+<li>U+ACE4 HANGUL SYLLABLE GON: try adding korean</li>
+<li>U+ACE7 HANGUL SYLLABLE GOD: try adding korean</li>
+<li>U+ACE8 HANGUL SYLLABLE GOL: try adding korean</li>
+<li>U+ACEA HANGUL SYLLABLE GOLM: try adding korean</li>
+<li>U+ACEC HANGUL SYLLABLE GOLS: try adding korean</li>
+<li>U+ACEF HANGUL SYLLABLE GOLH: try adding korean</li>
+<li>U+ACF0 HANGUL SYLLABLE GOM: try adding korean</li>
+<li>U+ACF1 HANGUL SYLLABLE GOB: try adding korean</li>
+<li>U+ACF3 HANGUL SYLLABLE GOS: try adding korean</li>
+<li>U+ACF5 HANGUL SYLLABLE GONG: try adding korean</li>
+<li>U+ACF6 HANGUL SYLLABLE GOJ: try adding korean</li>
+<li>U+ACFC HANGUL SYLLABLE GWA: try adding korean</li>
+<li>U+ACFD HANGUL SYLLABLE GWAG: try adding korean</li>
+<li>U+AD00 HANGUL SYLLABLE GWAN: try adding korean</li>
+<li>U+AD04 HANGUL SYLLABLE GWAL: try adding korean</li>
+<li>U+AD06 HANGUL SYLLABLE GWALM: try adding korean</li>
+<li>U+AD0C HANGUL SYLLABLE GWAM: try adding korean</li>
+<li>U+AD0D HANGUL SYLLABLE GWAB: try adding korean</li>
+<li>U+AD0F HANGUL SYLLABLE GWAS: try adding korean</li>
+<li>U+AD11 HANGUL SYLLABLE GWANG: try adding korean</li>
+<li>U+AD18 HANGUL SYLLABLE GWAE: try adding korean</li>
+<li>U+AD1C HANGUL SYLLABLE GWAEN: try adding korean</li>
+<li>U+AD20 HANGUL SYLLABLE GWAEL: try adding korean</li>
+<li>U+AD29 HANGUL SYLLABLE GWAEB: try adding korean</li>
+<li>U+AD2C HANGUL SYLLABLE GWAESS: try adding korean</li>
+<li>U+AD2D HANGUL SYLLABLE GWAENG: try adding korean</li>
+<li>U+AD34 HANGUL SYLLABLE GOE: try adding korean</li>
+<li>U+AD35 HANGUL SYLLABLE GOEG: try adding korean</li>
+<li>U+AD38 HANGUL SYLLABLE GOEN: try adding korean</li>
+<li>U+AD3C HANGUL SYLLABLE GOEL: try adding korean</li>
+<li>U+AD44 HANGUL SYLLABLE GOEM: try adding korean</li>
+<li>U+AD45 HANGUL SYLLABLE GOEB: try adding korean</li>
+<li>U+AD47 HANGUL SYLLABLE GOES: try adding korean</li>
+<li>U+AD49 HANGUL SYLLABLE GOENG: try adding korean</li>
+<li>U+AD50 HANGUL SYLLABLE GYO: try adding korean</li>
+<li>U+AD54 HANGUL SYLLABLE GYON: try adding korean</li>
+<li>U+AD58 HANGUL SYLLABLE GYOL: try adding korean</li>
+<li>U+AD61 HANGUL SYLLABLE GYOB: try adding korean</li>
+<li>U+AD63 HANGUL SYLLABLE GYOS: try adding korean</li>
+<li>U+AD6C HANGUL SYLLABLE GU: try adding korean</li>
+<li>U+AD6D HANGUL SYLLABLE GUG: try adding korean</li>
+<li>U+AD70 HANGUL SYLLABLE GUN: try adding korean</li>
+<li>U+AD73 HANGUL SYLLABLE GUD: try adding korean</li>
+<li>U+AD74 HANGUL SYLLABLE GUL: try adding korean</li>
+<li>U+AD75 HANGUL SYLLABLE GULG: try adding korean</li>
+<li>U+AD76 HANGUL SYLLABLE GULM: try adding korean</li>
+<li>U+AD7B HANGUL SYLLABLE GULH: try adding korean</li>
+<li>U+AD7C HANGUL SYLLABLE GUM: try adding korean</li>
+<li>U+AD7D HANGUL SYLLABLE GUB: try adding korean</li>
+<li>U+AD7F HANGUL SYLLABLE GUS: try adding korean</li>
+<li>U+AD81 HANGUL SYLLABLE GUNG: try adding korean</li>
+<li>U+AD82 HANGUL SYLLABLE GUJ: try adding korean</li>
+<li>U+AD88 HANGUL SYLLABLE GWEO: try adding korean</li>
+<li>U+AD89 HANGUL SYLLABLE GWEOG: try adding korean</li>
+<li>U+AD8C HANGUL SYLLABLE GWEON: try adding korean</li>
+<li>U+AD90 HANGUL SYLLABLE GWEOL: try adding korean</li>
+<li>U+AD9C HANGUL SYLLABLE GWEOSS: try adding korean</li>
+<li>U+AD9D HANGUL SYLLABLE GWEONG: try adding korean</li>
+<li>U+ADA4 HANGUL SYLLABLE GWE: try adding korean</li>
+<li>U+ADB7 HANGUL SYLLABLE GWES: try adding korean</li>
+<li>U+ADC0 HANGUL SYLLABLE GWI: try adding korean</li>
+<li>U+ADC1 HANGUL SYLLABLE GWIG: try adding korean</li>
+<li>U+ADC4 HANGUL SYLLABLE GWIN: try adding korean</li>
+<li>U+ADC8 HANGUL SYLLABLE GWIL: try adding korean</li>
+<li>U+ADD0 HANGUL SYLLABLE GWIM: try adding korean</li>
+<li>U+ADD1 HANGUL SYLLABLE GWIB: try adding korean</li>
+<li>U+ADD3 HANGUL SYLLABLE GWIS: try adding korean</li>
+<li>U+ADDC HANGUL SYLLABLE GYU: try adding korean</li>
+<li>U+ADE0 HANGUL SYLLABLE GYUN: try adding korean</li>
+<li>U+ADE4 HANGUL SYLLABLE GYUL: try adding korean</li>
+<li>U+ADF8 HANGUL SYLLABLE GEU: try adding korean</li>
+<li>U+ADF9 HANGUL SYLLABLE GEUG: try adding korean</li>
+<li>U+ADFC HANGUL SYLLABLE GEUN: try adding korean</li>
+<li>U+ADFF HANGUL SYLLABLE GEUD: try adding korean</li>
+<li>U+AE00 HANGUL SYLLABLE GEUL: try adding korean</li>
+<li>U+AE01 HANGUL SYLLABLE GEULG: try adding korean</li>
+<li>U+AE08 HANGUL SYLLABLE GEUM: try adding korean</li>
+<li>U+AE09 HANGUL SYLLABLE GEUB: try adding korean</li>
+<li>U+AE0B HANGUL SYLLABLE GEUS: try adding korean</li>
+<li>U+AE0D HANGUL SYLLABLE GEUNG: try adding korean</li>
+<li>U+AE14 HANGUL SYLLABLE GYI: try adding korean</li>
+<li>U+AE30 HANGUL SYLLABLE GI: try adding korean</li>
+<li>U+AE31 HANGUL SYLLABLE GIG: try adding korean</li>
+<li>U+AE34 HANGUL SYLLABLE GIN: try adding korean</li>
+<li>U+AE37 HANGUL SYLLABLE GID: try adding korean</li>
+<li>U+AE38 HANGUL SYLLABLE GIL: try adding korean</li>
+<li>U+AE3A HANGUL SYLLABLE GILM: try adding korean</li>
+<li>U+AE40 HANGUL SYLLABLE GIM: try adding korean</li>
+<li>U+AE41 HANGUL SYLLABLE GIB: try adding korean</li>
+<li>U+AE43 HANGUL SYLLABLE GIS: try adding korean</li>
+<li>U+AE45 HANGUL SYLLABLE GING: try adding korean</li>
+<li>U+AE46 HANGUL SYLLABLE GIJ: try adding korean</li>
+<li>U+AE4A HANGUL SYLLABLE GIP: try adding korean</li>
+<li>U+AE4C HANGUL SYLLABLE GGA: try adding korean</li>
+<li>U+AE4D HANGUL SYLLABLE GGAG: try adding korean</li>
+<li>U+AE4E HANGUL SYLLABLE GGAGG: try adding korean</li>
+<li>U+AE50 HANGUL SYLLABLE GGAN: try adding korean</li>
+<li>U+AE54 HANGUL SYLLABLE GGAL: try adding korean</li>
+<li>U+AE56 HANGUL SYLLABLE GGALM: try adding korean</li>
+<li>U+AE5C HANGUL SYLLABLE GGAM: try adding korean</li>
+<li>U+AE5D HANGUL SYLLABLE GGAB: try adding korean</li>
+<li>U+AE5F HANGUL SYLLABLE GGAS: try adding korean</li>
+<li>U+AE60 HANGUL SYLLABLE GGASS: try adding korean</li>
+<li>U+AE61 HANGUL SYLLABLE GGANG: try adding korean</li>
+<li>U+AE65 HANGUL SYLLABLE GGAT: try adding korean</li>
+<li>U+AE68 HANGUL SYLLABLE GGAE: try adding korean</li>
+<li>U+AE69 HANGUL SYLLABLE GGAEG: try adding korean</li>
+<li>U+AE6C HANGUL SYLLABLE GGAEN: try adding korean</li>
+<li>U+AE70 HANGUL SYLLABLE GGAEL: try adding korean</li>
+<li>U+AE78 HANGUL SYLLABLE GGAEM: try adding korean</li>
+<li>U+AE79 HANGUL SYLLABLE GGAEB: try adding korean</li>
+<li>U+AE7B HANGUL SYLLABLE GGAES: try adding korean</li>
+<li>U+AE7C HANGUL SYLLABLE GGAESS: try adding korean</li>
+<li>U+AE7D HANGUL SYLLABLE GGAENG: try adding korean</li>
+<li>U+AE84 HANGUL SYLLABLE GGYA: try adding korean</li>
+<li>U+AE85 HANGUL SYLLABLE GGYAG: try adding korean</li>
+<li>U+AE8C HANGUL SYLLABLE GGYAL: try adding korean</li>
+<li>U+AEBC HANGUL SYLLABLE GGEO: try adding korean</li>
+<li>U+AEBD HANGUL SYLLABLE GGEOG: try adding korean</li>
+<li>U+AEBE HANGUL SYLLABLE GGEOGG: try adding korean</li>
+<li>U+AEC0 HANGUL SYLLABLE GGEON: try adding korean</li>
+<li>U+AEC4 HANGUL SYLLABLE GGEOL: try adding korean</li>
+<li>U+AECC HANGUL SYLLABLE GGEOM: try adding korean</li>
+<li>U+AECD HANGUL SYLLABLE GGEOB: try adding korean</li>
+<li>U+AECF HANGUL SYLLABLE GGEOS: try adding korean</li>
+<li>U+AED0 HANGUL SYLLABLE GGEOSS: try adding korean</li>
+<li>U+AED1 HANGUL SYLLABLE GGEONG: try adding korean</li>
+<li>U+AED8 HANGUL SYLLABLE GGE: try adding korean</li>
+<li>U+AED9 HANGUL SYLLABLE GGEG: try adding korean</li>
+<li>U+AEDC HANGUL SYLLABLE GGEN: try adding korean</li>
+<li>U+AEE8 HANGUL SYLLABLE GGEM: try adding korean</li>
+<li>U+AEEB HANGUL SYLLABLE GGES: try adding korean</li>
+<li>U+AEED HANGUL SYLLABLE GGENG: try adding korean</li>
+<li>U+AEF4 HANGUL SYLLABLE GGYEO: try adding korean</li>
+<li>U+AEF8 HANGUL SYLLABLE GGYEON: try adding korean</li>
+<li>U+AEFC HANGUL SYLLABLE GGYEOL: try adding korean</li>
+<li>U+AF07 HANGUL SYLLABLE GGYEOS: try adding korean</li>
+<li>U+AF08 HANGUL SYLLABLE GGYEOSS: try adding korean</li>
+<li>U+AF0D HANGUL SYLLABLE GGYEOT: try adding korean</li>
+<li>U+AF10 HANGUL SYLLABLE GGYE: try adding korean</li>
+<li>U+AF2C HANGUL SYLLABLE GGO: try adding korean</li>
+<li>U+AF2D HANGUL SYLLABLE GGOG: try adding korean</li>
+<li>U+AF30 HANGUL SYLLABLE GGON: try adding korean</li>
+<li>U+AF32 HANGUL SYLLABLE GGONH: try adding korean</li>
+<li>U+AF34 HANGUL SYLLABLE GGOL: try adding korean</li>
+<li>U+AF3C HANGUL SYLLABLE GGOM: try adding korean</li>
+<li>U+AF3D HANGUL SYLLABLE GGOB: try adding korean</li>
+<li>U+AF3F HANGUL SYLLABLE GGOS: try adding korean</li>
+<li>U+AF41 HANGUL SYLLABLE GGONG: try adding korean</li>
+<li>U+AF42 HANGUL SYLLABLE GGOJ: try adding korean</li>
+<li>U+AF43 HANGUL SYLLABLE GGOC: try adding korean</li>
+<li>U+AF48 HANGUL SYLLABLE GGWA: try adding korean</li>
+<li>U+AF49 HANGUL SYLLABLE GGWAG: try adding korean</li>
+<li>U+AF50 HANGUL SYLLABLE GGWAL: try adding korean</li>
+<li>U+AF5C HANGUL SYLLABLE GGWASS: try adding korean</li>
+<li>U+AF5D HANGUL SYLLABLE GGWANG: try adding korean</li>
+<li>U+AF64 HANGUL SYLLABLE GGWAE: try adding korean</li>
+<li>U+AF65 HANGUL SYLLABLE GGWAEG: try adding korean</li>
+<li>U+AF79 HANGUL SYLLABLE GGWAENG: try adding korean</li>
+<li>U+AF80 HANGUL SYLLABLE GGOE: try adding korean</li>
+<li>U+AF84 HANGUL SYLLABLE GGOEN: try adding korean</li>
+<li>U+AF88 HANGUL SYLLABLE GGOEL: try adding korean</li>
+<li>U+AF90 HANGUL SYLLABLE GGOEM: try adding korean</li>
+<li>U+AF91 HANGUL SYLLABLE GGOEB: try adding korean</li>
+<li>U+AF95 HANGUL SYLLABLE GGOENG: try adding korean</li>
+<li>U+AF9C HANGUL SYLLABLE GGYO: try adding korean</li>
+<li>U+AFB8 HANGUL SYLLABLE GGU: try adding korean</li>
+<li>U+AFB9 HANGUL SYLLABLE GGUG: try adding korean</li>
+<li>U+AFBC HANGUL SYLLABLE GGUN: try adding korean</li>
+<li>U+AFC0 HANGUL SYLLABLE GGUL: try adding korean</li>
+<li>U+AFC7 HANGUL SYLLABLE GGULH: try adding korean</li>
+<li>U+AFC8 HANGUL SYLLABLE GGUM: try adding korean</li>
+<li>U+AFC9 HANGUL SYLLABLE GGUB: try adding korean</li>
+<li>U+AFCB HANGUL SYLLABLE GGUS: try adding korean</li>
+<li>U+AFCD HANGUL SYLLABLE GGUNG: try adding korean</li>
+<li>U+AFCE HANGUL SYLLABLE GGUJ: try adding korean</li>
+<li>U+AFD4 HANGUL SYLLABLE GGWEO: try adding korean</li>
+<li>U+AFDC HANGUL SYLLABLE GGWEOL: try adding korean</li>
+<li>U+AFE8 HANGUL SYLLABLE GGWEOSS: try adding korean</li>
+<li>U+AFE9 HANGUL SYLLABLE GGWEONG: try adding korean</li>
+<li>U+AFF0 HANGUL SYLLABLE GGWE: try adding korean</li>
+<li>U+AFF1 HANGUL SYLLABLE GGWEG: try adding korean</li>
+<li>U+AFF4 HANGUL SYLLABLE GGWEN: try adding korean</li>
+<li>U+AFF8 HANGUL SYLLABLE GGWEL: try adding korean</li>
+<li>U+B000 HANGUL SYLLABLE GGWEM: try adding korean</li>
+<li>U+B001 HANGUL SYLLABLE GGWEB: try adding korean</li>
+<li>U+B004 HANGUL SYLLABLE GGWESS: try adding korean</li>
+<li>U+B00C HANGUL SYLLABLE GGWI: try adding korean</li>
+<li>U+B010 HANGUL SYLLABLE GGWIN: try adding korean</li>
+<li>U+B014 HANGUL SYLLABLE GGWIL: try adding korean</li>
+<li>U+B01C HANGUL SYLLABLE GGWIM: try adding korean</li>
+<li>U+B01D HANGUL SYLLABLE GGWIB: try adding korean</li>
+<li>U+B028 HANGUL SYLLABLE GGYU: try adding korean</li>
+<li>U+B044 HANGUL SYLLABLE GGEU: try adding korean</li>
+<li>U+B045 HANGUL SYLLABLE GGEUG: try adding korean</li>
+<li>U+B048 HANGUL SYLLABLE GGEUN: try adding korean</li>
+<li>U+B04A HANGUL SYLLABLE GGEUNH: try adding korean</li>
+<li>U+B04C HANGUL SYLLABLE GGEUL: try adding korean</li>
+<li>U+B04E HANGUL SYLLABLE GGEULM: try adding korean</li>
+<li>U+B053 HANGUL SYLLABLE GGEULH: try adding korean</li>
+<li>U+B054 HANGUL SYLLABLE GGEUM: try adding korean</li>
+<li>U+B055 HANGUL SYLLABLE GGEUB: try adding korean</li>
+<li>U+B057 HANGUL SYLLABLE GGEUS: try adding korean</li>
+<li>U+B059 HANGUL SYLLABLE GGEUNG: try adding korean</li>
+<li>U+B05D HANGUL SYLLABLE GGEUT: try adding korean</li>
+<li>U+B07C HANGUL SYLLABLE GGI: try adding korean</li>
+<li>U+B07D HANGUL SYLLABLE GGIG: try adding korean</li>
+<li>U+B080 HANGUL SYLLABLE GGIN: try adding korean</li>
+<li>U+B084 HANGUL SYLLABLE GGIL: try adding korean</li>
+<li>U+B08C HANGUL SYLLABLE GGIM: try adding korean</li>
+<li>U+B08D HANGUL SYLLABLE GGIB: try adding korean</li>
+<li>U+B08F HANGUL SYLLABLE GGIS: try adding korean</li>
+<li>U+B091 HANGUL SYLLABLE GGING: try adding korean</li>
+<li>U+B098 HANGUL SYLLABLE NA: try adding korean</li>
+<li>U+B099 HANGUL SYLLABLE NAG: try adding korean</li>
+<li>U+B09A HANGUL SYLLABLE NAGG: try adding korean</li>
+<li>U+B09C HANGUL SYLLABLE NAN: try adding korean</li>
+<li>U+B09F HANGUL SYLLABLE NAD: try adding korean</li>
+<li>U+B0A0 HANGUL SYLLABLE NAL: try adding korean</li>
+<li>U+B0A1 HANGUL SYLLABLE NALG: try adding korean</li>
+<li>U+B0A2 HANGUL SYLLABLE NALM: try adding korean</li>
+<li>U+B0A8 HANGUL SYLLABLE NAM: try adding korean</li>
+<li>U+B0A9 HANGUL SYLLABLE NAB: try adding korean</li>
+<li>U+B0AB HANGUL SYLLABLE NAS: try adding korean</li>
+<li>U+B0AC HANGUL SYLLABLE NASS: try adding korean</li>
+<li>U+B0AD HANGUL SYLLABLE NANG: try adding korean</li>
+<li>U+B0AE HANGUL SYLLABLE NAJ: try adding korean</li>
+<li>U+B0AF HANGUL SYLLABLE NAC: try adding korean</li>
+<li>U+B0B1 HANGUL SYLLABLE NAT: try adding korean</li>
+<li>U+B0B3 HANGUL SYLLABLE NAH: try adding korean</li>
+<li>U+B0B4 HANGUL SYLLABLE NAE: try adding korean</li>
+<li>U+B0B5 HANGUL SYLLABLE NAEG: try adding korean</li>
+<li>U+B0B8 HANGUL SYLLABLE NAEN: try adding korean</li>
+<li>U+B0BC HANGUL SYLLABLE NAEL: try adding korean</li>
+<li>U+B0C4 HANGUL SYLLABLE NAEM: try adding korean</li>
+<li>U+B0C5 HANGUL SYLLABLE NAEB: try adding korean</li>
+<li>U+B0C7 HANGUL SYLLABLE NAES: try adding korean</li>
+<li>U+B0C8 HANGUL SYLLABLE NAESS: try adding korean</li>
+<li>U+B0C9 HANGUL SYLLABLE NAENG: try adding korean</li>
+<li>U+B0D0 HANGUL SYLLABLE NYA: try adding korean</li>
+<li>U+B0D1 HANGUL SYLLABLE NYAG: try adding korean</li>
+<li>U+B0D4 HANGUL SYLLABLE NYAN: try adding korean</li>
+<li>U+B0D8 HANGUL SYLLABLE NYAL: try adding korean</li>
+<li>U+B0E0 HANGUL SYLLABLE NYAM: try adding korean</li>
+<li>U+B0E5 HANGUL SYLLABLE NYANG: try adding korean</li>
+<li>U+B108 HANGUL SYLLABLE NEO: try adding korean</li>
+<li>U+B109 HANGUL SYLLABLE NEOG: try adding korean</li>
+<li>U+B10B HANGUL SYLLABLE NEOGS: try adding korean</li>
+<li>U+B10C HANGUL SYLLABLE NEON: try adding korean</li>
+<li>U+B110 HANGUL SYLLABLE NEOL: try adding korean</li>
+<li>U+B112 HANGUL SYLLABLE NEOLM: try adding korean</li>
+<li>U+B113 HANGUL SYLLABLE NEOLB: try adding korean</li>
+<li>U+B118 HANGUL SYLLABLE NEOM: try adding korean</li>
+<li>U+B119 HANGUL SYLLABLE NEOB: try adding korean</li>
+<li>U+B11B HANGUL SYLLABLE NEOS: try adding korean</li>
+<li>U+B11C HANGUL SYLLABLE NEOSS: try adding korean</li>
+<li>U+B11D HANGUL SYLLABLE NEONG: try adding korean</li>
+<li>U+B123 HANGUL SYLLABLE NEOH: try adding korean</li>
+<li>U+B124 HANGUL SYLLABLE NE: try adding korean</li>
+<li>U+B125 HANGUL SYLLABLE NEG: try adding korean</li>
+<li>U+B128 HANGUL SYLLABLE NEN: try adding korean</li>
+<li>U+B12C HANGUL SYLLABLE NEL: try adding korean</li>
+<li>U+B134 HANGUL SYLLABLE NEM: try adding korean</li>
+<li>U+B135 HANGUL SYLLABLE NEB: try adding korean</li>
+<li>U+B137 HANGUL SYLLABLE NES: try adding korean</li>
+<li>U+B138 HANGUL SYLLABLE NESS: try adding korean</li>
+<li>U+B139 HANGUL SYLLABLE NENG: try adding korean</li>
+<li>U+B140 HANGUL SYLLABLE NYEO: try adding korean</li>
+<li>U+B141 HANGUL SYLLABLE NYEOG: try adding korean</li>
+<li>U+B144 HANGUL SYLLABLE NYEON: try adding korean</li>
+<li>U+B148 HANGUL SYLLABLE NYEOL: try adding korean</li>
+<li>U+B150 HANGUL SYLLABLE NYEOM: try adding korean</li>
+<li>U+B151 HANGUL SYLLABLE NYEOB: try adding korean</li>
+<li>U+B154 HANGUL SYLLABLE NYEOSS: try adding korean</li>
+<li>U+B155 HANGUL SYLLABLE NYEONG: try adding korean</li>
+<li>U+B158 HANGUL SYLLABLE NYEOK: try adding korean</li>
+<li>U+B15C HANGUL SYLLABLE NYE: try adding korean</li>
+<li>U+B160 HANGUL SYLLABLE NYEN: try adding korean</li>
+<li>U+B178 HANGUL SYLLABLE NO: try adding korean</li>
+<li>U+B179 HANGUL SYLLABLE NOG: try adding korean</li>
+<li>U+B17C HANGUL SYLLABLE NON: try adding korean</li>
+<li>U+B180 HANGUL SYLLABLE NOL: try adding korean</li>
+<li>U+B182 HANGUL SYLLABLE NOLM: try adding korean</li>
+<li>U+B188 HANGUL SYLLABLE NOM: try adding korean</li>
+<li>U+B189 HANGUL SYLLABLE NOB: try adding korean</li>
+<li>U+B18B HANGUL SYLLABLE NOS: try adding korean</li>
+<li>U+B18D HANGUL SYLLABLE NONG: try adding korean</li>
+<li>U+B192 HANGUL SYLLABLE NOP: try adding korean</li>
+<li>U+B193 HANGUL SYLLABLE NOH: try adding korean</li>
+<li>U+B194 HANGUL SYLLABLE NWA: try adding korean</li>
+<li>U+B198 HANGUL SYLLABLE NWAN: try adding korean</li>
+<li>U+B19C HANGUL SYLLABLE NWAL: try adding korean</li>
+<li>U+B1A8 HANGUL SYLLABLE NWASS: try adding korean</li>
+<li>U+B1CC HANGUL SYLLABLE NOE: try adding korean</li>
+<li>U+B1D0 HANGUL SYLLABLE NOEN: try adding korean</li>
+<li>U+B1D4 HANGUL SYLLABLE NOEL: try adding korean</li>
+<li>U+B1DC HANGUL SYLLABLE NOEM: try adding korean</li>
+<li>U+B1DD HANGUL SYLLABLE NOEB: try adding korean</li>
+<li>U+B1DF HANGUL SYLLABLE NOES: try adding korean</li>
+<li>U+B1E8 HANGUL SYLLABLE NYO: try adding korean</li>
+<li>U+B1E9 HANGUL SYLLABLE NYOG: try adding korean</li>
+<li>U+B1EC HANGUL SYLLABLE NYON: try adding korean</li>
+<li>U+B1F0 HANGUL SYLLABLE NYOL: try adding korean</li>
+<li>U+B1F9 HANGUL SYLLABLE NYOB: try adding korean</li>
+<li>U+B1FB HANGUL SYLLABLE NYOS: try adding korean</li>
+<li>U+B1FD HANGUL SYLLABLE NYONG: try adding korean</li>
+<li>U+B204 HANGUL SYLLABLE NU: try adding korean</li>
+<li>U+B205 HANGUL SYLLABLE NUG: try adding korean</li>
+<li>U+B208 HANGUL SYLLABLE NUN: try adding korean</li>
+<li>U+B20B HANGUL SYLLABLE NUD: try adding korean</li>
+<li>U+B20C HANGUL SYLLABLE NUL: try adding korean</li>
+<li>U+B214 HANGUL SYLLABLE NUM: try adding korean</li>
+<li>U+B215 HANGUL SYLLABLE NUB: try adding korean</li>
+<li>U+B217 HANGUL SYLLABLE NUS: try adding korean</li>
+<li>U+B219 HANGUL SYLLABLE NUNG: try adding korean</li>
+<li>U+B220 HANGUL SYLLABLE NWEO: try adding korean</li>
+<li>U+B234 HANGUL SYLLABLE NWEOSS: try adding korean</li>
+<li>U+B23C HANGUL SYLLABLE NWE: try adding korean</li>
+<li>U+B258 HANGUL SYLLABLE NWI: try adding korean</li>
+<li>U+B25C HANGUL SYLLABLE NWIN: try adding korean</li>
+<li>U+B260 HANGUL SYLLABLE NWIL: try adding korean</li>
+<li>U+B268 HANGUL SYLLABLE NWIM: try adding korean</li>
+<li>U+B269 HANGUL SYLLABLE NWIB: try adding korean</li>
+<li>U+B274 HANGUL SYLLABLE NYU: try adding korean</li>
+<li>U+B275 HANGUL SYLLABLE NYUG: try adding korean</li>
+<li>U+B27C HANGUL SYLLABLE NYUL: try adding korean</li>
+<li>U+B284 HANGUL SYLLABLE NYUM: try adding korean</li>
+<li>U+B285 HANGUL SYLLABLE NYUB: try adding korean</li>
+<li>U+B289 HANGUL SYLLABLE NYUNG: try adding korean</li>
+<li>U+B290 HANGUL SYLLABLE NEU: try adding korean</li>
+<li>U+B291 HANGUL SYLLABLE NEUG: try adding korean</li>
+<li>U+B294 HANGUL SYLLABLE NEUN: try adding korean</li>
+<li>U+B298 HANGUL SYLLABLE NEUL: try adding korean</li>
+<li>U+B299 HANGUL SYLLABLE NEULG: try adding korean</li>
+<li>U+B29A HANGUL SYLLABLE NEULM: try adding korean</li>
+<li>U+B2A0 HANGUL SYLLABLE NEUM: try adding korean</li>
+<li>U+B2A1 HANGUL SYLLABLE NEUB: try adding korean</li>
+<li>U+B2A3 HANGUL SYLLABLE NEUS: try adding korean</li>
+<li>U+B2A5 HANGUL SYLLABLE NEUNG: try adding korean</li>
+<li>U+B2A6 HANGUL SYLLABLE NEUJ: try adding korean</li>
+<li>U+B2AA HANGUL SYLLABLE NEUP: try adding korean</li>
+<li>U+B2AC HANGUL SYLLABLE NYI: try adding korean</li>
+<li>U+B2B0 HANGUL SYLLABLE NYIN: try adding korean</li>
+<li>U+B2B4 HANGUL SYLLABLE NYIL: try adding korean</li>
+<li>U+B2C8 HANGUL SYLLABLE NI: try adding korean</li>
+<li>U+B2C9 HANGUL SYLLABLE NIG: try adding korean</li>
+<li>U+B2CC HANGUL SYLLABLE NIN: try adding korean</li>
+<li>U+B2D0 HANGUL SYLLABLE NIL: try adding korean</li>
+<li>U+B2D2 HANGUL SYLLABLE NILM: try adding korean</li>
+<li>U+B2D8 HANGUL SYLLABLE NIM: try adding korean</li>
+<li>U+B2D9 HANGUL SYLLABLE NIB: try adding korean</li>
+<li>U+B2DB HANGUL SYLLABLE NIS: try adding korean</li>
+<li>U+B2DD HANGUL SYLLABLE NING: try adding korean</li>
+<li>U+B2E2 HANGUL SYLLABLE NIP: try adding korean</li>
+<li>U+B2E4 HANGUL SYLLABLE DA: try adding korean</li>
+<li>U+B2E5 HANGUL SYLLABLE DAG: try adding korean</li>
+<li>U+B2E6 HANGUL SYLLABLE DAGG: try adding korean</li>
+<li>U+B2E8 HANGUL SYLLABLE DAN: try adding korean</li>
+<li>U+B2EB HANGUL SYLLABLE DAD: try adding korean</li>
+<li>U+B2EC HANGUL SYLLABLE DAL: try adding korean</li>
+<li>U+B2ED HANGUL SYLLABLE DALG: try adding korean</li>
+<li>U+B2EE HANGUL SYLLABLE DALM: try adding korean</li>
+<li>U+B2EF HANGUL SYLLABLE DALB: try adding korean</li>
+<li>U+B2F3 HANGUL SYLLABLE DALH: try adding korean</li>
+<li>U+B2F4 HANGUL SYLLABLE DAM: try adding korean</li>
+<li>U+B2F5 HANGUL SYLLABLE DAB: try adding korean</li>
+<li>U+B2F7 HANGUL SYLLABLE DAS: try adding korean</li>
+<li>U+B2F8 HANGUL SYLLABLE DASS: try adding korean</li>
+<li>U+B2F9 HANGUL SYLLABLE DANG: try adding korean</li>
+<li>U+B2FA HANGUL SYLLABLE DAJ: try adding korean</li>
+<li>U+B2FB HANGUL SYLLABLE DAC: try adding korean</li>
+<li>U+B2FF HANGUL SYLLABLE DAH: try adding korean</li>
+<li>U+B300 HANGUL SYLLABLE DAE: try adding korean</li>
+<li>U+B301 HANGUL SYLLABLE DAEG: try adding korean</li>
+<li>U+B304 HANGUL SYLLABLE DAEN: try adding korean</li>
+<li>U+B308 HANGUL SYLLABLE DAEL: try adding korean</li>
+<li>U+B310 HANGUL SYLLABLE DAEM: try adding korean</li>
+<li>U+B311 HANGUL SYLLABLE DAEB: try adding korean</li>
+<li>U+B313 HANGUL SYLLABLE DAES: try adding korean</li>
+<li>U+B314 HANGUL SYLLABLE DAESS: try adding korean</li>
+<li>U+B315 HANGUL SYLLABLE DAENG: try adding korean</li>
+<li>U+B31C HANGUL SYLLABLE DYA: try adding korean</li>
+<li>U+B354 HANGUL SYLLABLE DEO: try adding korean</li>
+<li>U+B355 HANGUL SYLLABLE DEOG: try adding korean</li>
+<li>U+B356 HANGUL SYLLABLE DEOGG: try adding korean</li>
+<li>U+B358 HANGUL SYLLABLE DEON: try adding korean</li>
+<li>U+B35B HANGUL SYLLABLE DEOD: try adding korean</li>
+<li>U+B35C HANGUL SYLLABLE DEOL: try adding korean</li>
+<li>U+B35E HANGUL SYLLABLE DEOLM: try adding korean</li>
+<li>U+B35F HANGUL SYLLABLE DEOLB: try adding korean</li>
+<li>U+B364 HANGUL SYLLABLE DEOM: try adding korean</li>
+<li>U+B365 HANGUL SYLLABLE DEOB: try adding korean</li>
+<li>U+B367 HANGUL SYLLABLE DEOS: try adding korean</li>
+<li>U+B369 HANGUL SYLLABLE DEONG: try adding korean</li>
+<li>U+B36B HANGUL SYLLABLE DEOC: try adding korean</li>
+<li>U+B36E HANGUL SYLLABLE DEOP: try adding korean</li>
+<li>U+B370 HANGUL SYLLABLE DE: try adding korean</li>
+<li>U+B371 HANGUL SYLLABLE DEG: try adding korean</li>
+<li>U+B374 HANGUL SYLLABLE DEN: try adding korean</li>
+<li>U+B378 HANGUL SYLLABLE DEL: try adding korean</li>
+<li>U+B380 HANGUL SYLLABLE DEM: try adding korean</li>
+<li>U+B381 HANGUL SYLLABLE DEB: try adding korean</li>
+<li>U+B383 HANGUL SYLLABLE DES: try adding korean</li>
+<li>U+B384 HANGUL SYLLABLE DESS: try adding korean</li>
+<li>U+B385 HANGUL SYLLABLE DENG: try adding korean</li>
+<li>U+B38C HANGUL SYLLABLE DYEO: try adding korean</li>
+<li>U+B390 HANGUL SYLLABLE DYEON: try adding korean</li>
+<li>U+B394 HANGUL SYLLABLE DYEOL: try adding korean</li>
+<li>U+B3A0 HANGUL SYLLABLE DYEOSS: try adding korean</li>
+<li>U+B3A1 HANGUL SYLLABLE DYEONG: try adding korean</li>
+<li>U+B3A8 HANGUL SYLLABLE DYE: try adding korean</li>
+<li>U+B3AC HANGUL SYLLABLE DYEN: try adding korean</li>
+<li>U+B3C4 HANGUL SYLLABLE DO: try adding korean</li>
+<li>U+B3C5 HANGUL SYLLABLE DOG: try adding korean</li>
+<li>U+B3C8 HANGUL SYLLABLE DON: try adding korean</li>
+<li>U+B3CB HANGUL SYLLABLE DOD: try adding korean</li>
+<li>U+B3CC HANGUL SYLLABLE DOL: try adding korean</li>
+<li>U+B3CE HANGUL SYLLABLE DOLM: try adding korean</li>
+<li>U+B3D0 HANGUL SYLLABLE DOLS: try adding korean</li>
+<li>U+B3D4 HANGUL SYLLABLE DOM: try adding korean</li>
+<li>U+B3D5 HANGUL SYLLABLE DOB: try adding korean</li>
+<li>U+B3D7 HANGUL SYLLABLE DOS: try adding korean</li>
+<li>U+B3D9 HANGUL SYLLABLE DONG: try adding korean</li>
+<li>U+B3DB HANGUL SYLLABLE DOC: try adding korean</li>
+<li>U+B3DD HANGUL SYLLABLE DOT: try adding korean</li>
+<li>U+B3E0 HANGUL SYLLABLE DWA: try adding korean</li>
+<li>U+B3E4 HANGUL SYLLABLE DWAN: try adding korean</li>
+<li>U+B3E8 HANGUL SYLLABLE DWAL: try adding korean</li>
+<li>U+B3FC HANGUL SYLLABLE DWAE: try adding korean</li>
+<li>U+B410 HANGUL SYLLABLE DWAESS: try adding korean</li>
+<li>U+B418 HANGUL SYLLABLE DOE: try adding korean</li>
+<li>U+B41C HANGUL SYLLABLE DOEN: try adding korean</li>
+<li>U+B420 HANGUL SYLLABLE DOEL: try adding korean</li>
+<li>U+B428 HANGUL SYLLABLE DOEM: try adding korean</li>
+<li>U+B429 HANGUL SYLLABLE DOEB: try adding korean</li>
+<li>U+B42B HANGUL SYLLABLE DOES: try adding korean</li>
+<li>U+B434 HANGUL SYLLABLE DYO: try adding korean</li>
+<li>U+B450 HANGUL SYLLABLE DU: try adding korean</li>
+<li>U+B451 HANGUL SYLLABLE DUG: try adding korean</li>
+<li>U+B454 HANGUL SYLLABLE DUN: try adding korean</li>
+<li>U+B458 HANGUL SYLLABLE DUL: try adding korean</li>
+<li>U+B460 HANGUL SYLLABLE DUM: try adding korean</li>
+<li>U+B461 HANGUL SYLLABLE DUB: try adding korean</li>
+<li>U+B463 HANGUL SYLLABLE DUS: try adding korean</li>
+<li>U+B465 HANGUL SYLLABLE DUNG: try adding korean</li>
+<li>U+B46C HANGUL SYLLABLE DWEO: try adding korean</li>
+<li>U+B480 HANGUL SYLLABLE DWEOSS: try adding korean</li>
+<li>U+B488 HANGUL SYLLABLE DWE: try adding korean</li>
+<li>U+B49D HANGUL SYLLABLE DWENG: try adding korean</li>
+<li>U+B4A4 HANGUL SYLLABLE DWI: try adding korean</li>
+<li>U+B4A8 HANGUL SYLLABLE DWIN: try adding korean</li>
+<li>U+B4AC HANGUL SYLLABLE DWIL: try adding korean</li>
+<li>U+B4B5 HANGUL SYLLABLE DWIB: try adding korean</li>
+<li>U+B4B7 HANGUL SYLLABLE DWIS: try adding korean</li>
+<li>U+B4B9 HANGUL SYLLABLE DWING: try adding korean</li>
+<li>U+B4C0 HANGUL SYLLABLE DYU: try adding korean</li>
+<li>U+B4C4 HANGUL SYLLABLE DYUN: try adding korean</li>
+<li>U+B4C8 HANGUL SYLLABLE DYUL: try adding korean</li>
+<li>U+B4D0 HANGUL SYLLABLE DYUM: try adding korean</li>
+<li>U+B4D5 HANGUL SYLLABLE DYUNG: try adding korean</li>
+<li>U+B4DC HANGUL SYLLABLE DEU: try adding korean</li>
+<li>U+B4DD HANGUL SYLLABLE DEUG: try adding korean</li>
+<li>U+B4E0 HANGUL SYLLABLE DEUN: try adding korean</li>
+<li>U+B4E3 HANGUL SYLLABLE DEUD: try adding korean</li>
+<li>U+B4E4 HANGUL SYLLABLE DEUL: try adding korean</li>
+<li>U+B4E6 HANGUL SYLLABLE DEULM: try adding korean</li>
+<li>U+B4EC HANGUL SYLLABLE DEUM: try adding korean</li>
+<li>U+B4ED HANGUL SYLLABLE DEUB: try adding korean</li>
+<li>U+B4EF HANGUL SYLLABLE DEUS: try adding korean</li>
+<li>U+B4F1 HANGUL SYLLABLE DEUNG: try adding korean</li>
+<li>U+B4F8 HANGUL SYLLABLE DYI: try adding korean</li>
+<li>U+B514 HANGUL SYLLABLE DI: try adding korean</li>
+<li>U+B515 HANGUL SYLLABLE DIG: try adding korean</li>
+<li>U+B518 HANGUL SYLLABLE DIN: try adding korean</li>
+<li>U+B51B HANGUL SYLLABLE DID: try adding korean</li>
+<li>U+B51C HANGUL SYLLABLE DIL: try adding korean</li>
+<li>U+B524 HANGUL SYLLABLE DIM: try adding korean</li>
+<li>U+B525 HANGUL SYLLABLE DIB: try adding korean</li>
+<li>U+B527 HANGUL SYLLABLE DIS: try adding korean</li>
+<li>U+B528 HANGUL SYLLABLE DISS: try adding korean</li>
+<li>U+B529 HANGUL SYLLABLE DING: try adding korean</li>
+<li>U+B52A HANGUL SYLLABLE DIJ: try adding korean</li>
+<li>U+B530 HANGUL SYLLABLE DDA: try adding korean</li>
+<li>U+B531 HANGUL SYLLABLE DDAG: try adding korean</li>
+<li>U+B534 HANGUL SYLLABLE DDAN: try adding korean</li>
+<li>U+B538 HANGUL SYLLABLE DDAL: try adding korean</li>
+<li>U+B540 HANGUL SYLLABLE DDAM: try adding korean</li>
+<li>U+B541 HANGUL SYLLABLE DDAB: try adding korean</li>
+<li>U+B543 HANGUL SYLLABLE DDAS: try adding korean</li>
+<li>U+B544 HANGUL SYLLABLE DDASS: try adding korean</li>
+<li>U+B545 HANGUL SYLLABLE DDANG: try adding korean</li>
+<li>U+B54B HANGUL SYLLABLE DDAH: try adding korean</li>
+<li>U+B54C HANGUL SYLLABLE DDAE: try adding korean</li>
+<li>U+B54D HANGUL SYLLABLE DDAEG: try adding korean</li>
+<li>U+B550 HANGUL SYLLABLE DDAEN: try adding korean</li>
+<li>U+B554 HANGUL SYLLABLE DDAEL: try adding korean</li>
+<li>U+B55C HANGUL SYLLABLE DDAEM: try adding korean</li>
+<li>U+B55D HANGUL SYLLABLE DDAEB: try adding korean</li>
+<li>U+B55F HANGUL SYLLABLE DDAES: try adding korean</li>
+<li>U+B560 HANGUL SYLLABLE DDAESS: try adding korean</li>
+<li>U+B561 HANGUL SYLLABLE DDAENG: try adding korean</li>
+<li>U+B5A0 HANGUL SYLLABLE DDEO: try adding korean</li>
+<li>U+B5A1 HANGUL SYLLABLE DDEOG: try adding korean</li>
+<li>U+B5A4 HANGUL SYLLABLE DDEON: try adding korean</li>
+<li>U+B5A8 HANGUL SYLLABLE DDEOL: try adding korean</li>
+<li>U+B5AA HANGUL SYLLABLE DDEOLM: try adding korean</li>
+<li>U+B5AB HANGUL SYLLABLE DDEOLB: try adding korean</li>
+<li>U+B5B0 HANGUL SYLLABLE DDEOM: try adding korean</li>
+<li>U+B5B1 HANGUL SYLLABLE DDEOB: try adding korean</li>
+<li>U+B5B3 HANGUL SYLLABLE DDEOS: try adding korean</li>
+<li>U+B5B4 HANGUL SYLLABLE DDEOSS: try adding korean</li>
+<li>U+B5B5 HANGUL SYLLABLE DDEONG: try adding korean</li>
+<li>U+B5BB HANGUL SYLLABLE DDEOH: try adding korean</li>
+<li>U+B5BC HANGUL SYLLABLE DDE: try adding korean</li>
+<li>U+B5BD HANGUL SYLLABLE DDEG: try adding korean</li>
+<li>U+B5C0 HANGUL SYLLABLE DDEN: try adding korean</li>
+<li>U+B5C4 HANGUL SYLLABLE DDEL: try adding korean</li>
+<li>U+B5CC HANGUL SYLLABLE DDEM: try adding korean</li>
+<li>U+B5CD HANGUL SYLLABLE DDEB: try adding korean</li>
+<li>U+B5CF HANGUL SYLLABLE DDES: try adding korean</li>
+<li>U+B5D0 HANGUL SYLLABLE DDESS: try adding korean</li>
+<li>U+B5D1 HANGUL SYLLABLE DDENG: try adding korean</li>
+<li>U+B5D8 HANGUL SYLLABLE DDYEO: try adding korean</li>
+<li>U+B5EC HANGUL SYLLABLE DDYEOSS: try adding korean</li>
+<li>U+B610 HANGUL SYLLABLE DDO: try adding korean</li>
+<li>U+B611 HANGUL SYLLABLE DDOG: try adding korean</li>
+<li>U+B614 HANGUL SYLLABLE DDON: try adding korean</li>
+<li>U+B618 HANGUL SYLLABLE DDOL: try adding korean</li>
+<li>U+B625 HANGUL SYLLABLE DDONG: try adding korean</li>
+<li>U+B62C HANGUL SYLLABLE DDWA: try adding korean</li>
+<li>U+B634 HANGUL SYLLABLE DDWAL: try adding korean</li>
+<li>U+B648 HANGUL SYLLABLE DDWAE: try adding korean</li>
+<li>U+B664 HANGUL SYLLABLE DDOE: try adding korean</li>
+<li>U+B668 HANGUL SYLLABLE DDOEN: try adding korean</li>
+<li>U+B69C HANGUL SYLLABLE DDU: try adding korean</li>
+<li>U+B69D HANGUL SYLLABLE DDUG: try adding korean</li>
+<li>U+B6A0 HANGUL SYLLABLE DDUN: try adding korean</li>
+<li>U+B6A4 HANGUL SYLLABLE DDUL: try adding korean</li>
+<li>U+B6AB HANGUL SYLLABLE DDULH: try adding korean</li>
+<li>U+B6AC HANGUL SYLLABLE DDUM: try adding korean</li>
+<li>U+B6B1 HANGUL SYLLABLE DDUNG: try adding korean</li>
+<li>U+B6D4 HANGUL SYLLABLE DDWE: try adding korean</li>
+<li>U+B6F0 HANGUL SYLLABLE DDWI: try adding korean</li>
+<li>U+B6F4 HANGUL SYLLABLE DDWIN: try adding korean</li>
+<li>U+B6F8 HANGUL SYLLABLE DDWIL: try adding korean</li>
+<li>U+B700 HANGUL SYLLABLE DDWIM: try adding korean</li>
+<li>U+B701 HANGUL SYLLABLE DDWIB: try adding korean</li>
+<li>U+B705 HANGUL SYLLABLE DDWING: try adding korean</li>
+<li>U+B728 HANGUL SYLLABLE DDEU: try adding korean</li>
+<li>U+B729 HANGUL SYLLABLE DDEUG: try adding korean</li>
+<li>U+B72C HANGUL SYLLABLE DDEUN: try adding korean</li>
+<li>U+B72F HANGUL SYLLABLE DDEUD: try adding korean</li>
+<li>U+B730 HANGUL SYLLABLE DDEUL: try adding korean</li>
+<li>U+B738 HANGUL SYLLABLE DDEUM: try adding korean</li>
+<li>U+B739 HANGUL SYLLABLE DDEUB: try adding korean</li>
+<li>U+B73B HANGUL SYLLABLE DDEUS: try adding korean</li>
+<li>U+B744 HANGUL SYLLABLE DDYI: try adding korean</li>
+<li>U+B748 HANGUL SYLLABLE DDYIN: try adding korean</li>
+<li>U+B74C HANGUL SYLLABLE DDYIL: try adding korean</li>
+<li>U+B754 HANGUL SYLLABLE DDYIM: try adding korean</li>
+<li>U+B755 HANGUL SYLLABLE DDYIB: try adding korean</li>
+<li>U+B760 HANGUL SYLLABLE DDI: try adding korean</li>
+<li>U+B764 HANGUL SYLLABLE DDIN: try adding korean</li>
+<li>U+B768 HANGUL SYLLABLE DDIL: try adding korean</li>
+<li>U+B770 HANGUL SYLLABLE DDIM: try adding korean</li>
+<li>U+B771 HANGUL SYLLABLE DDIB: try adding korean</li>
+<li>U+B773 HANGUL SYLLABLE DDIS: try adding korean</li>
+<li>U+B775 HANGUL SYLLABLE DDING: try adding korean</li>
+<li>U+B77C HANGUL SYLLABLE RA: try adding korean</li>
+<li>U+B77D HANGUL SYLLABLE RAG: try adding korean</li>
+<li>U+B780 HANGUL SYLLABLE RAN: try adding korean</li>
+<li>U+B784 HANGUL SYLLABLE RAL: try adding korean</li>
+<li>U+B78C HANGUL SYLLABLE RAM: try adding korean</li>
+<li>U+B78D HANGUL SYLLABLE RAB: try adding korean</li>
+<li>U+B78F HANGUL SYLLABLE RAS: try adding korean</li>
+<li>U+B790 HANGUL SYLLABLE RASS: try adding korean</li>
+<li>U+B791 HANGUL SYLLABLE RANG: try adding korean</li>
+<li>U+B792 HANGUL SYLLABLE RAJ: try adding korean</li>
+<li>U+B796 HANGUL SYLLABLE RAP: try adding korean</li>
+<li>U+B797 HANGUL SYLLABLE RAH: try adding korean</li>
+<li>U+B798 HANGUL SYLLABLE RAE: try adding korean</li>
+<li>U+B799 HANGUL SYLLABLE RAEG: try adding korean</li>
+<li>U+B79C HANGUL SYLLABLE RAEN: try adding korean</li>
+<li>U+B7A0 HANGUL SYLLABLE RAEL: try adding korean</li>
+<li>U+B7A8 HANGUL SYLLABLE RAEM: try adding korean</li>
+<li>U+B7A9 HANGUL SYLLABLE RAEB: try adding korean</li>
+<li>U+B7AB HANGUL SYLLABLE RAES: try adding korean</li>
+<li>U+B7AC HANGUL SYLLABLE RAESS: try adding korean</li>
+<li>U+B7AD HANGUL SYLLABLE RAENG: try adding korean</li>
+<li>U+B7B4 HANGUL SYLLABLE RYA: try adding korean</li>
+<li>U+B7B5 HANGUL SYLLABLE RYAG: try adding korean</li>
+<li>U+B7B8 HANGUL SYLLABLE RYAN: try adding korean</li>
+<li>U+B7C7 HANGUL SYLLABLE RYAS: try adding korean</li>
+<li>U+B7C9 HANGUL SYLLABLE RYANG: try adding korean</li>
+<li>U+B7EC HANGUL SYLLABLE REO: try adding korean</li>
+<li>U+B7ED HANGUL SYLLABLE REOG: try adding korean</li>
+<li>U+B7F0 HANGUL SYLLABLE REON: try adding korean</li>
+<li>U+B7F4 HANGUL SYLLABLE REOL: try adding korean</li>
+<li>U+B7FC HANGUL SYLLABLE REOM: try adding korean</li>
+<li>U+B7FD HANGUL SYLLABLE REOB: try adding korean</li>
+<li>U+B7FF HANGUL SYLLABLE REOS: try adding korean</li>
+<li>U+B800 HANGUL SYLLABLE REOSS: try adding korean</li>
+<li>U+B801 HANGUL SYLLABLE REONG: try adding korean</li>
+<li>U+B807 HANGUL SYLLABLE REOH: try adding korean</li>
+<li>U+B808 HANGUL SYLLABLE RE: try adding korean</li>
+<li>U+B809 HANGUL SYLLABLE REG: try adding korean</li>
+<li>U+B80C HANGUL SYLLABLE REN: try adding korean</li>
+<li>U+B810 HANGUL SYLLABLE REL: try adding korean</li>
+<li>U+B818 HANGUL SYLLABLE REM: try adding korean</li>
+<li>U+B819 HANGUL SYLLABLE REB: try adding korean</li>
+<li>U+B81B HANGUL SYLLABLE RES: try adding korean</li>
+<li>U+B81D HANGUL SYLLABLE RENG: try adding korean</li>
+<li>U+B824 HANGUL SYLLABLE RYEO: try adding korean</li>
+<li>U+B825 HANGUL SYLLABLE RYEOG: try adding korean</li>
+<li>U+B828 HANGUL SYLLABLE RYEON: try adding korean</li>
+<li>U+B82C HANGUL SYLLABLE RYEOL: try adding korean</li>
+<li>U+B834 HANGUL SYLLABLE RYEOM: try adding korean</li>
+<li>U+B835 HANGUL SYLLABLE RYEOB: try adding korean</li>
+<li>U+B837 HANGUL SYLLABLE RYEOS: try adding korean</li>
+<li>U+B838 HANGUL SYLLABLE RYEOSS: try adding korean</li>
+<li>U+B839 HANGUL SYLLABLE RYEONG: try adding korean</li>
+<li>U+B840 HANGUL SYLLABLE RYE: try adding korean</li>
+<li>U+B844 HANGUL SYLLABLE RYEN: try adding korean</li>
+<li>U+B851 HANGUL SYLLABLE RYEB: try adding korean</li>
+<li>U+B853 HANGUL SYLLABLE RYES: try adding korean</li>
+<li>U+B85C HANGUL SYLLABLE RO: try adding korean</li>
+<li>U+B85D HANGUL SYLLABLE ROG: try adding korean</li>
+<li>U+B860 HANGUL SYLLABLE RON: try adding korean</li>
+<li>U+B864 HANGUL SYLLABLE ROL: try adding korean</li>
+<li>U+B86C HANGUL SYLLABLE ROM: try adding korean</li>
+<li>U+B86D HANGUL SYLLABLE ROB: try adding korean</li>
+<li>U+B86F HANGUL SYLLABLE ROS: try adding korean</li>
+<li>U+B871 HANGUL SYLLABLE RONG: try adding korean</li>
+<li>U+B878 HANGUL SYLLABLE RWA: try adding korean</li>
+<li>U+B87C HANGUL SYLLABLE RWAN: try adding korean</li>
+<li>U+B88D HANGUL SYLLABLE RWANG: try adding korean</li>
+<li>U+B8A8 HANGUL SYLLABLE RWAESS: try adding korean</li>
+<li>U+B8B0 HANGUL SYLLABLE ROE: try adding korean</li>
+<li>U+B8B4 HANGUL SYLLABLE ROEN: try adding korean</li>
+<li>U+B8B8 HANGUL SYLLABLE ROEL: try adding korean</li>
+<li>U+B8C0 HANGUL SYLLABLE ROEM: try adding korean</li>
+<li>U+B8C1 HANGUL SYLLABLE ROEB: try adding korean</li>
+<li>U+B8C3 HANGUL SYLLABLE ROES: try adding korean</li>
+<li>U+B8C5 HANGUL SYLLABLE ROENG: try adding korean</li>
+<li>U+B8CC HANGUL SYLLABLE RYO: try adding korean</li>
+<li>U+B8D0 HANGUL SYLLABLE RYON: try adding korean</li>
+<li>U+B8D4 HANGUL SYLLABLE RYOL: try adding korean</li>
+<li>U+B8DD HANGUL SYLLABLE RYOB: try adding korean</li>
+<li>U+B8DF HANGUL SYLLABLE RYOS: try adding korean</li>
+<li>U+B8E1 HANGUL SYLLABLE RYONG: try adding korean</li>
+<li>U+B8E8 HANGUL SYLLABLE RU: try adding korean</li>
+<li>U+B8E9 HANGUL SYLLABLE RUG: try adding korean</li>
+<li>U+B8EC HANGUL SYLLABLE RUN: try adding korean</li>
+<li>U+B8F0 HANGUL SYLLABLE RUL: try adding korean</li>
+<li>U+B8F8 HANGUL SYLLABLE RUM: try adding korean</li>
+<li>U+B8F9 HANGUL SYLLABLE RUB: try adding korean</li>
+<li>U+B8FB HANGUL SYLLABLE RUS: try adding korean</li>
+<li>U+B8FD HANGUL SYLLABLE RUNG: try adding korean</li>
+<li>U+B904 HANGUL SYLLABLE RWEO: try adding korean</li>
+<li>U+B918 HANGUL SYLLABLE RWEOSS: try adding korean</li>
+<li>U+B920 HANGUL SYLLABLE RWE: try adding korean</li>
+<li>U+B93C HANGUL SYLLABLE RWI: try adding korean</li>
+<li>U+B93D HANGUL SYLLABLE RWIG: try adding korean</li>
+<li>U+B940 HANGUL SYLLABLE RWIN: try adding korean</li>
+<li>U+B944 HANGUL SYLLABLE RWIL: try adding korean</li>
+<li>U+B94C HANGUL SYLLABLE RWIM: try adding korean</li>
+<li>U+B94F HANGUL SYLLABLE RWIS: try adding korean</li>
+<li>U+B951 HANGUL SYLLABLE RWING: try adding korean</li>
+<li>U+B958 HANGUL SYLLABLE RYU: try adding korean</li>
+<li>U+B959 HANGUL SYLLABLE RYUG: try adding korean</li>
+<li>U+B95C HANGUL SYLLABLE RYUN: try adding korean</li>
+<li>U+B960 HANGUL SYLLABLE RYUL: try adding korean</li>
+<li>U+B968 HANGUL SYLLABLE RYUM: try adding korean</li>
+<li>U+B969 HANGUL SYLLABLE RYUB: try adding korean</li>
+<li>U+B96B HANGUL SYLLABLE RYUS: try adding korean</li>
+<li>U+B96D HANGUL SYLLABLE RYUNG: try adding korean</li>
+<li>U+B974 HANGUL SYLLABLE REU: try adding korean</li>
+<li>U+B975 HANGUL SYLLABLE REUG: try adding korean</li>
+<li>U+B978 HANGUL SYLLABLE REUN: try adding korean</li>
+<li>U+B97C HANGUL SYLLABLE REUL: try adding korean</li>
+<li>U+B984 HANGUL SYLLABLE REUM: try adding korean</li>
+<li>U+B985 HANGUL SYLLABLE REUB: try adding korean</li>
+<li>U+B987 HANGUL SYLLABLE REUS: try adding korean</li>
+<li>U+B989 HANGUL SYLLABLE REUNG: try adding korean</li>
+<li>U+B98A HANGUL SYLLABLE REUJ: try adding korean</li>
+<li>U+B98D HANGUL SYLLABLE REUT: try adding korean</li>
+<li>U+B98E HANGUL SYLLABLE REUP: try adding korean</li>
+<li>U+B9AC HANGUL SYLLABLE RI: try adding korean</li>
+<li>U+B9AD HANGUL SYLLABLE RIG: try adding korean</li>
+<li>U+B9B0 HANGUL SYLLABLE RIN: try adding korean</li>
+<li>U+B9B4 HANGUL SYLLABLE RIL: try adding korean</li>
+<li>U+B9BC HANGUL SYLLABLE RIM: try adding korean</li>
+<li>U+B9BD HANGUL SYLLABLE RIB: try adding korean</li>
+<li>U+B9BF HANGUL SYLLABLE RIS: try adding korean</li>
+<li>U+B9C1 HANGUL SYLLABLE RING: try adding korean</li>
+<li>U+B9C8 HANGUL SYLLABLE MA: try adding korean</li>
+<li>U+B9C9 HANGUL SYLLABLE MAG: try adding korean</li>
+<li>U+B9CC HANGUL SYLLABLE MAN: try adding korean</li>
+<li>U+B9CE HANGUL SYLLABLE MANH: try adding korean</li>
+<li>U+B9CF HANGUL SYLLABLE MAD: try adding korean</li>
+<li>U+B9D0 HANGUL SYLLABLE MAL: try adding korean</li>
+<li>U+B9D1 HANGUL SYLLABLE MALG: try adding korean</li>
+<li>U+B9D2 HANGUL SYLLABLE MALM: try adding korean</li>
+<li>U+B9D8 HANGUL SYLLABLE MAM: try adding korean</li>
+<li>U+B9D9 HANGUL SYLLABLE MAB: try adding korean</li>
+<li>U+B9DB HANGUL SYLLABLE MAS: try adding korean</li>
+<li>U+B9DD HANGUL SYLLABLE MANG: try adding korean</li>
+<li>U+B9DE HANGUL SYLLABLE MAJ: try adding korean</li>
+<li>U+B9E1 HANGUL SYLLABLE MAT: try adding korean</li>
+<li>U+B9E3 HANGUL SYLLABLE MAH: try adding korean</li>
+<li>U+B9E4 HANGUL SYLLABLE MAE: try adding korean</li>
+<li>U+B9E5 HANGUL SYLLABLE MAEG: try adding korean</li>
+<li>U+B9E8 HANGUL SYLLABLE MAEN: try adding korean</li>
+<li>U+B9EC HANGUL SYLLABLE MAEL: try adding korean</li>
+<li>U+B9F4 HANGUL SYLLABLE MAEM: try adding korean</li>
+<li>U+B9F5 HANGUL SYLLABLE MAEB: try adding korean</li>
+<li>U+B9F7 HANGUL SYLLABLE MAES: try adding korean</li>
+<li>U+B9F8 HANGUL SYLLABLE MAESS: try adding korean</li>
+<li>U+B9F9 HANGUL SYLLABLE MAENG: try adding korean</li>
+<li>U+B9FA HANGUL SYLLABLE MAEJ: try adding korean</li>
+<li>U+BA00 HANGUL SYLLABLE MYA: try adding korean</li>
+<li>U+BA01 HANGUL SYLLABLE MYAG: try adding korean</li>
+<li>U+BA08 HANGUL SYLLABLE MYAL: try adding korean</li>
+<li>U+BA15 HANGUL SYLLABLE MYANG: try adding korean</li>
+<li>U+BA38 HANGUL SYLLABLE MEO: try adding korean</li>
+<li>U+BA39 HANGUL SYLLABLE MEOG: try adding korean</li>
+<li>U+BA3C HANGUL SYLLABLE MEON: try adding korean</li>
+<li>U+BA40 HANGUL SYLLABLE MEOL: try adding korean</li>
+<li>U+BA42 HANGUL SYLLABLE MEOLM: try adding korean</li>
+<li>U+BA48 HANGUL SYLLABLE MEOM: try adding korean</li>
+<li>U+BA49 HANGUL SYLLABLE MEOB: try adding korean</li>
+<li>U+BA4B HANGUL SYLLABLE MEOS: try adding korean</li>
+<li>U+BA4D HANGUL SYLLABLE MEONG: try adding korean</li>
+<li>U+BA4E HANGUL SYLLABLE MEOJ: try adding korean</li>
+<li>U+BA53 HANGUL SYLLABLE MEOH: try adding korean</li>
+<li>U+BA54 HANGUL SYLLABLE ME: try adding korean</li>
+<li>U+BA55 HANGUL SYLLABLE MEG: try adding korean</li>
+<li>U+BA58 HANGUL SYLLABLE MEN: try adding korean</li>
+<li>U+BA5C HANGUL SYLLABLE MEL: try adding korean</li>
+<li>U+BA64 HANGUL SYLLABLE MEM: try adding korean</li>
+<li>U+BA65 HANGUL SYLLABLE MEB: try adding korean</li>
+<li>U+BA67 HANGUL SYLLABLE MES: try adding korean</li>
+<li>U+BA68 HANGUL SYLLABLE MESS: try adding korean</li>
+<li>U+BA69 HANGUL SYLLABLE MENG: try adding korean</li>
+<li>U+BA70 HANGUL SYLLABLE MYEO: try adding korean</li>
+<li>U+BA71 HANGUL SYLLABLE MYEOG: try adding korean</li>
+<li>U+BA74 HANGUL SYLLABLE MYEON: try adding korean</li>
+<li>U+BA78 HANGUL SYLLABLE MYEOL: try adding korean</li>
+<li>U+BA83 HANGUL SYLLABLE MYEOS: try adding korean</li>
+<li>U+BA84 HANGUL SYLLABLE MYEOSS: try adding korean</li>
+<li>U+BA85 HANGUL SYLLABLE MYEONG: try adding korean</li>
+<li>U+BA87 HANGUL SYLLABLE MYEOC: try adding korean</li>
+<li>U+BA8C HANGUL SYLLABLE MYE: try adding korean</li>
+<li>U+BAA8 HANGUL SYLLABLE MO: try adding korean</li>
+<li>U+BAA9 HANGUL SYLLABLE MOG: try adding korean</li>
+<li>U+BAAB HANGUL SYLLABLE MOGS: try adding korean</li>
+<li>U+BAAC HANGUL SYLLABLE MON: try adding korean</li>
+<li>U+BAB0 HANGUL SYLLABLE MOL: try adding korean</li>
+<li>U+BAB2 HANGUL SYLLABLE MOLM: try adding korean</li>
+<li>U+BAB8 HANGUL SYLLABLE MOM: try adding korean</li>
+<li>U+BAB9 HANGUL SYLLABLE MOB: try adding korean</li>
+<li>U+BABB HANGUL SYLLABLE MOS: try adding korean</li>
+<li>U+BABD HANGUL SYLLABLE MONG: try adding korean</li>
+<li>U+BAC4 HANGUL SYLLABLE MWA: try adding korean</li>
+<li>U+BAC8 HANGUL SYLLABLE MWAN: try adding korean</li>
+<li>U+BAD8 HANGUL SYLLABLE MWASS: try adding korean</li>
+<li>U+BAD9 HANGUL SYLLABLE MWANG: try adding korean</li>
+<li>U+BAFC HANGUL SYLLABLE MOE: try adding korean</li>
+<li>U+BB00 HANGUL SYLLABLE MOEN: try adding korean</li>
+<li>U+BB04 HANGUL SYLLABLE MOEL: try adding korean</li>
+<li>U+BB0D HANGUL SYLLABLE MOEB: try adding korean</li>
+<li>U+BB0F HANGUL SYLLABLE MOES: try adding korean</li>
+<li>U+BB11 HANGUL SYLLABLE MOENG: try adding korean</li>
+<li>U+BB18 HANGUL SYLLABLE MYO: try adding korean</li>
+<li>U+BB1C HANGUL SYLLABLE MYON: try adding korean</li>
+<li>U+BB20 HANGUL SYLLABLE MYOL: try adding korean</li>
+<li>U+BB29 HANGUL SYLLABLE MYOB: try adding korean</li>
+<li>U+BB2B HANGUL SYLLABLE MYOS: try adding korean</li>
+<li>U+BB34 HANGUL SYLLABLE MU: try adding korean</li>
+<li>U+BB35 HANGUL SYLLABLE MUG: try adding korean</li>
+<li>U+BB36 HANGUL SYLLABLE MUGG: try adding korean</li>
+<li>U+BB38 HANGUL SYLLABLE MUN: try adding korean</li>
+<li>U+BB3B HANGUL SYLLABLE MUD: try adding korean</li>
+<li>U+BB3C HANGUL SYLLABLE MUL: try adding korean</li>
+<li>U+BB3D HANGUL SYLLABLE MULG: try adding korean</li>
+<li>U+BB3E HANGUL SYLLABLE MULM: try adding korean</li>
+<li>U+BB44 HANGUL SYLLABLE MUM: try adding korean</li>
+<li>U+BB45 HANGUL SYLLABLE MUB: try adding korean</li>
+<li>U+BB47 HANGUL SYLLABLE MUS: try adding korean</li>
+<li>U+BB49 HANGUL SYLLABLE MUNG: try adding korean</li>
+<li>U+BB4D HANGUL SYLLABLE MUT: try adding korean</li>
+<li>U+BB4F HANGUL SYLLABLE MUH: try adding korean</li>
+<li>U+BB50 HANGUL SYLLABLE MWEO: try adding korean</li>
+<li>U+BB54 HANGUL SYLLABLE MWEON: try adding korean</li>
+<li>U+BB58 HANGUL SYLLABLE MWEOL: try adding korean</li>
+<li>U+BB61 HANGUL SYLLABLE MWEOB: try adding korean</li>
+<li>U+BB63 HANGUL SYLLABLE MWEOS: try adding korean</li>
+<li>U+BB6C HANGUL SYLLABLE MWE: try adding korean</li>
+<li>U+BB88 HANGUL SYLLABLE MWI: try adding korean</li>
+<li>U+BB8C HANGUL SYLLABLE MWIN: try adding korean</li>
+<li>U+BB90 HANGUL SYLLABLE MWIL: try adding korean</li>
+<li>U+BBA4 HANGUL SYLLABLE MYU: try adding korean</li>
+<li>U+BBA8 HANGUL SYLLABLE MYUN: try adding korean</li>
+<li>U+BBAC HANGUL SYLLABLE MYUL: try adding korean</li>
+<li>U+BBB4 HANGUL SYLLABLE MYUM: try adding korean</li>
+<li>U+BBB7 HANGUL SYLLABLE MYUS: try adding korean</li>
+<li>U+BBC0 HANGUL SYLLABLE MEU: try adding korean</li>
+<li>U+BBC4 HANGUL SYLLABLE MEUN: try adding korean</li>
+<li>U+BBC8 HANGUL SYLLABLE MEUL: try adding korean</li>
+<li>U+BBD0 HANGUL SYLLABLE MEUM: try adding korean</li>
+<li>U+BBD3 HANGUL SYLLABLE MEUS: try adding korean</li>
+<li>U+BBF8 HANGUL SYLLABLE MI: try adding korean</li>
+<li>U+BBF9 HANGUL SYLLABLE MIG: try adding korean</li>
+<li>U+BBFC HANGUL SYLLABLE MIN: try adding korean</li>
+<li>U+BBFF HANGUL SYLLABLE MID: try adding korean</li>
+<li>U+BC00 HANGUL SYLLABLE MIL: try adding korean</li>
+<li>U+BC02 HANGUL SYLLABLE MILM: try adding korean</li>
+<li>U+BC08 HANGUL SYLLABLE MIM: try adding korean</li>
+<li>U+BC09 HANGUL SYLLABLE MIB: try adding korean</li>
+<li>U+BC0B HANGUL SYLLABLE MIS: try adding korean</li>
+<li>U+BC0C HANGUL SYLLABLE MISS: try adding korean</li>
+<li>U+BC0D HANGUL SYLLABLE MING: try adding korean</li>
+<li>U+BC0F HANGUL SYLLABLE MIC: try adding korean</li>
+<li>U+BC11 HANGUL SYLLABLE MIT: try adding korean</li>
+<li>U+BC14 HANGUL SYLLABLE BA: try adding korean</li>
+<li>U+BC15 HANGUL SYLLABLE BAG: try adding korean</li>
+<li>U+BC16 HANGUL SYLLABLE BAGG: try adding korean</li>
+<li>U+BC17 HANGUL SYLLABLE BAGS: try adding korean</li>
+<li>U+BC18 HANGUL SYLLABLE BAN: try adding korean</li>
+<li>U+BC1B HANGUL SYLLABLE BAD: try adding korean</li>
+<li>U+BC1C HANGUL SYLLABLE BAL: try adding korean</li>
+<li>U+BC1D HANGUL SYLLABLE BALG: try adding korean</li>
+<li>U+BC1E HANGUL SYLLABLE BALM: try adding korean</li>
+<li>U+BC1F HANGUL SYLLABLE BALB: try adding korean</li>
+<li>U+BC24 HANGUL SYLLABLE BAM: try adding korean</li>
+<li>U+BC25 HANGUL SYLLABLE BAB: try adding korean</li>
+<li>U+BC27 HANGUL SYLLABLE BAS: try adding korean</li>
+<li>U+BC29 HANGUL SYLLABLE BANG: try adding korean</li>
+<li>U+BC2D HANGUL SYLLABLE BAT: try adding korean</li>
+<li>U+BC30 HANGUL SYLLABLE BAE: try adding korean</li>
+<li>U+BC31 HANGUL SYLLABLE BAEG: try adding korean</li>
+<li>U+BC34 HANGUL SYLLABLE BAEN: try adding korean</li>
+<li>U+BC38 HANGUL SYLLABLE BAEL: try adding korean</li>
+<li>U+BC40 HANGUL SYLLABLE BAEM: try adding korean</li>
+<li>U+BC41 HANGUL SYLLABLE BAEB: try adding korean</li>
+<li>U+BC43 HANGUL SYLLABLE BAES: try adding korean</li>
+<li>U+BC44 HANGUL SYLLABLE BAESS: try adding korean</li>
+<li>U+BC45 HANGUL SYLLABLE BAENG: try adding korean</li>
+<li>U+BC49 HANGUL SYLLABLE BAET: try adding korean</li>
+<li>U+BC4C HANGUL SYLLABLE BYA: try adding korean</li>
+<li>U+BC4D HANGUL SYLLABLE BYAG: try adding korean</li>
+<li>U+BC50 HANGUL SYLLABLE BYAN: try adding korean</li>
+<li>U+BC5D HANGUL SYLLABLE BYAB: try adding korean</li>
+<li>U+BC84 HANGUL SYLLABLE BEO: try adding korean</li>
+<li>U+BC85 HANGUL SYLLABLE BEOG: try adding korean</li>
+<li>U+BC88 HANGUL SYLLABLE BEON: try adding korean</li>
+<li>U+BC8B HANGUL SYLLABLE BEOD: try adding korean</li>
+<li>U+BC8C HANGUL SYLLABLE BEOL: try adding korean</li>
+<li>U+BC8E HANGUL SYLLABLE BEOLM: try adding korean</li>
+<li>U+BC94 HANGUL SYLLABLE BEOM: try adding korean</li>
+<li>U+BC95 HANGUL SYLLABLE BEOB: try adding korean</li>
+<li>U+BC97 HANGUL SYLLABLE BEOS: try adding korean</li>
+<li>U+BC99 HANGUL SYLLABLE BEONG: try adding korean</li>
+<li>U+BC9A HANGUL SYLLABLE BEOJ: try adding korean</li>
+<li>U+BCA0 HANGUL SYLLABLE BE: try adding korean</li>
+<li>U+BCA1 HANGUL SYLLABLE BEG: try adding korean</li>
+<li>U+BCA4 HANGUL SYLLABLE BEN: try adding korean</li>
+<li>U+BCA7 HANGUL SYLLABLE BED: try adding korean</li>
+<li>U+BCA8 HANGUL SYLLABLE BEL: try adding korean</li>
+<li>U+BCB0 HANGUL SYLLABLE BEM: try adding korean</li>
+<li>U+BCB1 HANGUL SYLLABLE BEB: try adding korean</li>
+<li>U+BCB3 HANGUL SYLLABLE BES: try adding korean</li>
+<li>U+BCB4 HANGUL SYLLABLE BESS: try adding korean</li>
+<li>U+BCB5 HANGUL SYLLABLE BENG: try adding korean</li>
+<li>U+BCBC HANGUL SYLLABLE BYEO: try adding korean</li>
+<li>U+BCBD HANGUL SYLLABLE BYEOG: try adding korean</li>
+<li>U+BCC0 HANGUL SYLLABLE BYEON: try adding korean</li>
+<li>U+BCC4 HANGUL SYLLABLE BYEOL: try adding korean</li>
+<li>U+BCCD HANGUL SYLLABLE BYEOB: try adding korean</li>
+<li>U+BCCF HANGUL SYLLABLE BYEOS: try adding korean</li>
+<li>U+BCD0 HANGUL SYLLABLE BYEOSS: try adding korean</li>
+<li>U+BCD1 HANGUL SYLLABLE BYEONG: try adding korean</li>
+<li>U+BCD5 HANGUL SYLLABLE BYEOT: try adding korean</li>
+<li>U+BCD8 HANGUL SYLLABLE BYE: try adding korean</li>
+<li>U+BCDC HANGUL SYLLABLE BYEN: try adding korean</li>
+<li>U+BCF4 HANGUL SYLLABLE BO: try adding korean</li>
+<li>U+BCF5 HANGUL SYLLABLE BOG: try adding korean</li>
+<li>U+BCF6 HANGUL SYLLABLE BOGG: try adding korean</li>
+<li>U+BCF8 HANGUL SYLLABLE BON: try adding korean</li>
+<li>U+BCFC HANGUL SYLLABLE BOL: try adding korean</li>
+<li>U+BD04 HANGUL SYLLABLE BOM: try adding korean</li>
+<li>U+BD05 HANGUL SYLLABLE BOB: try adding korean</li>
+<li>U+BD07 HANGUL SYLLABLE BOS: try adding korean</li>
+<li>U+BD09 HANGUL SYLLABLE BONG: try adding korean</li>
+<li>U+BD10 HANGUL SYLLABLE BWA: try adding korean</li>
+<li>U+BD14 HANGUL SYLLABLE BWAN: try adding korean</li>
+<li>U+BD24 HANGUL SYLLABLE BWASS: try adding korean</li>
+<li>U+BD2C HANGUL SYLLABLE BWAE: try adding korean</li>
+<li>U+BD40 HANGUL SYLLABLE BWAESS: try adding korean</li>
+<li>U+BD48 HANGUL SYLLABLE BOE: try adding korean</li>
+<li>U+BD49 HANGUL SYLLABLE BOEG: try adding korean</li>
+<li>U+BD4C HANGUL SYLLABLE BOEN: try adding korean</li>
+<li>U+BD50 HANGUL SYLLABLE BOEL: try adding korean</li>
+<li>U+BD58 HANGUL SYLLABLE BOEM: try adding korean</li>
+<li>U+BD59 HANGUL SYLLABLE BOEB: try adding korean</li>
+<li>U+BD64 HANGUL SYLLABLE BYO: try adding korean</li>
+<li>U+BD68 HANGUL SYLLABLE BYON: try adding korean</li>
+<li>U+BD80 HANGUL SYLLABLE BU: try adding korean</li>
+<li>U+BD81 HANGUL SYLLABLE BUG: try adding korean</li>
+<li>U+BD84 HANGUL SYLLABLE BUN: try adding korean</li>
+<li>U+BD87 HANGUL SYLLABLE BUD: try adding korean</li>
+<li>U+BD88 HANGUL SYLLABLE BUL: try adding korean</li>
+<li>U+BD89 HANGUL SYLLABLE BULG: try adding korean</li>
+<li>U+BD8A HANGUL SYLLABLE BULM: try adding korean</li>
+<li>U+BD90 HANGUL SYLLABLE BUM: try adding korean</li>
+<li>U+BD91 HANGUL SYLLABLE BUB: try adding korean</li>
+<li>U+BD93 HANGUL SYLLABLE BUS: try adding korean</li>
+<li>U+BD95 HANGUL SYLLABLE BUNG: try adding korean</li>
+<li>U+BD99 HANGUL SYLLABLE BUT: try adding korean</li>
+<li>U+BD9A HANGUL SYLLABLE BUP: try adding korean</li>
+<li>U+BD9C HANGUL SYLLABLE BWEO: try adding korean</li>
+<li>U+BDA4 HANGUL SYLLABLE BWEOL: try adding korean</li>
+<li>U+BDB0 HANGUL SYLLABLE BWEOSS: try adding korean</li>
+<li>U+BDB8 HANGUL SYLLABLE BWE: try adding korean</li>
+<li>U+BDD4 HANGUL SYLLABLE BWI: try adding korean</li>
+<li>U+BDD5 HANGUL SYLLABLE BWIG: try adding korean</li>
+<li>U+BDD8 HANGUL SYLLABLE BWIN: try adding korean</li>
+<li>U+BDDC HANGUL SYLLABLE BWIL: try adding korean</li>
+<li>U+BDE9 HANGUL SYLLABLE BWING: try adding korean</li>
+<li>U+BDF0 HANGUL SYLLABLE BYU: try adding korean</li>
+<li>U+BDF4 HANGUL SYLLABLE BYUN: try adding korean</li>
+<li>U+BDF8 HANGUL SYLLABLE BYUL: try adding korean</li>
+<li>U+BE00 HANGUL SYLLABLE BYUM: try adding korean</li>
+<li>U+BE03 HANGUL SYLLABLE BYUS: try adding korean</li>
+<li>U+BE05 HANGUL SYLLABLE BYUNG: try adding korean</li>
+<li>U+BE0C HANGUL SYLLABLE BEU: try adding korean</li>
+<li>U+BE0D HANGUL SYLLABLE BEUG: try adding korean</li>
+<li>U+BE10 HANGUL SYLLABLE BEUN: try adding korean</li>
+<li>U+BE14 HANGUL SYLLABLE BEUL: try adding korean</li>
+<li>U+BE1C HANGUL SYLLABLE BEUM: try adding korean</li>
+<li>U+BE1D HANGUL SYLLABLE BEUB: try adding korean</li>
+<li>U+BE1F HANGUL SYLLABLE BEUS: try adding korean</li>
+<li>U+BE44 HANGUL SYLLABLE BI: try adding korean</li>
+<li>U+BE45 HANGUL SYLLABLE BIG: try adding korean</li>
+<li>U+BE48 HANGUL SYLLABLE BIN: try adding korean</li>
+<li>U+BE4C HANGUL SYLLABLE BIL: try adding korean</li>
+<li>U+BE4E HANGUL SYLLABLE BILM: try adding korean</li>
+<li>U+BE54 HANGUL SYLLABLE BIM: try adding korean</li>
+<li>U+BE55 HANGUL SYLLABLE BIB: try adding korean</li>
+<li>U+BE57 HANGUL SYLLABLE BIS: try adding korean</li>
+<li>U+BE59 HANGUL SYLLABLE BING: try adding korean</li>
+<li>U+BE5A HANGUL SYLLABLE BIJ: try adding korean</li>
+<li>U+BE5B HANGUL SYLLABLE BIC: try adding korean</li>
+<li>U+BE60 HANGUL SYLLABLE BBA: try adding korean</li>
+<li>U+BE61 HANGUL SYLLABLE BBAG: try adding korean</li>
+<li>U+BE64 HANGUL SYLLABLE BBAN: try adding korean</li>
+<li>U+BE68 HANGUL SYLLABLE BBAL: try adding korean</li>
+<li>U+BE6A HANGUL SYLLABLE BBALM: try adding korean</li>
+<li>U+BE70 HANGUL SYLLABLE BBAM: try adding korean</li>
+<li>U+BE71 HANGUL SYLLABLE BBAB: try adding korean</li>
+<li>U+BE73 HANGUL SYLLABLE BBAS: try adding korean</li>
+<li>U+BE74 HANGUL SYLLABLE BBASS: try adding korean</li>
+<li>U+BE75 HANGUL SYLLABLE BBANG: try adding korean</li>
+<li>U+BE7B HANGUL SYLLABLE BBAH: try adding korean</li>
+<li>U+BE7C HANGUL SYLLABLE BBAE: try adding korean</li>
+<li>U+BE7D HANGUL SYLLABLE BBAEG: try adding korean</li>
+<li>U+BE80 HANGUL SYLLABLE BBAEN: try adding korean</li>
+<li>U+BE84 HANGUL SYLLABLE BBAEL: try adding korean</li>
+<li>U+BE8C HANGUL SYLLABLE BBAEM: try adding korean</li>
+<li>U+BE8D HANGUL SYLLABLE BBAEB: try adding korean</li>
+<li>U+BE8F HANGUL SYLLABLE BBAES: try adding korean</li>
+<li>U+BE90 HANGUL SYLLABLE BBAESS: try adding korean</li>
+<li>U+BE91 HANGUL SYLLABLE BBAENG: try adding korean</li>
+<li>U+BE98 HANGUL SYLLABLE BBYA: try adding korean</li>
+<li>U+BE99 HANGUL SYLLABLE BBYAG: try adding korean</li>
+<li>U+BEA8 HANGUL SYLLABLE BBYAM: try adding korean</li>
+<li>U+BED0 HANGUL SYLLABLE BBEO: try adding korean</li>
+<li>U+BED1 HANGUL SYLLABLE BBEOG: try adding korean</li>
+<li>U+BED4 HANGUL SYLLABLE BBEON: try adding korean</li>
+<li>U+BED7 HANGUL SYLLABLE BBEOD: try adding korean</li>
+<li>U+BED8 HANGUL SYLLABLE BBEOL: try adding korean</li>
+<li>U+BEE0 HANGUL SYLLABLE BBEOM: try adding korean</li>
+<li>U+BEE3 HANGUL SYLLABLE BBEOS: try adding korean</li>
+<li>U+BEE4 HANGUL SYLLABLE BBEOSS: try adding korean</li>
+<li>U+BEE5 HANGUL SYLLABLE BBEONG: try adding korean</li>
+<li>U+BEEC HANGUL SYLLABLE BBE: try adding korean</li>
+<li>U+BF01 HANGUL SYLLABLE BBENG: try adding korean</li>
+<li>U+BF08 HANGUL SYLLABLE BBYEO: try adding korean</li>
+<li>U+BF09 HANGUL SYLLABLE BBYEOG: try adding korean</li>
+<li>U+BF18 HANGUL SYLLABLE BBYEOM: try adding korean</li>
+<li>U+BF19 HANGUL SYLLABLE BBYEOB: try adding korean</li>
+<li>U+BF1B HANGUL SYLLABLE BBYEOS: try adding korean</li>
+<li>U+BF1C HANGUL SYLLABLE BBYEOSS: try adding korean</li>
+<li>U+BF1D HANGUL SYLLABLE BBYEONG: try adding korean</li>
+<li>U+BF40 HANGUL SYLLABLE BBO: try adding korean</li>
+<li>U+BF41 HANGUL SYLLABLE BBOG: try adding korean</li>
+<li>U+BF44 HANGUL SYLLABLE BBON: try adding korean</li>
+<li>U+BF48 HANGUL SYLLABLE BBOL: try adding korean</li>
+<li>U+BF50 HANGUL SYLLABLE BBOM: try adding korean</li>
+<li>U+BF51 HANGUL SYLLABLE BBOB: try adding korean</li>
+<li>U+BF55 HANGUL SYLLABLE BBONG: try adding korean</li>
+<li>U+BF94 HANGUL SYLLABLE BBOE: try adding korean</li>
+<li>U+BFB0 HANGUL SYLLABLE BBYO: try adding korean</li>
+<li>U+BFC5 HANGUL SYLLABLE BBYONG: try adding korean</li>
+<li>U+BFCC HANGUL SYLLABLE BBU: try adding korean</li>
+<li>U+BFCD HANGUL SYLLABLE BBUG: try adding korean</li>
+<li>U+BFD0 HANGUL SYLLABLE BBUN: try adding korean</li>
+<li>U+BFD4 HANGUL SYLLABLE BBUL: try adding korean</li>
+<li>U+BFDC HANGUL SYLLABLE BBUM: try adding korean</li>
+<li>U+BFDF HANGUL SYLLABLE BBUS: try adding korean</li>
+<li>U+BFE1 HANGUL SYLLABLE BBUNG: try adding korean</li>
+<li>U+C03C HANGUL SYLLABLE BBYU: try adding korean</li>
+<li>U+C051 HANGUL SYLLABLE BBYUNG: try adding korean</li>
+<li>U+C058 HANGUL SYLLABLE BBEU: try adding korean</li>
+<li>U+C05C HANGUL SYLLABLE BBEUN: try adding korean</li>
+<li>U+C060 HANGUL SYLLABLE BBEUL: try adding korean</li>
+<li>U+C068 HANGUL SYLLABLE BBEUM: try adding korean</li>
+<li>U+C069 HANGUL SYLLABLE BBEUB: try adding korean</li>
+<li>U+C090 HANGUL SYLLABLE BBI: try adding korean</li>
+<li>U+C091 HANGUL SYLLABLE BBIG: try adding korean</li>
+<li>U+C094 HANGUL SYLLABLE BBIN: try adding korean</li>
+<li>U+C098 HANGUL SYLLABLE BBIL: try adding korean</li>
+<li>U+C0A0 HANGUL SYLLABLE BBIM: try adding korean</li>
+<li>U+C0A1 HANGUL SYLLABLE BBIB: try adding korean</li>
+<li>U+C0A3 HANGUL SYLLABLE BBIS: try adding korean</li>
+<li>U+C0A5 HANGUL SYLLABLE BBING: try adding korean</li>
+<li>U+C0AC HANGUL SYLLABLE SA: try adding korean</li>
+<li>U+C0AD HANGUL SYLLABLE SAG: try adding korean</li>
+<li>U+C0AF HANGUL SYLLABLE SAGS: try adding korean</li>
+<li>U+C0B0 HANGUL SYLLABLE SAN: try adding korean</li>
+<li>U+C0B3 HANGUL SYLLABLE SAD: try adding korean</li>
+<li>U+C0B4 HANGUL SYLLABLE SAL: try adding korean</li>
+<li>U+C0B5 HANGUL SYLLABLE SALG: try adding korean</li>
+<li>U+C0B6 HANGUL SYLLABLE SALM: try adding korean</li>
+<li>U+C0BC HANGUL SYLLABLE SAM: try adding korean</li>
+<li>U+C0BD HANGUL SYLLABLE SAB: try adding korean</li>
+<li>U+C0BF HANGUL SYLLABLE SAS: try adding korean</li>
+<li>U+C0C0 HANGUL SYLLABLE SASS: try adding korean</li>
+<li>U+C0C1 HANGUL SYLLABLE SANG: try adding korean</li>
+<li>U+C0C5 HANGUL SYLLABLE SAT: try adding korean</li>
+<li>U+C0C8 HANGUL SYLLABLE SAE: try adding korean</li>
+<li>U+C0C9 HANGUL SYLLABLE SAEG: try adding korean</li>
+<li>U+C0CC HANGUL SYLLABLE SAEN: try adding korean</li>
+<li>U+C0D0 HANGUL SYLLABLE SAEL: try adding korean</li>
+<li>U+C0D8 HANGUL SYLLABLE SAEM: try adding korean</li>
+<li>U+C0D9 HANGUL SYLLABLE SAEB: try adding korean</li>
+<li>U+C0DB HANGUL SYLLABLE SAES: try adding korean</li>
+<li>U+C0DC HANGUL SYLLABLE SAESS: try adding korean</li>
+<li>U+C0DD HANGUL SYLLABLE SAENG: try adding korean</li>
+<li>U+C0E4 HANGUL SYLLABLE SYA: try adding korean</li>
+<li>U+C0E5 HANGUL SYLLABLE SYAG: try adding korean</li>
+<li>U+C0E8 HANGUL SYLLABLE SYAN: try adding korean</li>
+<li>U+C0EC HANGUL SYLLABLE SYAL: try adding korean</li>
+<li>U+C0F4 HANGUL SYLLABLE SYAM: try adding korean</li>
+<li>U+C0F5 HANGUL SYLLABLE SYAB: try adding korean</li>
+<li>U+C0F7 HANGUL SYLLABLE SYAS: try adding korean</li>
+<li>U+C0F9 HANGUL SYLLABLE SYANG: try adding korean</li>
+<li>U+C100 HANGUL SYLLABLE SYAE: try adding korean</li>
+<li>U+C104 HANGUL SYLLABLE SYAEN: try adding korean</li>
+<li>U+C108 HANGUL SYLLABLE SYAEL: try adding korean</li>
+<li>U+C110 HANGUL SYLLABLE SYAEM: try adding korean</li>
+<li>U+C115 HANGUL SYLLABLE SYAENG: try adding korean</li>
+<li>U+C11C HANGUL SYLLABLE SEO: try adding korean</li>
+<li>U+C11D HANGUL SYLLABLE SEOG: try adding korean</li>
+<li>U+C11E HANGUL SYLLABLE SEOGG: try adding korean</li>
+<li>U+C11F HANGUL SYLLABLE SEOGS: try adding korean</li>
+<li>U+C120 HANGUL SYLLABLE SEON: try adding korean</li>
+<li>U+C123 HANGUL SYLLABLE SEOD: try adding korean</li>
+<li>U+C124 HANGUL SYLLABLE SEOL: try adding korean</li>
+<li>U+C126 HANGUL SYLLABLE SEOLM: try adding korean</li>
+<li>U+C127 HANGUL SYLLABLE SEOLB: try adding korean</li>
+<li>U+C12C HANGUL SYLLABLE SEOM: try adding korean</li>
+<li>U+C12D HANGUL SYLLABLE SEOB: try adding korean</li>
+<li>U+C12F HANGUL SYLLABLE SEOS: try adding korean</li>
+<li>U+C130 HANGUL SYLLABLE SEOSS: try adding korean</li>
+<li>U+C131 HANGUL SYLLABLE SEONG: try adding korean</li>
+<li>U+C136 HANGUL SYLLABLE SEOP: try adding korean</li>
+<li>U+C138 HANGUL SYLLABLE SE: try adding korean</li>
+<li>U+C139 HANGUL SYLLABLE SEG: try adding korean</li>
+<li>U+C13C HANGUL SYLLABLE SEN: try adding korean</li>
+<li>U+C140 HANGUL SYLLABLE SEL: try adding korean</li>
+<li>U+C148 HANGUL SYLLABLE SEM: try adding korean</li>
+<li>U+C149 HANGUL SYLLABLE SEB: try adding korean</li>
+<li>U+C14B HANGUL SYLLABLE SES: try adding korean</li>
+<li>U+C14C HANGUL SYLLABLE SESS: try adding korean</li>
+<li>U+C14D HANGUL SYLLABLE SENG: try adding korean</li>
+<li>U+C154 HANGUL SYLLABLE SYEO: try adding korean</li>
+<li>U+C155 HANGUL SYLLABLE SYEOG: try adding korean</li>
+<li>U+C158 HANGUL SYLLABLE SYEON: try adding korean</li>
+<li>U+C15C HANGUL SYLLABLE SYEOL: try adding korean</li>
+<li>U+C164 HANGUL SYLLABLE SYEOM: try adding korean</li>
+<li>U+C165 HANGUL SYLLABLE SYEOB: try adding korean</li>
+<li>U+C167 HANGUL SYLLABLE SYEOS: try adding korean</li>
+<li>U+C168 HANGUL SYLLABLE SYEOSS: try adding korean</li>
+<li>U+C169 HANGUL SYLLABLE SYEONG: try adding korean</li>
+<li>U+C170 HANGUL SYLLABLE SYE: try adding korean</li>
+<li>U+C174 HANGUL SYLLABLE SYEN: try adding korean</li>
+<li>U+C178 HANGUL SYLLABLE SYEL: try adding korean</li>
+<li>U+C185 HANGUL SYLLABLE SYENG: try adding korean</li>
+<li>U+C18C HANGUL SYLLABLE SO: try adding korean</li>
+<li>U+C18D HANGUL SYLLABLE SOG: try adding korean</li>
+<li>U+C18E HANGUL SYLLABLE SOGG: try adding korean</li>
+<li>U+C190 HANGUL SYLLABLE SON: try adding korean</li>
+<li>U+C194 HANGUL SYLLABLE SOL: try adding korean</li>
+<li>U+C196 HANGUL SYLLABLE SOLM: try adding korean</li>
+<li>U+C19C HANGUL SYLLABLE SOM: try adding korean</li>
+<li>U+C19D HANGUL SYLLABLE SOB: try adding korean</li>
+<li>U+C19F HANGUL SYLLABLE SOS: try adding korean</li>
+<li>U+C1A1 HANGUL SYLLABLE SONG: try adding korean</li>
+<li>U+C1A5 HANGUL SYLLABLE SOT: try adding korean</li>
+<li>U+C1A8 HANGUL SYLLABLE SWA: try adding korean</li>
+<li>U+C1A9 HANGUL SYLLABLE SWAG: try adding korean</li>
+<li>U+C1AC HANGUL SYLLABLE SWAN: try adding korean</li>
+<li>U+C1B0 HANGUL SYLLABLE SWAL: try adding korean</li>
+<li>U+C1BD HANGUL SYLLABLE SWANG: try adding korean</li>
+<li>U+C1C4 HANGUL SYLLABLE SWAE: try adding korean</li>
+<li>U+C1C8 HANGUL SYLLABLE SWAEN: try adding korean</li>
+<li>U+C1CC HANGUL SYLLABLE SWAEL: try adding korean</li>
+<li>U+C1D4 HANGUL SYLLABLE SWAEM: try adding korean</li>
+<li>U+C1D7 HANGUL SYLLABLE SWAES: try adding korean</li>
+<li>U+C1D8 HANGUL SYLLABLE SWAESS: try adding korean</li>
+<li>U+C1E0 HANGUL SYLLABLE SOE: try adding korean</li>
+<li>U+C1E4 HANGUL SYLLABLE SOEN: try adding korean</li>
+<li>U+C1E8 HANGUL SYLLABLE SOEL: try adding korean</li>
+<li>U+C1F0 HANGUL SYLLABLE SOEM: try adding korean</li>
+<li>U+C1F1 HANGUL SYLLABLE SOEB: try adding korean</li>
+<li>U+C1F3 HANGUL SYLLABLE SOES: try adding korean</li>
+<li>U+C1FC HANGUL SYLLABLE SYO: try adding korean</li>
+<li>U+C1FD HANGUL SYLLABLE SYOG: try adding korean</li>
+<li>U+C200 HANGUL SYLLABLE SYON: try adding korean</li>
+<li>U+C204 HANGUL SYLLABLE SYOL: try adding korean</li>
+<li>U+C20C HANGUL SYLLABLE SYOM: try adding korean</li>
+<li>U+C20D HANGUL SYLLABLE SYOB: try adding korean</li>
+<li>U+C20F HANGUL SYLLABLE SYOS: try adding korean</li>
+<li>U+C211 HANGUL SYLLABLE SYONG: try adding korean</li>
+<li>U+C218 HANGUL SYLLABLE SU: try adding korean</li>
+<li>U+C219 HANGUL SYLLABLE SUG: try adding korean</li>
+<li>U+C21C HANGUL SYLLABLE SUN: try adding korean</li>
+<li>U+C21F HANGUL SYLLABLE SUD: try adding korean</li>
+<li>U+C220 HANGUL SYLLABLE SUL: try adding korean</li>
+<li>U+C228 HANGUL SYLLABLE SUM: try adding korean</li>
+<li>U+C229 HANGUL SYLLABLE SUB: try adding korean</li>
+<li>U+C22B HANGUL SYLLABLE SUS: try adding korean</li>
+<li>U+C22D HANGUL SYLLABLE SUNG: try adding korean</li>
+<li>U+C22F HANGUL SYLLABLE SUC: try adding korean</li>
+<li>U+C231 HANGUL SYLLABLE SUT: try adding korean</li>
+<li>U+C232 HANGUL SYLLABLE SUP: try adding korean</li>
+<li>U+C234 HANGUL SYLLABLE SWEO: try adding korean</li>
+<li>U+C248 HANGUL SYLLABLE SWEOSS: try adding korean</li>
+<li>U+C250 HANGUL SYLLABLE SWE: try adding korean</li>
+<li>U+C251 HANGUL SYLLABLE SWEG: try adding korean</li>
+<li>U+C254 HANGUL SYLLABLE SWEN: try adding korean</li>
+<li>U+C258 HANGUL SYLLABLE SWEL: try adding korean</li>
+<li>U+C260 HANGUL SYLLABLE SWEM: try adding korean</li>
+<li>U+C265 HANGUL SYLLABLE SWENG: try adding korean</li>
+<li>U+C26C HANGUL SYLLABLE SWI: try adding korean</li>
+<li>U+C26D HANGUL SYLLABLE SWIG: try adding korean</li>
+<li>U+C270 HANGUL SYLLABLE SWIN: try adding korean</li>
+<li>U+C274 HANGUL SYLLABLE SWIL: try adding korean</li>
+<li>U+C27C HANGUL SYLLABLE SWIM: try adding korean</li>
+<li>U+C27D HANGUL SYLLABLE SWIB: try adding korean</li>
+<li>U+C27F HANGUL SYLLABLE SWIS: try adding korean</li>
+<li>U+C281 HANGUL SYLLABLE SWING: try adding korean</li>
+<li>U+C288 HANGUL SYLLABLE SYU: try adding korean</li>
+<li>U+C289 HANGUL SYLLABLE SYUG: try adding korean</li>
+<li>U+C290 HANGUL SYLLABLE SYUL: try adding korean</li>
+<li>U+C298 HANGUL SYLLABLE SYUM: try adding korean</li>
+<li>U+C29B HANGUL SYLLABLE SYUS: try adding korean</li>
+<li>U+C29D HANGUL SYLLABLE SYUNG: try adding korean</li>
+<li>U+C2A4 HANGUL SYLLABLE SEU: try adding korean</li>
+<li>U+C2A5 HANGUL SYLLABLE SEUG: try adding korean</li>
+<li>U+C2A8 HANGUL SYLLABLE SEUN: try adding korean</li>
+<li>U+C2AC HANGUL SYLLABLE SEUL: try adding korean</li>
+<li>U+C2AD HANGUL SYLLABLE SEULG: try adding korean</li>
+<li>U+C2B4 HANGUL SYLLABLE SEUM: try adding korean</li>
+<li>U+C2B5 HANGUL SYLLABLE SEUB: try adding korean</li>
+<li>U+C2B7 HANGUL SYLLABLE SEUS: try adding korean</li>
+<li>U+C2B9 HANGUL SYLLABLE SEUNG: try adding korean</li>
+<li>U+C2DC HANGUL SYLLABLE SI: try adding korean</li>
+<li>U+C2DD HANGUL SYLLABLE SIG: try adding korean</li>
+<li>U+C2E0 HANGUL SYLLABLE SIN: try adding korean</li>
+<li>U+C2E3 HANGUL SYLLABLE SID: try adding korean</li>
+<li>U+C2E4 HANGUL SYLLABLE SIL: try adding korean</li>
+<li>U+C2EB HANGUL SYLLABLE SILH: try adding korean</li>
+<li>U+C2EC HANGUL SYLLABLE SIM: try adding korean</li>
+<li>U+C2ED HANGUL SYLLABLE SIB: try adding korean</li>
+<li>U+C2EF HANGUL SYLLABLE SIS: try adding korean</li>
+<li>U+C2F1 HANGUL SYLLABLE SING: try adding korean</li>
+<li>U+C2F6 HANGUL SYLLABLE SIP: try adding korean</li>
+<li>U+C2F8 HANGUL SYLLABLE SSA: try adding korean</li>
+<li>U+C2F9 HANGUL SYLLABLE SSAG: try adding korean</li>
+<li>U+C2FB HANGUL SYLLABLE SSAGS: try adding korean</li>
+<li>U+C2FC HANGUL SYLLABLE SSAN: try adding korean</li>
+<li>U+C300 HANGUL SYLLABLE SSAL: try adding korean</li>
+<li>U+C308 HANGUL SYLLABLE SSAM: try adding korean</li>
+<li>U+C309 HANGUL SYLLABLE SSAB: try adding korean</li>
+<li>U+C30C HANGUL SYLLABLE SSASS: try adding korean</li>
+<li>U+C30D HANGUL SYLLABLE SSANG: try adding korean</li>
+<li>U+C313 HANGUL SYLLABLE SSAH: try adding korean</li>
+<li>U+C314 HANGUL SYLLABLE SSAE: try adding korean</li>
+<li>U+C315 HANGUL SYLLABLE SSAEG: try adding korean</li>
+<li>U+C318 HANGUL SYLLABLE SSAEN: try adding korean</li>
+<li>U+C31C HANGUL SYLLABLE SSAEL: try adding korean</li>
+<li>U+C324 HANGUL SYLLABLE SSAEM: try adding korean</li>
+<li>U+C325 HANGUL SYLLABLE SSAEB: try adding korean</li>
+<li>U+C328 HANGUL SYLLABLE SSAESS: try adding korean</li>
+<li>U+C329 HANGUL SYLLABLE SSAENG: try adding korean</li>
+<li>U+C345 HANGUL SYLLABLE SSYANG: try adding korean</li>
+<li>U+C368 HANGUL SYLLABLE SSEO: try adding korean</li>
+<li>U+C369 HANGUL SYLLABLE SSEOG: try adding korean</li>
+<li>U+C36C HANGUL SYLLABLE SSEON: try adding korean</li>
+<li>U+C370 HANGUL SYLLABLE SSEOL: try adding korean</li>
+<li>U+C372 HANGUL SYLLABLE SSEOLM: try adding korean</li>
+<li>U+C378 HANGUL SYLLABLE SSEOM: try adding korean</li>
+<li>U+C379 HANGUL SYLLABLE SSEOB: try adding korean</li>
+<li>U+C37C HANGUL SYLLABLE SSEOSS: try adding korean</li>
+<li>U+C37D HANGUL SYLLABLE SSEONG: try adding korean</li>
+<li>U+C384 HANGUL SYLLABLE SSE: try adding korean</li>
+<li>U+C388 HANGUL SYLLABLE SSEN: try adding korean</li>
+<li>U+C38C HANGUL SYLLABLE SSEL: try adding korean</li>
+<li>U+C3C0 HANGUL SYLLABLE SSYEN: try adding korean</li>
+<li>U+C3D8 HANGUL SYLLABLE SSO: try adding korean</li>
+<li>U+C3D9 HANGUL SYLLABLE SSOG: try adding korean</li>
+<li>U+C3DC HANGUL SYLLABLE SSON: try adding korean</li>
+<li>U+C3DF HANGUL SYLLABLE SSOD: try adding korean</li>
+<li>U+C3E0 HANGUL SYLLABLE SSOL: try adding korean</li>
+<li>U+C3E2 HANGUL SYLLABLE SSOLM: try adding korean</li>
+<li>U+C3E8 HANGUL SYLLABLE SSOM: try adding korean</li>
+<li>U+C3E9 HANGUL SYLLABLE SSOB: try adding korean</li>
+<li>U+C3ED HANGUL SYLLABLE SSONG: try adding korean</li>
+<li>U+C3F4 HANGUL SYLLABLE SSWA: try adding korean</li>
+<li>U+C3F5 HANGUL SYLLABLE SSWAG: try adding korean</li>
+<li>U+C3F8 HANGUL SYLLABLE SSWAN: try adding korean</li>
+<li>U+C408 HANGUL SYLLABLE SSWASS: try adding korean</li>
+<li>U+C410 HANGUL SYLLABLE SSWAE: try adding korean</li>
+<li>U+C424 HANGUL SYLLABLE SSWAESS: try adding korean</li>
+<li>U+C42C HANGUL SYLLABLE SSOE: try adding korean</li>
+<li>U+C430 HANGUL SYLLABLE SSOEN: try adding korean</li>
+<li>U+C434 HANGUL SYLLABLE SSOEL: try adding korean</li>
+<li>U+C43C HANGUL SYLLABLE SSOEM: try adding korean</li>
+<li>U+C43D HANGUL SYLLABLE SSOEB: try adding korean</li>
+<li>U+C448 HANGUL SYLLABLE SSYO: try adding korean</li>
+<li>U+C464 HANGUL SYLLABLE SSU: try adding korean</li>
+<li>U+C465 HANGUL SYLLABLE SSUG: try adding korean</li>
+<li>U+C468 HANGUL SYLLABLE SSUN: try adding korean</li>
+<li>U+C46C HANGUL SYLLABLE SSUL: try adding korean</li>
+<li>U+C474 HANGUL SYLLABLE SSUM: try adding korean</li>
+<li>U+C475 HANGUL SYLLABLE SSUB: try adding korean</li>
+<li>U+C479 HANGUL SYLLABLE SSUNG: try adding korean</li>
+<li>U+C480 HANGUL SYLLABLE SSWEO: try adding korean</li>
+<li>U+C494 HANGUL SYLLABLE SSWEOSS: try adding korean</li>
+<li>U+C49C HANGUL SYLLABLE SSWE: try adding korean</li>
+<li>U+C4B8 HANGUL SYLLABLE SSWI: try adding korean</li>
+<li>U+C4BC HANGUL SYLLABLE SSWIN: try adding korean</li>
+<li>U+C4E9 HANGUL SYLLABLE SSYUNG: try adding korean</li>
+<li>U+C4F0 HANGUL SYLLABLE SSEU: try adding korean</li>
+<li>U+C4F1 HANGUL SYLLABLE SSEUG: try adding korean</li>
+<li>U+C4F4 HANGUL SYLLABLE SSEUN: try adding korean</li>
+<li>U+C4F8 HANGUL SYLLABLE SSEUL: try adding korean</li>
+<li>U+C4FA HANGUL SYLLABLE SSEULM: try adding korean</li>
+<li>U+C4FF HANGUL SYLLABLE SSEULH: try adding korean</li>
+<li>U+C500 HANGUL SYLLABLE SSEUM: try adding korean</li>
+<li>U+C501 HANGUL SYLLABLE SSEUB: try adding korean</li>
+<li>U+C50C HANGUL SYLLABLE SSYI: try adding korean</li>
+<li>U+C510 HANGUL SYLLABLE SSYIN: try adding korean</li>
+<li>U+C514 HANGUL SYLLABLE SSYIL: try adding korean</li>
+<li>U+C51C HANGUL SYLLABLE SSYIM: try adding korean</li>
+<li>U+C528 HANGUL SYLLABLE SSI: try adding korean</li>
+<li>U+C529 HANGUL SYLLABLE SSIG: try adding korean</li>
+<li>U+C52C HANGUL SYLLABLE SSIN: try adding korean</li>
+<li>U+C530 HANGUL SYLLABLE SSIL: try adding korean</li>
+<li>U+C538 HANGUL SYLLABLE SSIM: try adding korean</li>
+<li>U+C539 HANGUL SYLLABLE SSIB: try adding korean</li>
+<li>U+C53B HANGUL SYLLABLE SSIS: try adding korean</li>
+<li>U+C53D HANGUL SYLLABLE SSING: try adding korean</li>
+<li>U+C544 HANGUL SYLLABLE A: try adding korean</li>
+<li>U+C545 HANGUL SYLLABLE AG: try adding korean</li>
+<li>U+C548 HANGUL SYLLABLE AN: try adding korean</li>
+<li>U+C549 HANGUL SYLLABLE ANJ: try adding korean</li>
+<li>U+C54A HANGUL SYLLABLE ANH: try adding korean</li>
+<li>U+C54C HANGUL SYLLABLE AL: try adding korean</li>
+<li>U+C54D HANGUL SYLLABLE ALG: try adding korean</li>
+<li>U+C54E HANGUL SYLLABLE ALM: try adding korean</li>
+<li>U+C553 HANGUL SYLLABLE ALH: try adding korean</li>
+<li>U+C554 HANGUL SYLLABLE AM: try adding korean</li>
+<li>U+C555 HANGUL SYLLABLE AB: try adding korean</li>
+<li>U+C557 HANGUL SYLLABLE AS: try adding korean</li>
+<li>U+C558 HANGUL SYLLABLE ASS: try adding korean</li>
+<li>U+C559 HANGUL SYLLABLE ANG: try adding korean</li>
+<li>U+C55D HANGUL SYLLABLE AT: try adding korean</li>
+<li>U+C55E HANGUL SYLLABLE AP: try adding korean</li>
+<li>U+C560 HANGUL SYLLABLE AE: try adding korean</li>
+<li>U+C561 HANGUL SYLLABLE AEG: try adding korean</li>
+<li>U+C564 HANGUL SYLLABLE AEN: try adding korean</li>
+<li>U+C568 HANGUL SYLLABLE AEL: try adding korean</li>
+<li>U+C570 HANGUL SYLLABLE AEM: try adding korean</li>
+<li>U+C571 HANGUL SYLLABLE AEB: try adding korean</li>
+<li>U+C573 HANGUL SYLLABLE AES: try adding korean</li>
+<li>U+C574 HANGUL SYLLABLE AESS: try adding korean</li>
+<li>U+C575 HANGUL SYLLABLE AENG: try adding korean</li>
+<li>U+C57C HANGUL SYLLABLE YA: try adding korean</li>
+<li>U+C57D HANGUL SYLLABLE YAG: try adding korean</li>
+<li>U+C580 HANGUL SYLLABLE YAN: try adding korean</li>
+<li>U+C584 HANGUL SYLLABLE YAL: try adding korean</li>
+<li>U+C587 HANGUL SYLLABLE YALB: try adding korean</li>
+<li>U+C58C HANGUL SYLLABLE YAM: try adding korean</li>
+<li>U+C58D HANGUL SYLLABLE YAB: try adding korean</li>
+<li>U+C58F HANGUL SYLLABLE YAS: try adding korean</li>
+<li>U+C591 HANGUL SYLLABLE YANG: try adding korean</li>
+<li>U+C595 HANGUL SYLLABLE YAT: try adding korean</li>
+<li>U+C597 HANGUL SYLLABLE YAH: try adding korean</li>
+<li>U+C598 HANGUL SYLLABLE YAE: try adding korean</li>
+<li>U+C59C HANGUL SYLLABLE YAEN: try adding korean</li>
+<li>U+C5A0 HANGUL SYLLABLE YAEL: try adding korean</li>
+<li>U+C5A9 HANGUL SYLLABLE YAEB: try adding korean</li>
+<li>U+C5B4 HANGUL SYLLABLE EO: try adding korean</li>
+<li>U+C5B5 HANGUL SYLLABLE EOG: try adding korean</li>
+<li>U+C5B8 HANGUL SYLLABLE EON: try adding korean</li>
+<li>U+C5B9 HANGUL SYLLABLE EONJ: try adding korean</li>
+<li>U+C5BB HANGUL SYLLABLE EOD: try adding korean</li>
+<li>U+C5BC HANGUL SYLLABLE EOL: try adding korean</li>
+<li>U+C5BD HANGUL SYLLABLE EOLG: try adding korean</li>
+<li>U+C5BE HANGUL SYLLABLE EOLM: try adding korean</li>
+<li>U+C5C4 HANGUL SYLLABLE EOM: try adding korean</li>
+<li>U+C5C5 HANGUL SYLLABLE EOB: try adding korean</li>
+<li>U+C5C6 HANGUL SYLLABLE EOBS: try adding korean</li>
+<li>U+C5C7 HANGUL SYLLABLE EOS: try adding korean</li>
+<li>U+C5C8 HANGUL SYLLABLE EOSS: try adding korean</li>
+<li>U+C5C9 HANGUL SYLLABLE EONG: try adding korean</li>
+<li>U+C5CA HANGUL SYLLABLE EOJ: try adding korean</li>
+<li>U+C5CC HANGUL SYLLABLE EOK: try adding korean</li>
+<li>U+C5CE HANGUL SYLLABLE EOP: try adding korean</li>
+<li>U+C5D0 HANGUL SYLLABLE E: try adding korean</li>
+<li>U+C5D1 HANGUL SYLLABLE EG: try adding korean</li>
+<li>U+C5D4 HANGUL SYLLABLE EN: try adding korean</li>
+<li>U+C5D8 HANGUL SYLLABLE EL: try adding korean</li>
+<li>U+C5E0 HANGUL SYLLABLE EM: try adding korean</li>
+<li>U+C5E1 HANGUL SYLLABLE EB: try adding korean</li>
+<li>U+C5E3 HANGUL SYLLABLE ES: try adding korean</li>
+<li>U+C5E5 HANGUL SYLLABLE ENG: try adding korean</li>
+<li>U+C5EC HANGUL SYLLABLE YEO: try adding korean</li>
+<li>U+C5ED HANGUL SYLLABLE YEOG: try adding korean</li>
+<li>U+C5EE HANGUL SYLLABLE YEOGG: try adding korean</li>
+<li>U+C5F0 HANGUL SYLLABLE YEON: try adding korean</li>
+<li>U+C5F4 HANGUL SYLLABLE YEOL: try adding korean</li>
+<li>U+C5F6 HANGUL SYLLABLE YEOLM: try adding korean</li>
+<li>U+C5F7 HANGUL SYLLABLE YEOLB: try adding korean</li>
+<li>U+C5FC HANGUL SYLLABLE YEOM: try adding korean</li>
+<li>U+C5FD HANGUL SYLLABLE YEOB: try adding korean</li>
+<li>U+C5FE HANGUL SYLLABLE YEOBS: try adding korean</li>
+<li>U+C5FF HANGUL SYLLABLE YEOS: try adding korean</li>
+<li>U+C600 HANGUL SYLLABLE YEOSS: try adding korean</li>
+<li>U+C601 HANGUL SYLLABLE YEONG: try adding korean</li>
+<li>U+C605 HANGUL SYLLABLE YEOT: try adding korean</li>
+<li>U+C606 HANGUL SYLLABLE YEOP: try adding korean</li>
+<li>U+C607 HANGUL SYLLABLE YEOH: try adding korean</li>
+<li>U+C608 HANGUL SYLLABLE YE: try adding korean</li>
+<li>U+C60C HANGUL SYLLABLE YEN: try adding korean</li>
+<li>U+C610 HANGUL SYLLABLE YEL: try adding korean</li>
+<li>U+C618 HANGUL SYLLABLE YEM: try adding korean</li>
+<li>U+C619 HANGUL SYLLABLE YEB: try adding korean</li>
+<li>U+C61B HANGUL SYLLABLE YES: try adding korean</li>
+<li>U+C61C HANGUL SYLLABLE YESS: try adding korean</li>
+<li>U+C624 HANGUL SYLLABLE O: try adding korean</li>
+<li>U+C625 HANGUL SYLLABLE OG: try adding korean</li>
+<li>U+C628 HANGUL SYLLABLE ON: try adding korean</li>
+<li>U+C62C HANGUL SYLLABLE OL: try adding korean</li>
+<li>U+C62D HANGUL SYLLABLE OLG: try adding korean</li>
+<li>U+C62E HANGUL SYLLABLE OLM: try adding korean</li>
+<li>U+C630 HANGUL SYLLABLE OLS: try adding korean</li>
+<li>U+C633 HANGUL SYLLABLE OLH: try adding korean</li>
+<li>U+C634 HANGUL SYLLABLE OM: try adding korean</li>
+<li>U+C635 HANGUL SYLLABLE OB: try adding korean</li>
+<li>U+C637 HANGUL SYLLABLE OS: try adding korean</li>
+<li>U+C639 HANGUL SYLLABLE ONG: try adding korean</li>
+<li>U+C63B HANGUL SYLLABLE OC: try adding korean</li>
+<li>U+C640 HANGUL SYLLABLE WA: try adding korean</li>
+<li>U+C641 HANGUL SYLLABLE WAG: try adding korean</li>
+<li>U+C644 HANGUL SYLLABLE WAN: try adding korean</li>
+<li>U+C648 HANGUL SYLLABLE WAL: try adding korean</li>
+<li>U+C650 HANGUL SYLLABLE WAM: try adding korean</li>
+<li>U+C651 HANGUL SYLLABLE WAB: try adding korean</li>
+<li>U+C653 HANGUL SYLLABLE WAS: try adding korean</li>
+<li>U+C654 HANGUL SYLLABLE WASS: try adding korean</li>
+<li>U+C655 HANGUL SYLLABLE WANG: try adding korean</li>
+<li>U+C65C HANGUL SYLLABLE WAE: try adding korean</li>
+<li>U+C65D HANGUL SYLLABLE WAEG: try adding korean</li>
+<li>U+C660 HANGUL SYLLABLE WAEN: try adding korean</li>
+<li>U+C66C HANGUL SYLLABLE WAEM: try adding korean</li>
+<li>U+C66F HANGUL SYLLABLE WAES: try adding korean</li>
+<li>U+C671 HANGUL SYLLABLE WAENG: try adding korean</li>
+<li>U+C678 HANGUL SYLLABLE OE: try adding korean</li>
+<li>U+C679 HANGUL SYLLABLE OEG: try adding korean</li>
+<li>U+C67C HANGUL SYLLABLE OEN: try adding korean</li>
+<li>U+C680 HANGUL SYLLABLE OEL: try adding korean</li>
+<li>U+C688 HANGUL SYLLABLE OEM: try adding korean</li>
+<li>U+C689 HANGUL SYLLABLE OEB: try adding korean</li>
+<li>U+C68B HANGUL SYLLABLE OES: try adding korean</li>
+<li>U+C68D HANGUL SYLLABLE OENG: try adding korean</li>
+<li>U+C694 HANGUL SYLLABLE YO: try adding korean</li>
+<li>U+C695 HANGUL SYLLABLE YOG: try adding korean</li>
+<li>U+C698 HANGUL SYLLABLE YON: try adding korean</li>
+<li>U+C69C HANGUL SYLLABLE YOL: try adding korean</li>
+<li>U+C6A4 HANGUL SYLLABLE YOM: try adding korean</li>
+<li>U+C6A5 HANGUL SYLLABLE YOB: try adding korean</li>
+<li>U+C6A7 HANGUL SYLLABLE YOS: try adding korean</li>
+<li>U+C6A9 HANGUL SYLLABLE YONG: try adding korean</li>
+<li>U+C6B0 HANGUL SYLLABLE U: try adding korean</li>
+<li>U+C6B1 HANGUL SYLLABLE UG: try adding korean</li>
+<li>U+C6B4 HANGUL SYLLABLE UN: try adding korean</li>
+<li>U+C6B8 HANGUL SYLLABLE UL: try adding korean</li>
+<li>U+C6B9 HANGUL SYLLABLE ULG: try adding korean</li>
+<li>U+C6BA HANGUL SYLLABLE ULM: try adding korean</li>
+<li>U+C6C0 HANGUL SYLLABLE UM: try adding korean</li>
+<li>U+C6C1 HANGUL SYLLABLE UB: try adding korean</li>
+<li>U+C6C3 HANGUL SYLLABLE US: try adding korean</li>
+<li>U+C6C5 HANGUL SYLLABLE UNG: try adding korean</li>
+<li>U+C6CC HANGUL SYLLABLE WEO: try adding korean</li>
+<li>U+C6CD HANGUL SYLLABLE WEOG: try adding korean</li>
+<li>U+C6D0 HANGUL SYLLABLE WEON: try adding korean</li>
+<li>U+C6D4 HANGUL SYLLABLE WEOL: try adding korean</li>
+<li>U+C6DC HANGUL SYLLABLE WEOM: try adding korean</li>
+<li>U+C6DD HANGUL SYLLABLE WEOB: try adding korean</li>
+<li>U+C6E0 HANGUL SYLLABLE WEOSS: try adding korean</li>
+<li>U+C6E1 HANGUL SYLLABLE WEONG: try adding korean</li>
+<li>U+C6E8 HANGUL SYLLABLE WE: try adding korean</li>
+<li>U+C6E9 HANGUL SYLLABLE WEG: try adding korean</li>
+<li>U+C6EC HANGUL SYLLABLE WEN: try adding korean</li>
+<li>U+C6F0 HANGUL SYLLABLE WEL: try adding korean</li>
+<li>U+C6F8 HANGUL SYLLABLE WEM: try adding korean</li>
+<li>U+C6F9 HANGUL SYLLABLE WEB: try adding korean</li>
+<li>U+C6FD HANGUL SYLLABLE WENG: try adding korean</li>
+<li>U+C704 HANGUL SYLLABLE WI: try adding korean</li>
+<li>U+C705 HANGUL SYLLABLE WIG: try adding korean</li>
+<li>U+C708 HANGUL SYLLABLE WIN: try adding korean</li>
+<li>U+C70C HANGUL SYLLABLE WIL: try adding korean</li>
+<li>U+C714 HANGUL SYLLABLE WIM: try adding korean</li>
+<li>U+C715 HANGUL SYLLABLE WIB: try adding korean</li>
+<li>U+C717 HANGUL SYLLABLE WIS: try adding korean</li>
+<li>U+C719 HANGUL SYLLABLE WING: try adding korean</li>
+<li>U+C720 HANGUL SYLLABLE YU: try adding korean</li>
+<li>U+C721 HANGUL SYLLABLE YUG: try adding korean</li>
+<li>U+C724 HANGUL SYLLABLE YUN: try adding korean</li>
+<li>U+C728 HANGUL SYLLABLE YUL: try adding korean</li>
+<li>U+C730 HANGUL SYLLABLE YUM: try adding korean</li>
+<li>U+C731 HANGUL SYLLABLE YUB: try adding korean</li>
+<li>U+C733 HANGUL SYLLABLE YUS: try adding korean</li>
+<li>U+C735 HANGUL SYLLABLE YUNG: try adding korean</li>
+<li>U+C737 HANGUL SYLLABLE YUC: try adding korean</li>
+<li>U+C73C HANGUL SYLLABLE EU: try adding korean</li>
+<li>U+C73D HANGUL SYLLABLE EUG: try adding korean</li>
+<li>U+C740 HANGUL SYLLABLE EUN: try adding korean</li>
+<li>U+C744 HANGUL SYLLABLE EUL: try adding korean</li>
+<li>U+C74A HANGUL SYLLABLE EULP: try adding korean</li>
+<li>U+C74C HANGUL SYLLABLE EUM: try adding korean</li>
+<li>U+C74D HANGUL SYLLABLE EUB: try adding korean</li>
+<li>U+C74F HANGUL SYLLABLE EUS: try adding korean</li>
+<li>U+C751 HANGUL SYLLABLE EUNG: try adding korean</li>
+<li>U+C752 HANGUL SYLLABLE EUJ: try adding korean</li>
+<li>U+C753 HANGUL SYLLABLE EUC: try adding korean</li>
+<li>U+C754 HANGUL SYLLABLE EUK: try adding korean</li>
+<li>U+C755 HANGUL SYLLABLE EUT: try adding korean</li>
+<li>U+C756 HANGUL SYLLABLE EUP: try adding korean</li>
+<li>U+C757 HANGUL SYLLABLE EUH: try adding korean</li>
+<li>U+C758 HANGUL SYLLABLE YI: try adding korean</li>
+<li>U+C75C HANGUL SYLLABLE YIN: try adding korean</li>
+<li>U+C760 HANGUL SYLLABLE YIL: try adding korean</li>
+<li>U+C768 HANGUL SYLLABLE YIM: try adding korean</li>
+<li>U+C76B HANGUL SYLLABLE YIS: try adding korean</li>
+<li>U+C774 HANGUL SYLLABLE I: try adding korean</li>
+<li>U+C775 HANGUL SYLLABLE IG: try adding korean</li>
+<li>U+C778 HANGUL SYLLABLE IN: try adding korean</li>
+<li>U+C77C HANGUL SYLLABLE IL: try adding korean</li>
+<li>U+C77D HANGUL SYLLABLE ILG: try adding korean</li>
+<li>U+C77E HANGUL SYLLABLE ILM: try adding korean</li>
+<li>U+C783 HANGUL SYLLABLE ILH: try adding korean</li>
+<li>U+C784 HANGUL SYLLABLE IM: try adding korean</li>
+<li>U+C785 HANGUL SYLLABLE IB: try adding korean</li>
+<li>U+C787 HANGUL SYLLABLE IS: try adding korean</li>
+<li>U+C788 HANGUL SYLLABLE ISS: try adding korean</li>
+<li>U+C789 HANGUL SYLLABLE ING: try adding korean</li>
+<li>U+C78A HANGUL SYLLABLE IJ: try adding korean</li>
+<li>U+C78E HANGUL SYLLABLE IP: try adding korean</li>
+<li>U+C790 HANGUL SYLLABLE JA: try adding korean</li>
+<li>U+C791 HANGUL SYLLABLE JAG: try adding korean</li>
+<li>U+C794 HANGUL SYLLABLE JAN: try adding korean</li>
+<li>U+C796 HANGUL SYLLABLE JANH: try adding korean</li>
+<li>U+C797 HANGUL SYLLABLE JAD: try adding korean</li>
+<li>U+C798 HANGUL SYLLABLE JAL: try adding korean</li>
+<li>U+C79A HANGUL SYLLABLE JALM: try adding korean</li>
+<li>U+C7A0 HANGUL SYLLABLE JAM: try adding korean</li>
+<li>U+C7A1 HANGUL SYLLABLE JAB: try adding korean</li>
+<li>U+C7A3 HANGUL SYLLABLE JAS: try adding korean</li>
+<li>U+C7A4 HANGUL SYLLABLE JASS: try adding korean</li>
+<li>U+C7A5 HANGUL SYLLABLE JANG: try adding korean</li>
+<li>U+C7A6 HANGUL SYLLABLE JAJ: try adding korean</li>
+<li>U+C7AC HANGUL SYLLABLE JAE: try adding korean</li>
+<li>U+C7AD HANGUL SYLLABLE JAEG: try adding korean</li>
+<li>U+C7B0 HANGUL SYLLABLE JAEN: try adding korean</li>
+<li>U+C7B4 HANGUL SYLLABLE JAEL: try adding korean</li>
+<li>U+C7BC HANGUL SYLLABLE JAEM: try adding korean</li>
+<li>U+C7BD HANGUL SYLLABLE JAEB: try adding korean</li>
+<li>U+C7BF HANGUL SYLLABLE JAES: try adding korean</li>
+<li>U+C7C0 HANGUL SYLLABLE JAESS: try adding korean</li>
+<li>U+C7C1 HANGUL SYLLABLE JAENG: try adding korean</li>
+<li>U+C7C8 HANGUL SYLLABLE JYA: try adding korean</li>
+<li>U+C7C9 HANGUL SYLLABLE JYAG: try adding korean</li>
+<li>U+C7CC HANGUL SYLLABLE JYAN: try adding korean</li>
+<li>U+C7CE HANGUL SYLLABLE JYANH: try adding korean</li>
+<li>U+C7D0 HANGUL SYLLABLE JYAL: try adding korean</li>
+<li>U+C7D8 HANGUL SYLLABLE JYAM: try adding korean</li>
+<li>U+C7DD HANGUL SYLLABLE JYANG: try adding korean</li>
+<li>U+C7E4 HANGUL SYLLABLE JYAE: try adding korean</li>
+<li>U+C7E8 HANGUL SYLLABLE JYAEN: try adding korean</li>
+<li>U+C7EC HANGUL SYLLABLE JYAEL: try adding korean</li>
+<li>U+C800 HANGUL SYLLABLE JEO: try adding korean</li>
+<li>U+C801 HANGUL SYLLABLE JEOG: try adding korean</li>
+<li>U+C804 HANGUL SYLLABLE JEON: try adding korean</li>
+<li>U+C808 HANGUL SYLLABLE JEOL: try adding korean</li>
+<li>U+C80A HANGUL SYLLABLE JEOLM: try adding korean</li>
+<li>U+C810 HANGUL SYLLABLE JEOM: try adding korean</li>
+<li>U+C811 HANGUL SYLLABLE JEOB: try adding korean</li>
+<li>U+C813 HANGUL SYLLABLE JEOS: try adding korean</li>
+<li>U+C815 HANGUL SYLLABLE JEONG: try adding korean</li>
+<li>U+C816 HANGUL SYLLABLE JEOJ: try adding korean</li>
+<li>U+C81C HANGUL SYLLABLE JE: try adding korean</li>
+<li>U+C81D HANGUL SYLLABLE JEG: try adding korean</li>
+<li>U+C820 HANGUL SYLLABLE JEN: try adding korean</li>
+<li>U+C824 HANGUL SYLLABLE JEL: try adding korean</li>
+<li>U+C82C HANGUL SYLLABLE JEM: try adding korean</li>
+<li>U+C82D HANGUL SYLLABLE JEB: try adding korean</li>
+<li>U+C82F HANGUL SYLLABLE JES: try adding korean</li>
+<li>U+C831 HANGUL SYLLABLE JENG: try adding korean</li>
+<li>U+C838 HANGUL SYLLABLE JYEO: try adding korean</li>
+<li>U+C83C HANGUL SYLLABLE JYEON: try adding korean</li>
+<li>U+C840 HANGUL SYLLABLE JYEOL: try adding korean</li>
+<li>U+C848 HANGUL SYLLABLE JYEOM: try adding korean</li>
+<li>U+C849 HANGUL SYLLABLE JYEOB: try adding korean</li>
+<li>U+C84C HANGUL SYLLABLE JYEOSS: try adding korean</li>
+<li>U+C84D HANGUL SYLLABLE JYEONG: try adding korean</li>
+<li>U+C854 HANGUL SYLLABLE JYE: try adding korean</li>
+<li>U+C870 HANGUL SYLLABLE JO: try adding korean</li>
+<li>U+C871 HANGUL SYLLABLE JOG: try adding korean</li>
+<li>U+C874 HANGUL SYLLABLE JON: try adding korean</li>
+<li>U+C878 HANGUL SYLLABLE JOL: try adding korean</li>
+<li>U+C87A HANGUL SYLLABLE JOLM: try adding korean</li>
+<li>U+C880 HANGUL SYLLABLE JOM: try adding korean</li>
+<li>U+C881 HANGUL SYLLABLE JOB: try adding korean</li>
+<li>U+C883 HANGUL SYLLABLE JOS: try adding korean</li>
+<li>U+C885 HANGUL SYLLABLE JONG: try adding korean</li>
+<li>U+C886 HANGUL SYLLABLE JOJ: try adding korean</li>
+<li>U+C887 HANGUL SYLLABLE JOC: try adding korean</li>
+<li>U+C88B HANGUL SYLLABLE JOH: try adding korean</li>
+<li>U+C88C HANGUL SYLLABLE JWA: try adding korean</li>
+<li>U+C88D HANGUL SYLLABLE JWAG: try adding korean</li>
+<li>U+C894 HANGUL SYLLABLE JWAL: try adding korean</li>
+<li>U+C89D HANGUL SYLLABLE JWAB: try adding korean</li>
+<li>U+C89F HANGUL SYLLABLE JWAS: try adding korean</li>
+<li>U+C8A1 HANGUL SYLLABLE JWANG: try adding korean</li>
+<li>U+C8A8 HANGUL SYLLABLE JWAE: try adding korean</li>
+<li>U+C8BC HANGUL SYLLABLE JWAESS: try adding korean</li>
+<li>U+C8BD HANGUL SYLLABLE JWAENG: try adding korean</li>
+<li>U+C8C4 HANGUL SYLLABLE JOE: try adding korean</li>
+<li>U+C8C8 HANGUL SYLLABLE JOEN: try adding korean</li>
+<li>U+C8CC HANGUL SYLLABLE JOEL: try adding korean</li>
+<li>U+C8D4 HANGUL SYLLABLE JOEM: try adding korean</li>
+<li>U+C8D5 HANGUL SYLLABLE JOEB: try adding korean</li>
+<li>U+C8D7 HANGUL SYLLABLE JOES: try adding korean</li>
+<li>U+C8D9 HANGUL SYLLABLE JOENG: try adding korean</li>
+<li>U+C8E0 HANGUL SYLLABLE JYO: try adding korean</li>
+<li>U+C8E1 HANGUL SYLLABLE JYOG: try adding korean</li>
+<li>U+C8E4 HANGUL SYLLABLE JYON: try adding korean</li>
+<li>U+C8F5 HANGUL SYLLABLE JYONG: try adding korean</li>
+<li>U+C8FC HANGUL SYLLABLE JU: try adding korean</li>
+<li>U+C8FD HANGUL SYLLABLE JUG: try adding korean</li>
+<li>U+C900 HANGUL SYLLABLE JUN: try adding korean</li>
+<li>U+C904 HANGUL SYLLABLE JUL: try adding korean</li>
+<li>U+C905 HANGUL SYLLABLE JULG: try adding korean</li>
+<li>U+C906 HANGUL SYLLABLE JULM: try adding korean</li>
+<li>U+C90C HANGUL SYLLABLE JUM: try adding korean</li>
+<li>U+C90D HANGUL SYLLABLE JUB: try adding korean</li>
+<li>U+C90F HANGUL SYLLABLE JUS: try adding korean</li>
+<li>U+C911 HANGUL SYLLABLE JUNG: try adding korean</li>
+<li>U+C918 HANGUL SYLLABLE JWEO: try adding korean</li>
+<li>U+C92C HANGUL SYLLABLE JWEOSS: try adding korean</li>
+<li>U+C934 HANGUL SYLLABLE JWE: try adding korean</li>
+<li>U+C950 HANGUL SYLLABLE JWI: try adding korean</li>
+<li>U+C951 HANGUL SYLLABLE JWIG: try adding korean</li>
+<li>U+C954 HANGUL SYLLABLE JWIN: try adding korean</li>
+<li>U+C958 HANGUL SYLLABLE JWIL: try adding korean</li>
+<li>U+C960 HANGUL SYLLABLE JWIM: try adding korean</li>
+<li>U+C961 HANGUL SYLLABLE JWIB: try adding korean</li>
+<li>U+C963 HANGUL SYLLABLE JWIS: try adding korean</li>
+<li>U+C96C HANGUL SYLLABLE JYU: try adding korean</li>
+<li>U+C970 HANGUL SYLLABLE JYUN: try adding korean</li>
+<li>U+C974 HANGUL SYLLABLE JYUL: try adding korean</li>
+<li>U+C97C HANGUL SYLLABLE JYUM: try adding korean</li>
+<li>U+C988 HANGUL SYLLABLE JEU: try adding korean</li>
+<li>U+C989 HANGUL SYLLABLE JEUG: try adding korean</li>
+<li>U+C98C HANGUL SYLLABLE JEUN: try adding korean</li>
+<li>U+C990 HANGUL SYLLABLE JEUL: try adding korean</li>
+<li>U+C998 HANGUL SYLLABLE JEUM: try adding korean</li>
+<li>U+C999 HANGUL SYLLABLE JEUB: try adding korean</li>
+<li>U+C99B HANGUL SYLLABLE JEUS: try adding korean</li>
+<li>U+C99D HANGUL SYLLABLE JEUNG: try adding korean</li>
+<li>U+C9C0 HANGUL SYLLABLE JI: try adding korean</li>
+<li>U+C9C1 HANGUL SYLLABLE JIG: try adding korean</li>
+<li>U+C9C4 HANGUL SYLLABLE JIN: try adding korean</li>
+<li>U+C9C7 HANGUL SYLLABLE JID: try adding korean</li>
+<li>U+C9C8 HANGUL SYLLABLE JIL: try adding korean</li>
+<li>U+C9CA HANGUL SYLLABLE JILM: try adding korean</li>
+<li>U+C9D0 HANGUL SYLLABLE JIM: try adding korean</li>
+<li>U+C9D1 HANGUL SYLLABLE JIB: try adding korean</li>
+<li>U+C9D3 HANGUL SYLLABLE JIS: try adding korean</li>
+<li>U+C9D5 HANGUL SYLLABLE JING: try adding korean</li>
+<li>U+C9D6 HANGUL SYLLABLE JIJ: try adding korean</li>
+<li>U+C9D9 HANGUL SYLLABLE JIT: try adding korean</li>
+<li>U+C9DA HANGUL SYLLABLE JIP: try adding korean</li>
+<li>U+C9DC HANGUL SYLLABLE JJA: try adding korean</li>
+<li>U+C9DD HANGUL SYLLABLE JJAG: try adding korean</li>
+<li>U+C9E0 HANGUL SYLLABLE JJAN: try adding korean</li>
+<li>U+C9E2 HANGUL SYLLABLE JJANH: try adding korean</li>
+<li>U+C9E4 HANGUL SYLLABLE JJAL: try adding korean</li>
+<li>U+C9E7 HANGUL SYLLABLE JJALB: try adding korean</li>
+<li>U+C9EC HANGUL SYLLABLE JJAM: try adding korean</li>
+<li>U+C9ED HANGUL SYLLABLE JJAB: try adding korean</li>
+<li>U+C9EF HANGUL SYLLABLE JJAS: try adding korean</li>
+<li>U+C9F0 HANGUL SYLLABLE JJASS: try adding korean</li>
+<li>U+C9F1 HANGUL SYLLABLE JJANG: try adding korean</li>
+<li>U+C9F8 HANGUL SYLLABLE JJAE: try adding korean</li>
+<li>U+C9F9 HANGUL SYLLABLE JJAEG: try adding korean</li>
+<li>U+C9FC HANGUL SYLLABLE JJAEN: try adding korean</li>
+<li>U+CA00 HANGUL SYLLABLE JJAEL: try adding korean</li>
+<li>U+CA08 HANGUL SYLLABLE JJAEM: try adding korean</li>
+<li>U+CA09 HANGUL SYLLABLE JJAEB: try adding korean</li>
+<li>U+CA0B HANGUL SYLLABLE JJAES: try adding korean</li>
+<li>U+CA0C HANGUL SYLLABLE JJAESS: try adding korean</li>
+<li>U+CA0D HANGUL SYLLABLE JJAENG: try adding korean</li>
+<li>U+CA14 HANGUL SYLLABLE JJYA: try adding korean</li>
+<li>U+CA18 HANGUL SYLLABLE JJYAN: try adding korean</li>
+<li>U+CA29 HANGUL SYLLABLE JJYANG: try adding korean</li>
+<li>U+CA4C HANGUL SYLLABLE JJEO: try adding korean</li>
+<li>U+CA4D HANGUL SYLLABLE JJEOG: try adding korean</li>
+<li>U+CA50 HANGUL SYLLABLE JJEON: try adding korean</li>
+<li>U+CA54 HANGUL SYLLABLE JJEOL: try adding korean</li>
+<li>U+CA5C HANGUL SYLLABLE JJEOM: try adding korean</li>
+<li>U+CA5D HANGUL SYLLABLE JJEOB: try adding korean</li>
+<li>U+CA5F HANGUL SYLLABLE JJEOS: try adding korean</li>
+<li>U+CA60 HANGUL SYLLABLE JJEOSS: try adding korean</li>
+<li>U+CA61 HANGUL SYLLABLE JJEONG: try adding korean</li>
+<li>U+CA68 HANGUL SYLLABLE JJE: try adding korean</li>
+<li>U+CA7D HANGUL SYLLABLE JJENG: try adding korean</li>
+<li>U+CA84 HANGUL SYLLABLE JJYEO: try adding korean</li>
+<li>U+CA98 HANGUL SYLLABLE JJYEOSS: try adding korean</li>
+<li>U+CABC HANGUL SYLLABLE JJO: try adding korean</li>
+<li>U+CABD HANGUL SYLLABLE JJOG: try adding korean</li>
+<li>U+CAC0 HANGUL SYLLABLE JJON: try adding korean</li>
+<li>U+CAC4 HANGUL SYLLABLE JJOL: try adding korean</li>
+<li>U+CACC HANGUL SYLLABLE JJOM: try adding korean</li>
+<li>U+CACD HANGUL SYLLABLE JJOB: try adding korean</li>
+<li>U+CACF HANGUL SYLLABLE JJOS: try adding korean</li>
+<li>U+CAD1 HANGUL SYLLABLE JJONG: try adding korean</li>
+<li>U+CAD3 HANGUL SYLLABLE JJOC: try adding korean</li>
+<li>U+CAD8 HANGUL SYLLABLE JJWA: try adding korean</li>
+<li>U+CAD9 HANGUL SYLLABLE JJWAG: try adding korean</li>
+<li>U+CAE0 HANGUL SYLLABLE JJWAL: try adding korean</li>
+<li>U+CAEC HANGUL SYLLABLE JJWASS: try adding korean</li>
+<li>U+CAF4 HANGUL SYLLABLE JJWAE: try adding korean</li>
+<li>U+CB08 HANGUL SYLLABLE JJWAESS: try adding korean</li>
+<li>U+CB10 HANGUL SYLLABLE JJOE: try adding korean</li>
+<li>U+CB14 HANGUL SYLLABLE JJOEN: try adding korean</li>
+<li>U+CB18 HANGUL SYLLABLE JJOEL: try adding korean</li>
+<li>U+CB20 HANGUL SYLLABLE JJOEM: try adding korean</li>
+<li>U+CB21 HANGUL SYLLABLE JJOEB: try adding korean</li>
+<li>U+CB41 HANGUL SYLLABLE JJYONG: try adding korean</li>
+<li>U+CB48 HANGUL SYLLABLE JJU: try adding korean</li>
+<li>U+CB49 HANGUL SYLLABLE JJUG: try adding korean</li>
+<li>U+CB4C HANGUL SYLLABLE JJUN: try adding korean</li>
+<li>U+CB50 HANGUL SYLLABLE JJUL: try adding korean</li>
+<li>U+CB58 HANGUL SYLLABLE JJUM: try adding korean</li>
+<li>U+CB59 HANGUL SYLLABLE JJUB: try adding korean</li>
+<li>U+CB5D HANGUL SYLLABLE JJUNG: try adding korean</li>
+<li>U+CB64 HANGUL SYLLABLE JJWEO: try adding korean</li>
+<li>U+CB78 HANGUL SYLLABLE JJWEOSS: try adding korean</li>
+<li>U+CB79 HANGUL SYLLABLE JJWEONG: try adding korean</li>
+<li>U+CB9C HANGUL SYLLABLE JJWI: try adding korean</li>
+<li>U+CBB8 HANGUL SYLLABLE JJYU: try adding korean</li>
+<li>U+CBD4 HANGUL SYLLABLE JJEU: try adding korean</li>
+<li>U+CBE4 HANGUL SYLLABLE JJEUM: try adding korean</li>
+<li>U+CBE7 HANGUL SYLLABLE JJEUS: try adding korean</li>
+<li>U+CBE9 HANGUL SYLLABLE JJEUNG: try adding korean</li>
+<li>U+CC0C HANGUL SYLLABLE JJI: try adding korean</li>
+<li>U+CC0D HANGUL SYLLABLE JJIG: try adding korean</li>
+<li>U+CC10 HANGUL SYLLABLE JJIN: try adding korean</li>
+<li>U+CC14 HANGUL SYLLABLE JJIL: try adding korean</li>
+<li>U+CC1C HANGUL SYLLABLE JJIM: try adding korean</li>
+<li>U+CC1D HANGUL SYLLABLE JJIB: try adding korean</li>
+<li>U+CC21 HANGUL SYLLABLE JJING: try adding korean</li>
+<li>U+CC22 HANGUL SYLLABLE JJIJ: try adding korean</li>
+<li>U+CC27 HANGUL SYLLABLE JJIH: try adding korean</li>
+<li>U+CC28 HANGUL SYLLABLE CA: try adding korean</li>
+<li>U+CC29 HANGUL SYLLABLE CAG: try adding korean</li>
+<li>U+CC2C HANGUL SYLLABLE CAN: try adding korean</li>
+<li>U+CC2E HANGUL SYLLABLE CANH: try adding korean</li>
+<li>U+CC30 HANGUL SYLLABLE CAL: try adding korean</li>
+<li>U+CC38 HANGUL SYLLABLE CAM: try adding korean</li>
+<li>U+CC39 HANGUL SYLLABLE CAB: try adding korean</li>
+<li>U+CC3B HANGUL SYLLABLE CAS: try adding korean</li>
+<li>U+CC3C HANGUL SYLLABLE CASS: try adding korean</li>
+<li>U+CC3D HANGUL SYLLABLE CANG: try adding korean</li>
+<li>U+CC3E HANGUL SYLLABLE CAJ: try adding korean</li>
+<li>U+CC44 HANGUL SYLLABLE CAE: try adding korean</li>
+<li>U+CC45 HANGUL SYLLABLE CAEG: try adding korean</li>
+<li>U+CC48 HANGUL SYLLABLE CAEN: try adding korean</li>
+<li>U+CC4C HANGUL SYLLABLE CAEL: try adding korean</li>
+<li>U+CC54 HANGUL SYLLABLE CAEM: try adding korean</li>
+<li>U+CC55 HANGUL SYLLABLE CAEB: try adding korean</li>
+<li>U+CC57 HANGUL SYLLABLE CAES: try adding korean</li>
+<li>U+CC58 HANGUL SYLLABLE CAESS: try adding korean</li>
+<li>U+CC59 HANGUL SYLLABLE CAENG: try adding korean</li>
+<li>U+CC60 HANGUL SYLLABLE CYA: try adding korean</li>
+<li>U+CC64 HANGUL SYLLABLE CYAN: try adding korean</li>
+<li>U+CC66 HANGUL SYLLABLE CYANH: try adding korean</li>
+<li>U+CC68 HANGUL SYLLABLE CYAL: try adding korean</li>
+<li>U+CC70 HANGUL SYLLABLE CYAM: try adding korean</li>
+<li>U+CC75 HANGUL SYLLABLE CYANG: try adding korean</li>
+<li>U+CC98 HANGUL SYLLABLE CEO: try adding korean</li>
+<li>U+CC99 HANGUL SYLLABLE CEOG: try adding korean</li>
+<li>U+CC9C HANGUL SYLLABLE CEON: try adding korean</li>
+<li>U+CCA0 HANGUL SYLLABLE CEOL: try adding korean</li>
+<li>U+CCA8 HANGUL SYLLABLE CEOM: try adding korean</li>
+<li>U+CCA9 HANGUL SYLLABLE CEOB: try adding korean</li>
+<li>U+CCAB HANGUL SYLLABLE CEOS: try adding korean</li>
+<li>U+CCAC HANGUL SYLLABLE CEOSS: try adding korean</li>
+<li>U+CCAD HANGUL SYLLABLE CEONG: try adding korean</li>
+<li>U+CCB4 HANGUL SYLLABLE CE: try adding korean</li>
+<li>U+CCB5 HANGUL SYLLABLE CEG: try adding korean</li>
+<li>U+CCB8 HANGUL SYLLABLE CEN: try adding korean</li>
+<li>U+CCBC HANGUL SYLLABLE CEL: try adding korean</li>
+<li>U+CCC4 HANGUL SYLLABLE CEM: try adding korean</li>
+<li>U+CCC5 HANGUL SYLLABLE CEB: try adding korean</li>
+<li>U+CCC7 HANGUL SYLLABLE CES: try adding korean</li>
+<li>U+CCC9 HANGUL SYLLABLE CENG: try adding korean</li>
+<li>U+CCD0 HANGUL SYLLABLE CYEO: try adding korean</li>
+<li>U+CCD4 HANGUL SYLLABLE CYEON: try adding korean</li>
+<li>U+CCE4 HANGUL SYLLABLE CYEOSS: try adding korean</li>
+<li>U+CCEC HANGUL SYLLABLE CYE: try adding korean</li>
+<li>U+CCF0 HANGUL SYLLABLE CYEN: try adding korean</li>
+<li>U+CD01 HANGUL SYLLABLE CYENG: try adding korean</li>
+<li>U+CD08 HANGUL SYLLABLE CO: try adding korean</li>
+<li>U+CD09 HANGUL SYLLABLE COG: try adding korean</li>
+<li>U+CD0C HANGUL SYLLABLE CON: try adding korean</li>
+<li>U+CD10 HANGUL SYLLABLE COL: try adding korean</li>
+<li>U+CD18 HANGUL SYLLABLE COM: try adding korean</li>
+<li>U+CD19 HANGUL SYLLABLE COB: try adding korean</li>
+<li>U+CD1B HANGUL SYLLABLE COS: try adding korean</li>
+<li>U+CD1D HANGUL SYLLABLE CONG: try adding korean</li>
+<li>U+CD24 HANGUL SYLLABLE CWA: try adding korean</li>
+<li>U+CD28 HANGUL SYLLABLE CWAN: try adding korean</li>
+<li>U+CD2C HANGUL SYLLABLE CWAL: try adding korean</li>
+<li>U+CD39 HANGUL SYLLABLE CWANG: try adding korean</li>
+<li>U+CD5C HANGUL SYLLABLE COE: try adding korean</li>
+<li>U+CD60 HANGUL SYLLABLE COEN: try adding korean</li>
+<li>U+CD64 HANGUL SYLLABLE COEL: try adding korean</li>
+<li>U+CD6C HANGUL SYLLABLE COEM: try adding korean</li>
+<li>U+CD6D HANGUL SYLLABLE COEB: try adding korean</li>
+<li>U+CD6F HANGUL SYLLABLE COES: try adding korean</li>
+<li>U+CD71 HANGUL SYLLABLE COENG: try adding korean</li>
+<li>U+CD78 HANGUL SYLLABLE CYO: try adding korean</li>
+<li>U+CD88 HANGUL SYLLABLE CYOM: try adding korean</li>
+<li>U+CD94 HANGUL SYLLABLE CU: try adding korean</li>
+<li>U+CD95 HANGUL SYLLABLE CUG: try adding korean</li>
+<li>U+CD98 HANGUL SYLLABLE CUN: try adding korean</li>
+<li>U+CD9C HANGUL SYLLABLE CUL: try adding korean</li>
+<li>U+CDA4 HANGUL SYLLABLE CUM: try adding korean</li>
+<li>U+CDA5 HANGUL SYLLABLE CUB: try adding korean</li>
+<li>U+CDA7 HANGUL SYLLABLE CUS: try adding korean</li>
+<li>U+CDA9 HANGUL SYLLABLE CUNG: try adding korean</li>
+<li>U+CDB0 HANGUL SYLLABLE CWEO: try adding korean</li>
+<li>U+CDC4 HANGUL SYLLABLE CWEOSS: try adding korean</li>
+<li>U+CDCC HANGUL SYLLABLE CWE: try adding korean</li>
+<li>U+CDD0 HANGUL SYLLABLE CWEN: try adding korean</li>
+<li>U+CDE8 HANGUL SYLLABLE CWI: try adding korean</li>
+<li>U+CDEC HANGUL SYLLABLE CWIN: try adding korean</li>
+<li>U+CDF0 HANGUL SYLLABLE CWIL: try adding korean</li>
+<li>U+CDF8 HANGUL SYLLABLE CWIM: try adding korean</li>
+<li>U+CDF9 HANGUL SYLLABLE CWIB: try adding korean</li>
+<li>U+CDFB HANGUL SYLLABLE CWIS: try adding korean</li>
+<li>U+CDFD HANGUL SYLLABLE CWING: try adding korean</li>
+<li>U+CE04 HANGUL SYLLABLE CYU: try adding korean</li>
+<li>U+CE08 HANGUL SYLLABLE CYUN: try adding korean</li>
+<li>U+CE0C HANGUL SYLLABLE CYUL: try adding korean</li>
+<li>U+CE14 HANGUL SYLLABLE CYUM: try adding korean</li>
+<li>U+CE19 HANGUL SYLLABLE CYUNG: try adding korean</li>
+<li>U+CE20 HANGUL SYLLABLE CEU: try adding korean</li>
+<li>U+CE21 HANGUL SYLLABLE CEUG: try adding korean</li>
+<li>U+CE24 HANGUL SYLLABLE CEUN: try adding korean</li>
+<li>U+CE28 HANGUL SYLLABLE CEUL: try adding korean</li>
+<li>U+CE30 HANGUL SYLLABLE CEUM: try adding korean</li>
+<li>U+CE31 HANGUL SYLLABLE CEUB: try adding korean</li>
+<li>U+CE33 HANGUL SYLLABLE CEUS: try adding korean</li>
+<li>U+CE35 HANGUL SYLLABLE CEUNG: try adding korean</li>
+<li>U+CE58 HANGUL SYLLABLE CI: try adding korean</li>
+<li>U+CE59 HANGUL SYLLABLE CIG: try adding korean</li>
+<li>U+CE5C HANGUL SYLLABLE CIN: try adding korean</li>
+<li>U+CE5F HANGUL SYLLABLE CID: try adding korean</li>
+<li>U+CE60 HANGUL SYLLABLE CIL: try adding korean</li>
+<li>U+CE61 HANGUL SYLLABLE CILG: try adding korean</li>
+<li>U+CE68 HANGUL SYLLABLE CIM: try adding korean</li>
+<li>U+CE69 HANGUL SYLLABLE CIB: try adding korean</li>
+<li>U+CE6B HANGUL SYLLABLE CIS: try adding korean</li>
+<li>U+CE6D HANGUL SYLLABLE CING: try adding korean</li>
+<li>U+CE74 HANGUL SYLLABLE KA: try adding korean</li>
+<li>U+CE75 HANGUL SYLLABLE KAG: try adding korean</li>
+<li>U+CE78 HANGUL SYLLABLE KAN: try adding korean</li>
+<li>U+CE7C HANGUL SYLLABLE KAL: try adding korean</li>
+<li>U+CE84 HANGUL SYLLABLE KAM: try adding korean</li>
+<li>U+CE85 HANGUL SYLLABLE KAB: try adding korean</li>
+<li>U+CE87 HANGUL SYLLABLE KAS: try adding korean</li>
+<li>U+CE89 HANGUL SYLLABLE KANG: try adding korean</li>
+<li>U+CE90 HANGUL SYLLABLE KAE: try adding korean</li>
+<li>U+CE91 HANGUL SYLLABLE KAEG: try adding korean</li>
+<li>U+CE94 HANGUL SYLLABLE KAEN: try adding korean</li>
+<li>U+CE98 HANGUL SYLLABLE KAEL: try adding korean</li>
+<li>U+CEA0 HANGUL SYLLABLE KAEM: try adding korean</li>
+<li>U+CEA1 HANGUL SYLLABLE KAEB: try adding korean</li>
+<li>U+CEA3 HANGUL SYLLABLE KAES: try adding korean</li>
+<li>U+CEA4 HANGUL SYLLABLE KAESS: try adding korean</li>
+<li>U+CEA5 HANGUL SYLLABLE KAENG: try adding korean</li>
+<li>U+CEAC HANGUL SYLLABLE KYA: try adding korean</li>
+<li>U+CEAD HANGUL SYLLABLE KYAG: try adding korean</li>
+<li>U+CEC1 HANGUL SYLLABLE KYANG: try adding korean</li>
+<li>U+CEE4 HANGUL SYLLABLE KEO: try adding korean</li>
+<li>U+CEE5 HANGUL SYLLABLE KEOG: try adding korean</li>
+<li>U+CEE8 HANGUL SYLLABLE KEON: try adding korean</li>
+<li>U+CEEB HANGUL SYLLABLE KEOD: try adding korean</li>
+<li>U+CEEC HANGUL SYLLABLE KEOL: try adding korean</li>
+<li>U+CEF4 HANGUL SYLLABLE KEOM: try adding korean</li>
+<li>U+CEF5 HANGUL SYLLABLE KEOB: try adding korean</li>
+<li>U+CEF7 HANGUL SYLLABLE KEOS: try adding korean</li>
+<li>U+CEF8 HANGUL SYLLABLE KEOSS: try adding korean</li>
+<li>U+CEF9 HANGUL SYLLABLE KEONG: try adding korean</li>
+<li>U+CF00 HANGUL SYLLABLE KE: try adding korean</li>
+<li>U+CF01 HANGUL SYLLABLE KEG: try adding korean</li>
+<li>U+CF04 HANGUL SYLLABLE KEN: try adding korean</li>
+<li>U+CF08 HANGUL SYLLABLE KEL: try adding korean</li>
+<li>U+CF10 HANGUL SYLLABLE KEM: try adding korean</li>
+<li>U+CF11 HANGUL SYLLABLE KEB: try adding korean</li>
+<li>U+CF13 HANGUL SYLLABLE KES: try adding korean</li>
+<li>U+CF15 HANGUL SYLLABLE KENG: try adding korean</li>
+<li>U+CF1C HANGUL SYLLABLE KYEO: try adding korean</li>
+<li>U+CF20 HANGUL SYLLABLE KYEON: try adding korean</li>
+<li>U+CF24 HANGUL SYLLABLE KYEOL: try adding korean</li>
+<li>U+CF2C HANGUL SYLLABLE KYEOM: try adding korean</li>
+<li>U+CF2D HANGUL SYLLABLE KYEOB: try adding korean</li>
+<li>U+CF2F HANGUL SYLLABLE KYEOS: try adding korean</li>
+<li>U+CF30 HANGUL SYLLABLE KYEOSS: try adding korean</li>
+<li>U+CF31 HANGUL SYLLABLE KYEONG: try adding korean</li>
+<li>U+CF38 HANGUL SYLLABLE KYE: try adding korean</li>
+<li>U+CF54 HANGUL SYLLABLE KO: try adding korean</li>
+<li>U+CF55 HANGUL SYLLABLE KOG: try adding korean</li>
+<li>U+CF58 HANGUL SYLLABLE KON: try adding korean</li>
+<li>U+CF5C HANGUL SYLLABLE KOL: try adding korean</li>
+<li>U+CF64 HANGUL SYLLABLE KOM: try adding korean</li>
+<li>U+CF65 HANGUL SYLLABLE KOB: try adding korean</li>
+<li>U+CF67 HANGUL SYLLABLE KOS: try adding korean</li>
+<li>U+CF69 HANGUL SYLLABLE KONG: try adding korean</li>
+<li>U+CF70 HANGUL SYLLABLE KWA: try adding korean</li>
+<li>U+CF71 HANGUL SYLLABLE KWAG: try adding korean</li>
+<li>U+CF74 HANGUL SYLLABLE KWAN: try adding korean</li>
+<li>U+CF78 HANGUL SYLLABLE KWAL: try adding korean</li>
+<li>U+CF80 HANGUL SYLLABLE KWAM: try adding korean</li>
+<li>U+CF85 HANGUL SYLLABLE KWANG: try adding korean</li>
+<li>U+CF8C HANGUL SYLLABLE KWAE: try adding korean</li>
+<li>U+CFA1 HANGUL SYLLABLE KWAENG: try adding korean</li>
+<li>U+CFA8 HANGUL SYLLABLE KOE: try adding korean</li>
+<li>U+CFB0 HANGUL SYLLABLE KOEL: try adding korean</li>
+<li>U+CFC4 HANGUL SYLLABLE KYO: try adding korean</li>
+<li>U+CFE0 HANGUL SYLLABLE KU: try adding korean</li>
+<li>U+CFE1 HANGUL SYLLABLE KUG: try adding korean</li>
+<li>U+CFE4 HANGUL SYLLABLE KUN: try adding korean</li>
+<li>U+CFE8 HANGUL SYLLABLE KUL: try adding korean</li>
+<li>U+CFF0 HANGUL SYLLABLE KUM: try adding korean</li>
+<li>U+CFF1 HANGUL SYLLABLE KUB: try adding korean</li>
+<li>U+CFF3 HANGUL SYLLABLE KUS: try adding korean</li>
+<li>U+CFF5 HANGUL SYLLABLE KUNG: try adding korean</li>
+<li>U+CFFC HANGUL SYLLABLE KWEO: try adding korean</li>
+<li>U+D000 HANGUL SYLLABLE KWEON: try adding korean</li>
+<li>U+D004 HANGUL SYLLABLE KWEOL: try adding korean</li>
+<li>U+D011 HANGUL SYLLABLE KWEONG: try adding korean</li>
+<li>U+D018 HANGUL SYLLABLE KWE: try adding korean</li>
+<li>U+D02D HANGUL SYLLABLE KWENG: try adding korean</li>
+<li>U+D034 HANGUL SYLLABLE KWI: try adding korean</li>
+<li>U+D035 HANGUL SYLLABLE KWIG: try adding korean</li>
+<li>U+D038 HANGUL SYLLABLE KWIN: try adding korean</li>
+<li>U+D03C HANGUL SYLLABLE KWIL: try adding korean</li>
+<li>U+D044 HANGUL SYLLABLE KWIM: try adding korean</li>
+<li>U+D045 HANGUL SYLLABLE KWIB: try adding korean</li>
+<li>U+D047 HANGUL SYLLABLE KWIS: try adding korean</li>
+<li>U+D049 HANGUL SYLLABLE KWING: try adding korean</li>
+<li>U+D050 HANGUL SYLLABLE KYU: try adding korean</li>
+<li>U+D054 HANGUL SYLLABLE KYUN: try adding korean</li>
+<li>U+D058 HANGUL SYLLABLE KYUL: try adding korean</li>
+<li>U+D060 HANGUL SYLLABLE KYUM: try adding korean</li>
+<li>U+D06C HANGUL SYLLABLE KEU: try adding korean</li>
+<li>U+D06D HANGUL SYLLABLE KEUG: try adding korean</li>
+<li>U+D070 HANGUL SYLLABLE KEUN: try adding korean</li>
+<li>U+D074 HANGUL SYLLABLE KEUL: try adding korean</li>
+<li>U+D07C HANGUL SYLLABLE KEUM: try adding korean</li>
+<li>U+D07D HANGUL SYLLABLE KEUB: try adding korean</li>
+<li>U+D081 HANGUL SYLLABLE KEUNG: try adding korean</li>
+<li>U+D0A4 HANGUL SYLLABLE KI: try adding korean</li>
+<li>U+D0A5 HANGUL SYLLABLE KIG: try adding korean</li>
+<li>U+D0A8 HANGUL SYLLABLE KIN: try adding korean</li>
+<li>U+D0AC HANGUL SYLLABLE KIL: try adding korean</li>
+<li>U+D0B4 HANGUL SYLLABLE KIM: try adding korean</li>
+<li>U+D0B5 HANGUL SYLLABLE KIB: try adding korean</li>
+<li>U+D0B7 HANGUL SYLLABLE KIS: try adding korean</li>
+<li>U+D0B9 HANGUL SYLLABLE KING: try adding korean</li>
+<li>U+D0C0 HANGUL SYLLABLE TA: try adding korean</li>
+<li>U+D0C1 HANGUL SYLLABLE TAG: try adding korean</li>
+<li>U+D0C4 HANGUL SYLLABLE TAN: try adding korean</li>
+<li>U+D0C8 HANGUL SYLLABLE TAL: try adding korean</li>
+<li>U+D0C9 HANGUL SYLLABLE TALG: try adding korean</li>
+<li>U+D0D0 HANGUL SYLLABLE TAM: try adding korean</li>
+<li>U+D0D1 HANGUL SYLLABLE TAB: try adding korean</li>
+<li>U+D0D3 HANGUL SYLLABLE TAS: try adding korean</li>
+<li>U+D0D4 HANGUL SYLLABLE TASS: try adding korean</li>
+<li>U+D0D5 HANGUL SYLLABLE TANG: try adding korean</li>
+<li>U+D0DC HANGUL SYLLABLE TAE: try adding korean</li>
+<li>U+D0DD HANGUL SYLLABLE TAEG: try adding korean</li>
+<li>U+D0E0 HANGUL SYLLABLE TAEN: try adding korean</li>
+<li>U+D0E4 HANGUL SYLLABLE TAEL: try adding korean</li>
+<li>U+D0EC HANGUL SYLLABLE TAEM: try adding korean</li>
+<li>U+D0ED HANGUL SYLLABLE TAEB: try adding korean</li>
+<li>U+D0EF HANGUL SYLLABLE TAES: try adding korean</li>
+<li>U+D0F0 HANGUL SYLLABLE TAESS: try adding korean</li>
+<li>U+D0F1 HANGUL SYLLABLE TAENG: try adding korean</li>
+<li>U+D0F8 HANGUL SYLLABLE TYA: try adding korean</li>
+<li>U+D10D HANGUL SYLLABLE TYANG: try adding korean</li>
+<li>U+D130 HANGUL SYLLABLE TEO: try adding korean</li>
+<li>U+D131 HANGUL SYLLABLE TEOG: try adding korean</li>
+<li>U+D134 HANGUL SYLLABLE TEON: try adding korean</li>
+<li>U+D138 HANGUL SYLLABLE TEOL: try adding korean</li>
+<li>U+D13A HANGUL SYLLABLE TEOLM: try adding korean</li>
+<li>U+D140 HANGUL SYLLABLE TEOM: try adding korean</li>
+<li>U+D141 HANGUL SYLLABLE TEOB: try adding korean</li>
+<li>U+D143 HANGUL SYLLABLE TEOS: try adding korean</li>
+<li>U+D144 HANGUL SYLLABLE TEOSS: try adding korean</li>
+<li>U+D145 HANGUL SYLLABLE TEONG: try adding korean</li>
+<li>U+D14C HANGUL SYLLABLE TE: try adding korean</li>
+<li>U+D14D HANGUL SYLLABLE TEG: try adding korean</li>
+<li>U+D150 HANGUL SYLLABLE TEN: try adding korean</li>
+<li>U+D154 HANGUL SYLLABLE TEL: try adding korean</li>
+<li>U+D15C HANGUL SYLLABLE TEM: try adding korean</li>
+<li>U+D15D HANGUL SYLLABLE TEB: try adding korean</li>
+<li>U+D15F HANGUL SYLLABLE TES: try adding korean</li>
+<li>U+D161 HANGUL SYLLABLE TENG: try adding korean</li>
+<li>U+D168 HANGUL SYLLABLE TYEO: try adding korean</li>
+<li>U+D16C HANGUL SYLLABLE TYEON: try adding korean</li>
+<li>U+D17C HANGUL SYLLABLE TYEOSS: try adding korean</li>
+<li>U+D184 HANGUL SYLLABLE TYE: try adding korean</li>
+<li>U+D188 HANGUL SYLLABLE TYEN: try adding korean</li>
+<li>U+D1A0 HANGUL SYLLABLE TO: try adding korean</li>
+<li>U+D1A1 HANGUL SYLLABLE TOG: try adding korean</li>
+<li>U+D1A4 HANGUL SYLLABLE TON: try adding korean</li>
+<li>U+D1A8 HANGUL SYLLABLE TOL: try adding korean</li>
+<li>U+D1B0 HANGUL SYLLABLE TOM: try adding korean</li>
+<li>U+D1B1 HANGUL SYLLABLE TOB: try adding korean</li>
+<li>U+D1B3 HANGUL SYLLABLE TOS: try adding korean</li>
+<li>U+D1B5 HANGUL SYLLABLE TONG: try adding korean</li>
+<li>U+D1BA HANGUL SYLLABLE TOP: try adding korean</li>
+<li>U+D1BC HANGUL SYLLABLE TWA: try adding korean</li>
+<li>U+D1C0 HANGUL SYLLABLE TWAN: try adding korean</li>
+<li>U+D1D8 HANGUL SYLLABLE TWAE: try adding korean</li>
+<li>U+D1F4 HANGUL SYLLABLE TOE: try adding korean</li>
+<li>U+D1F8 HANGUL SYLLABLE TOEN: try adding korean</li>
+<li>U+D207 HANGUL SYLLABLE TOES: try adding korean</li>
+<li>U+D209 HANGUL SYLLABLE TOENG: try adding korean</li>
+<li>U+D210 HANGUL SYLLABLE TYO: try adding korean</li>
+<li>U+D22C HANGUL SYLLABLE TU: try adding korean</li>
+<li>U+D22D HANGUL SYLLABLE TUG: try adding korean</li>
+<li>U+D230 HANGUL SYLLABLE TUN: try adding korean</li>
+<li>U+D234 HANGUL SYLLABLE TUL: try adding korean</li>
+<li>U+D23C HANGUL SYLLABLE TUM: try adding korean</li>
+<li>U+D23D HANGUL SYLLABLE TUB: try adding korean</li>
+<li>U+D23F HANGUL SYLLABLE TUS: try adding korean</li>
+<li>U+D241 HANGUL SYLLABLE TUNG: try adding korean</li>
+<li>U+D248 HANGUL SYLLABLE TWEO: try adding korean</li>
+<li>U+D25C HANGUL SYLLABLE TWEOSS: try adding korean</li>
+<li>U+D264 HANGUL SYLLABLE TWE: try adding korean</li>
+<li>U+D280 HANGUL SYLLABLE TWI: try adding korean</li>
+<li>U+D281 HANGUL SYLLABLE TWIG: try adding korean</li>
+<li>U+D284 HANGUL SYLLABLE TWIN: try adding korean</li>
+<li>U+D288 HANGUL SYLLABLE TWIL: try adding korean</li>
+<li>U+D290 HANGUL SYLLABLE TWIM: try adding korean</li>
+<li>U+D291 HANGUL SYLLABLE TWIB: try adding korean</li>
+<li>U+D295 HANGUL SYLLABLE TWING: try adding korean</li>
+<li>U+D29C HANGUL SYLLABLE TYU: try adding korean</li>
+<li>U+D2A0 HANGUL SYLLABLE TYUN: try adding korean</li>
+<li>U+D2A4 HANGUL SYLLABLE TYUL: try adding korean</li>
+<li>U+D2AC HANGUL SYLLABLE TYUM: try adding korean</li>
+<li>U+D2B1 HANGUL SYLLABLE TYUNG: try adding korean</li>
+<li>U+D2B8 HANGUL SYLLABLE TEU: try adding korean</li>
+<li>U+D2B9 HANGUL SYLLABLE TEUG: try adding korean</li>
+<li>U+D2BC HANGUL SYLLABLE TEUN: try adding korean</li>
+<li>U+D2BF HANGUL SYLLABLE TEUD: try adding korean</li>
+<li>U+D2C0 HANGUL SYLLABLE TEUL: try adding korean</li>
+<li>U+D2C2 HANGUL SYLLABLE TEULM: try adding korean</li>
+<li>U+D2C8 HANGUL SYLLABLE TEUM: try adding korean</li>
+<li>U+D2C9 HANGUL SYLLABLE TEUB: try adding korean</li>
+<li>U+D2CB HANGUL SYLLABLE TEUS: try adding korean</li>
+<li>U+D2D4 HANGUL SYLLABLE TYI: try adding korean</li>
+<li>U+D2D8 HANGUL SYLLABLE TYIN: try adding korean</li>
+<li>U+D2DC HANGUL SYLLABLE TYIL: try adding korean</li>
+<li>U+D2E4 HANGUL SYLLABLE TYIM: try adding korean</li>
+<li>U+D2E5 HANGUL SYLLABLE TYIB: try adding korean</li>
+<li>U+D2F0 HANGUL SYLLABLE TI: try adding korean</li>
+<li>U+D2F1 HANGUL SYLLABLE TIG: try adding korean</li>
+<li>U+D2F4 HANGUL SYLLABLE TIN: try adding korean</li>
+<li>U+D2F8 HANGUL SYLLABLE TIL: try adding korean</li>
+<li>U+D300 HANGUL SYLLABLE TIM: try adding korean</li>
+<li>U+D301 HANGUL SYLLABLE TIB: try adding korean</li>
+<li>U+D303 HANGUL SYLLABLE TIS: try adding korean</li>
+<li>U+D305 HANGUL SYLLABLE TING: try adding korean</li>
+<li>U+D30C HANGUL SYLLABLE PA: try adding korean</li>
+<li>U+D30D HANGUL SYLLABLE PAG: try adding korean</li>
+<li>U+D30E HANGUL SYLLABLE PAGG: try adding korean</li>
+<li>U+D310 HANGUL SYLLABLE PAN: try adding korean</li>
+<li>U+D314 HANGUL SYLLABLE PAL: try adding korean</li>
+<li>U+D316 HANGUL SYLLABLE PALM: try adding korean</li>
+<li>U+D31C HANGUL SYLLABLE PAM: try adding korean</li>
+<li>U+D31D HANGUL SYLLABLE PAB: try adding korean</li>
+<li>U+D31F HANGUL SYLLABLE PAS: try adding korean</li>
+<li>U+D320 HANGUL SYLLABLE PASS: try adding korean</li>
+<li>U+D321 HANGUL SYLLABLE PANG: try adding korean</li>
+<li>U+D325 HANGUL SYLLABLE PAT: try adding korean</li>
+<li>U+D328 HANGUL SYLLABLE PAE: try adding korean</li>
+<li>U+D329 HANGUL SYLLABLE PAEG: try adding korean</li>
+<li>U+D32C HANGUL SYLLABLE PAEN: try adding korean</li>
+<li>U+D330 HANGUL SYLLABLE PAEL: try adding korean</li>
+<li>U+D338 HANGUL SYLLABLE PAEM: try adding korean</li>
+<li>U+D339 HANGUL SYLLABLE PAEB: try adding korean</li>
+<li>U+D33B HANGUL SYLLABLE PAES: try adding korean</li>
+<li>U+D33C HANGUL SYLLABLE PAESS: try adding korean</li>
+<li>U+D33D HANGUL SYLLABLE PAENG: try adding korean</li>
+<li>U+D344 HANGUL SYLLABLE PYA: try adding korean</li>
+<li>U+D345 HANGUL SYLLABLE PYAG: try adding korean</li>
+<li>U+D37C HANGUL SYLLABLE PEO: try adding korean</li>
+<li>U+D37D HANGUL SYLLABLE PEOG: try adding korean</li>
+<li>U+D380 HANGUL SYLLABLE PEON: try adding korean</li>
+<li>U+D384 HANGUL SYLLABLE PEOL: try adding korean</li>
+<li>U+D38C HANGUL SYLLABLE PEOM: try adding korean</li>
+<li>U+D38D HANGUL SYLLABLE PEOB: try adding korean</li>
+<li>U+D38F HANGUL SYLLABLE PEOS: try adding korean</li>
+<li>U+D390 HANGUL SYLLABLE PEOSS: try adding korean</li>
+<li>U+D391 HANGUL SYLLABLE PEONG: try adding korean</li>
+<li>U+D398 HANGUL SYLLABLE PE: try adding korean</li>
+<li>U+D399 HANGUL SYLLABLE PEG: try adding korean</li>
+<li>U+D39C HANGUL SYLLABLE PEN: try adding korean</li>
+<li>U+D3A0 HANGUL SYLLABLE PEL: try adding korean</li>
+<li>U+D3A8 HANGUL SYLLABLE PEM: try adding korean</li>
+<li>U+D3A9 HANGUL SYLLABLE PEB: try adding korean</li>
+<li>U+D3AB HANGUL SYLLABLE PES: try adding korean</li>
+<li>U+D3AD HANGUL SYLLABLE PENG: try adding korean</li>
+<li>U+D3B4 HANGUL SYLLABLE PYEO: try adding korean</li>
+<li>U+D3B8 HANGUL SYLLABLE PYEON: try adding korean</li>
+<li>U+D3BC HANGUL SYLLABLE PYEOL: try adding korean</li>
+<li>U+D3C4 HANGUL SYLLABLE PYEOM: try adding korean</li>
+<li>U+D3C5 HANGUL SYLLABLE PYEOB: try adding korean</li>
+<li>U+D3C8 HANGUL SYLLABLE PYEOSS: try adding korean</li>
+<li>U+D3C9 HANGUL SYLLABLE PYEONG: try adding korean</li>
+<li>U+D3D0 HANGUL SYLLABLE PYE: try adding korean</li>
+<li>U+D3D8 HANGUL SYLLABLE PYEL: try adding korean</li>
+<li>U+D3E1 HANGUL SYLLABLE PYEB: try adding korean</li>
+<li>U+D3E3 HANGUL SYLLABLE PYES: try adding korean</li>
+<li>U+D3EC HANGUL SYLLABLE PO: try adding korean</li>
+<li>U+D3ED HANGUL SYLLABLE POG: try adding korean</li>
+<li>U+D3F0 HANGUL SYLLABLE PON: try adding korean</li>
+<li>U+D3F4 HANGUL SYLLABLE POL: try adding korean</li>
+<li>U+D3FC HANGUL SYLLABLE POM: try adding korean</li>
+<li>U+D3FD HANGUL SYLLABLE POB: try adding korean</li>
+<li>U+D3FF HANGUL SYLLABLE POS: try adding korean</li>
+<li>U+D401 HANGUL SYLLABLE PONG: try adding korean</li>
+<li>U+D408 HANGUL SYLLABLE PWA: try adding korean</li>
+<li>U+D41D HANGUL SYLLABLE PWANG: try adding korean</li>
+<li>U+D440 HANGUL SYLLABLE POE: try adding korean</li>
+<li>U+D444 HANGUL SYLLABLE POEN: try adding korean</li>
+<li>U+D45C HANGUL SYLLABLE PYO: try adding korean</li>
+<li>U+D460 HANGUL SYLLABLE PYON: try adding korean</li>
+<li>U+D464 HANGUL SYLLABLE PYOL: try adding korean</li>
+<li>U+D46D HANGUL SYLLABLE PYOB: try adding korean</li>
+<li>U+D46F HANGUL SYLLABLE PYOS: try adding korean</li>
+<li>U+D478 HANGUL SYLLABLE PU: try adding korean</li>
+<li>U+D479 HANGUL SYLLABLE PUG: try adding korean</li>
+<li>U+D47C HANGUL SYLLABLE PUN: try adding korean</li>
+<li>U+D47F HANGUL SYLLABLE PUD: try adding korean</li>
+<li>U+D480 HANGUL SYLLABLE PUL: try adding korean</li>
+<li>U+D482 HANGUL SYLLABLE PULM: try adding korean</li>
+<li>U+D488 HANGUL SYLLABLE PUM: try adding korean</li>
+<li>U+D489 HANGUL SYLLABLE PUB: try adding korean</li>
+<li>U+D48B HANGUL SYLLABLE PUS: try adding korean</li>
+<li>U+D48D HANGUL SYLLABLE PUNG: try adding korean</li>
+<li>U+D494 HANGUL SYLLABLE PWEO: try adding korean</li>
+<li>U+D4A9 HANGUL SYLLABLE PWEONG: try adding korean</li>
+<li>U+D4CC HANGUL SYLLABLE PWI: try adding korean</li>
+<li>U+D4D0 HANGUL SYLLABLE PWIN: try adding korean</li>
+<li>U+D4D4 HANGUL SYLLABLE PWIL: try adding korean</li>
+<li>U+D4DC HANGUL SYLLABLE PWIM: try adding korean</li>
+<li>U+D4DF HANGUL SYLLABLE PWIS: try adding korean</li>
+<li>U+D4E8 HANGUL SYLLABLE PYU: try adding korean</li>
+<li>U+D4EC HANGUL SYLLABLE PYUN: try adding korean</li>
+<li>U+D4F0 HANGUL SYLLABLE PYUL: try adding korean</li>
+<li>U+D4F8 HANGUL SYLLABLE PYUM: try adding korean</li>
+<li>U+D4FB HANGUL SYLLABLE PYUS: try adding korean</li>
+<li>U+D4FD HANGUL SYLLABLE PYUNG: try adding korean</li>
+<li>U+D504 HANGUL SYLLABLE PEU: try adding korean</li>
+<li>U+D508 HANGUL SYLLABLE PEUN: try adding korean</li>
+<li>U+D50C HANGUL SYLLABLE PEUL: try adding korean</li>
+<li>U+D514 HANGUL SYLLABLE PEUM: try adding korean</li>
+<li>U+D515 HANGUL SYLLABLE PEUB: try adding korean</li>
+<li>U+D517 HANGUL SYLLABLE PEUS: try adding korean</li>
+<li>U+D53C HANGUL SYLLABLE PI: try adding korean</li>
+<li>U+D53D HANGUL SYLLABLE PIG: try adding korean</li>
+<li>U+D540 HANGUL SYLLABLE PIN: try adding korean</li>
+<li>U+D544 HANGUL SYLLABLE PIL: try adding korean</li>
+<li>U+D54C HANGUL SYLLABLE PIM: try adding korean</li>
+<li>U+D54D HANGUL SYLLABLE PIB: try adding korean</li>
+<li>U+D54F HANGUL SYLLABLE PIS: try adding korean</li>
+<li>U+D551 HANGUL SYLLABLE PING: try adding korean</li>
+<li>U+D558 HANGUL SYLLABLE HA: try adding korean</li>
+<li>U+D559 HANGUL SYLLABLE HAG: try adding korean</li>
+<li>U+D55C HANGUL SYLLABLE HAN: try adding korean</li>
+<li>U+D560 HANGUL SYLLABLE HAL: try adding korean</li>
+<li>U+D565 HANGUL SYLLABLE HALT: try adding korean</li>
+<li>U+D568 HANGUL SYLLABLE HAM: try adding korean</li>
+<li>U+D569 HANGUL SYLLABLE HAB: try adding korean</li>
+<li>U+D56B HANGUL SYLLABLE HAS: try adding korean</li>
+<li>U+D56D HANGUL SYLLABLE HANG: try adding korean</li>
+<li>U+D574 HANGUL SYLLABLE HAE: try adding korean</li>
+<li>U+D575 HANGUL SYLLABLE HAEG: try adding korean</li>
+<li>U+D578 HANGUL SYLLABLE HAEN: try adding korean</li>
+<li>U+D57C HANGUL SYLLABLE HAEL: try adding korean</li>
+<li>U+D584 HANGUL SYLLABLE HAEM: try adding korean</li>
+<li>U+D585 HANGUL SYLLABLE HAEB: try adding korean</li>
+<li>U+D587 HANGUL SYLLABLE HAES: try adding korean</li>
+<li>U+D588 HANGUL SYLLABLE HAESS: try adding korean</li>
+<li>U+D589 HANGUL SYLLABLE HAENG: try adding korean</li>
+<li>U+D590 HANGUL SYLLABLE HYA: try adding korean</li>
+<li>U+D5A5 HANGUL SYLLABLE HYANG: try adding korean</li>
+<li>U+D5C8 HANGUL SYLLABLE HEO: try adding korean</li>
+<li>U+D5C9 HANGUL SYLLABLE HEOG: try adding korean</li>
+<li>U+D5CC HANGUL SYLLABLE HEON: try adding korean</li>
+<li>U+D5D0 HANGUL SYLLABLE HEOL: try adding korean</li>
+<li>U+D5D2 HANGUL SYLLABLE HEOLM: try adding korean</li>
+<li>U+D5D8 HANGUL SYLLABLE HEOM: try adding korean</li>
+<li>U+D5D9 HANGUL SYLLABLE HEOB: try adding korean</li>
+<li>U+D5DB HANGUL SYLLABLE HEOS: try adding korean</li>
+<li>U+D5DD HANGUL SYLLABLE HEONG: try adding korean</li>
+<li>U+D5E4 HANGUL SYLLABLE HE: try adding korean</li>
+<li>U+D5E5 HANGUL SYLLABLE HEG: try adding korean</li>
+<li>U+D5E8 HANGUL SYLLABLE HEN: try adding korean</li>
+<li>U+D5EC HANGUL SYLLABLE HEL: try adding korean</li>
+<li>U+D5F4 HANGUL SYLLABLE HEM: try adding korean</li>
+<li>U+D5F5 HANGUL SYLLABLE HEB: try adding korean</li>
+<li>U+D5F7 HANGUL SYLLABLE HES: try adding korean</li>
+<li>U+D5F9 HANGUL SYLLABLE HENG: try adding korean</li>
+<li>U+D600 HANGUL SYLLABLE HYEO: try adding korean</li>
+<li>U+D601 HANGUL SYLLABLE HYEOG: try adding korean</li>
+<li>U+D604 HANGUL SYLLABLE HYEON: try adding korean</li>
+<li>U+D608 HANGUL SYLLABLE HYEOL: try adding korean</li>
+<li>U+D610 HANGUL SYLLABLE HYEOM: try adding korean</li>
+<li>U+D611 HANGUL SYLLABLE HYEOB: try adding korean</li>
+<li>U+D613 HANGUL SYLLABLE HYEOS: try adding korean</li>
+<li>U+D614 HANGUL SYLLABLE HYEOSS: try adding korean</li>
+<li>U+D615 HANGUL SYLLABLE HYEONG: try adding korean</li>
+<li>U+D61C HANGUL SYLLABLE HYE: try adding korean</li>
+<li>U+D620 HANGUL SYLLABLE HYEN: try adding korean</li>
+<li>U+D624 HANGUL SYLLABLE HYEL: try adding korean</li>
+<li>U+D62D HANGUL SYLLABLE HYEB: try adding korean</li>
+<li>U+D638 HANGUL SYLLABLE HO: try adding korean</li>
+<li>U+D639 HANGUL SYLLABLE HOG: try adding korean</li>
+<li>U+D63C HANGUL SYLLABLE HON: try adding korean</li>
+<li>U+D640 HANGUL SYLLABLE HOL: try adding korean</li>
+<li>U+D645 HANGUL SYLLABLE HOLT: try adding korean</li>
+<li>U+D648 HANGUL SYLLABLE HOM: try adding korean</li>
+<li>U+D649 HANGUL SYLLABLE HOB: try adding korean</li>
+<li>U+D64B HANGUL SYLLABLE HOS: try adding korean</li>
+<li>U+D64D HANGUL SYLLABLE HONG: try adding korean</li>
+<li>U+D651 HANGUL SYLLABLE HOT: try adding korean</li>
+<li>U+D654 HANGUL SYLLABLE HWA: try adding korean</li>
+<li>U+D655 HANGUL SYLLABLE HWAG: try adding korean</li>
+<li>U+D658 HANGUL SYLLABLE HWAN: try adding korean</li>
+<li>U+D65C HANGUL SYLLABLE HWAL: try adding korean</li>
+<li>U+D667 HANGUL SYLLABLE HWAS: try adding korean</li>
+<li>U+D669 HANGUL SYLLABLE HWANG: try adding korean</li>
+<li>U+D670 HANGUL SYLLABLE HWAE: try adding korean</li>
+<li>U+D671 HANGUL SYLLABLE HWAEG: try adding korean</li>
+<li>U+D674 HANGUL SYLLABLE HWAEN: try adding korean</li>
+<li>U+D683 HANGUL SYLLABLE HWAES: try adding korean</li>
+<li>U+D685 HANGUL SYLLABLE HWAENG: try adding korean</li>
+<li>U+D68C HANGUL SYLLABLE HOE: try adding korean</li>
+<li>U+D68D HANGUL SYLLABLE HOEG: try adding korean</li>
+<li>U+D690 HANGUL SYLLABLE HOEN: try adding korean</li>
+<li>U+D694 HANGUL SYLLABLE HOEL: try adding korean</li>
+<li>U+D69D HANGUL SYLLABLE HOEB: try adding korean</li>
+<li>U+D69F HANGUL SYLLABLE HOES: try adding korean</li>
+<li>U+D6A1 HANGUL SYLLABLE HOENG: try adding korean</li>
+<li>U+D6A8 HANGUL SYLLABLE HYO: try adding korean</li>
+<li>U+D6AC HANGUL SYLLABLE HYON: try adding korean</li>
+<li>U+D6B0 HANGUL SYLLABLE HYOL: try adding korean</li>
+<li>U+D6B9 HANGUL SYLLABLE HYOB: try adding korean</li>
+<li>U+D6BB HANGUL SYLLABLE HYOS: try adding korean</li>
+<li>U+D6C4 HANGUL SYLLABLE HU: try adding korean</li>
+<li>U+D6C5 HANGUL SYLLABLE HUG: try adding korean</li>
+<li>U+D6C8 HANGUL SYLLABLE HUN: try adding korean</li>
+<li>U+D6CC HANGUL SYLLABLE HUL: try adding korean</li>
+<li>U+D6D1 HANGUL SYLLABLE HULT: try adding korean</li>
+<li>U+D6D4 HANGUL SYLLABLE HUM: try adding korean</li>
+<li>U+D6D7 HANGUL SYLLABLE HUS: try adding korean</li>
+<li>U+D6D9 HANGUL SYLLABLE HUNG: try adding korean</li>
+<li>U+D6E0 HANGUL SYLLABLE HWEO: try adding korean</li>
+<li>U+D6E4 HANGUL SYLLABLE HWEON: try adding korean</li>
+<li>U+D6E8 HANGUL SYLLABLE HWEOL: try adding korean</li>
+<li>U+D6F0 HANGUL SYLLABLE HWEOM: try adding korean</li>
+<li>U+D6F5 HANGUL SYLLABLE HWEONG: try adding korean</li>
+<li>U+D6FC HANGUL SYLLABLE HWE: try adding korean</li>
+<li>U+D6FD HANGUL SYLLABLE HWEG: try adding korean</li>
+<li>U+D700 HANGUL SYLLABLE HWEN: try adding korean</li>
+<li>U+D704 HANGUL SYLLABLE HWEL: try adding korean</li>
+<li>U+D711 HANGUL SYLLABLE HWENG: try adding korean</li>
+<li>U+D718 HANGUL SYLLABLE HWI: try adding korean</li>
+<li>U+D719 HANGUL SYLLABLE HWIG: try adding korean</li>
+<li>U+D71C HANGUL SYLLABLE HWIN: try adding korean</li>
+<li>U+D720 HANGUL SYLLABLE HWIL: try adding korean</li>
+<li>U+D728 HANGUL SYLLABLE HWIM: try adding korean</li>
+<li>U+D729 HANGUL SYLLABLE HWIB: try adding korean</li>
+<li>U+D72B HANGUL SYLLABLE HWIS: try adding korean</li>
+<li>U+D72D HANGUL SYLLABLE HWING: try adding korean</li>
+<li>U+D734 HANGUL SYLLABLE HYU: try adding korean</li>
+<li>U+D735 HANGUL SYLLABLE HYUG: try adding korean</li>
+<li>U+D738 HANGUL SYLLABLE HYUN: try adding korean</li>
+<li>U+D73C HANGUL SYLLABLE HYUL: try adding korean</li>
+<li>U+D744 HANGUL SYLLABLE HYUM: try adding korean</li>
+<li>U+D747 HANGUL SYLLABLE HYUS: try adding korean</li>
+<li>U+D749 HANGUL SYLLABLE HYUNG: try adding korean</li>
+<li>U+D750 HANGUL SYLLABLE HEU: try adding korean</li>
+<li>U+D751 HANGUL SYLLABLE HEUG: try adding korean</li>
+<li>U+D754 HANGUL SYLLABLE HEUN: try adding korean</li>
+<li>U+D756 HANGUL SYLLABLE HEUNH: try adding korean</li>
+<li>U+D757 HANGUL SYLLABLE HEUD: try adding korean</li>
+<li>U+D758 HANGUL SYLLABLE HEUL: try adding korean</li>
+<li>U+D759 HANGUL SYLLABLE HEULG: try adding korean</li>
+<li>U+D760 HANGUL SYLLABLE HEUM: try adding korean</li>
+<li>U+D761 HANGUL SYLLABLE HEUB: try adding korean</li>
+<li>U+D763 HANGUL SYLLABLE HEUS: try adding korean</li>
+<li>U+D765 HANGUL SYLLABLE HEUNG: try adding korean</li>
+<li>U+D769 HANGUL SYLLABLE HEUT: try adding korean</li>
+<li>U+D76C HANGUL SYLLABLE HYI: try adding korean</li>
+<li>U+D770 HANGUL SYLLABLE HYIN: try adding korean</li>
+<li>U+D774 HANGUL SYLLABLE HYIL: try adding korean</li>
+<li>U+D77C HANGUL SYLLABLE HYIM: try adding korean</li>
+<li>U+D77D HANGUL SYLLABLE HYIB: try adding korean</li>
+<li>U+D781 HANGUL SYLLABLE HYING: try adding korean</li>
+<li>U+D788 HANGUL SYLLABLE HI: try adding korean</li>
+<li>U+D789 HANGUL SYLLABLE HIG: try adding korean</li>
+<li>U+D78C HANGUL SYLLABLE HIN: try adding korean</li>
+<li>U+D790 HANGUL SYLLABLE HIL: try adding korean</li>
+<li>U+D798 HANGUL SYLLABLE HIM: try adding korean</li>
+<li>U+D799 HANGUL SYLLABLE HIB: try adding korean</li>
+<li>U+D79B HANGUL SYLLABLE HIS: try adding korean</li>
+<li>U+D79D HANGUL SYLLABLE HING: try adding korean</li>
 <li>U+F061 : not included in any glyphset definition</li>
 <li>U+F929 CJK COMPATIBILITY IDEOGRAPH-F929: not included in any glyphset definition</li>
 <li>U+F9DC CJK COMPATIBILITY IDEOGRAPH-F9DC: not included in any glyphset definition</li>
@@ -21304,6 +23638,8 @@ definitions.</p>
 
 * u9F95 (U+9F95): L&lt;&lt;248.0,695.0&gt;--&lt;750.0,695.0&gt;&gt;/L&lt;&lt;750.0,695.0&gt;--&lt;472.0,761.0&gt;&gt; = 13.355340962907436
 
+* uC68D (U+C68D): L&lt;&lt;302.0,441.0&gt;--&lt;308.0,441.0&gt;&gt;/B&lt;&lt;308.0,441.0&gt;-&lt;241.0,450.0&gt;-&lt;195.0,485.0&gt;&gt; = 7.650650955359405
+
 * uFA11 (U+FA11): L&lt;&lt;631.0,434.0&gt;--&lt;751.0,434.0&gt;&gt;/L&lt;&lt;751.0,434.0&gt;--&lt;735.0,435.0&gt;&gt; = 3.576334374997269
 
 * uFA28 (U+FA28): L&lt;&lt;694.0,334.0&gt;--&lt;646.0,332.0&gt;&gt;/L&lt;&lt;646.0,332.0&gt;--&lt;758.0,332.0&gt;&gt; = 2.3859440303887243
@@ -22677,6 +25013,74 @@ definitions.</p>
 * u9F21 (U+9F21): L&lt;&lt;212.0,575.0&gt;--&lt;787.0,576.0&gt;&gt;
 
 * u9F34 (U+9F34): L&lt;&lt;482.0,25.0&gt;--&lt;856.0,24.0&gt;&gt;
+
+* uBAA9 (U+BAA9): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBAAB (U+BAAB): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBAAC (U+BAAC): L&lt;&lt;201.0,456.0&gt;--&lt;203.0,777.0&gt;&gt;
+
+* uBAB0 (U+BAB0): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBAB2 (U+BAB2): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBAB8 (U+BAB8): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBAB9 (U+BAB9): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBABB (U+BABB): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBABD (U+BABD): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB1C (U+BB1C): L&lt;&lt;201.0,456.0&gt;--&lt;203.0,777.0&gt;&gt;
+
+* uBB20 (U+BB20): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB29 (U+BB29): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB2B (U+BB2B): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB35 (U+BB35): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB36 (U+BB36): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB38 (U+BB38): L&lt;&lt;201.0,456.0&gt;--&lt;203.0,777.0&gt;&gt;
+
+* uBB3B (U+BB3B): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB3C (U+BB3C): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB3D (U+BB3D): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB3E (U+BB3E): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB44 (U+BB44): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB45 (U+BB45): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB47 (U+BB47): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB49 (U+BB49): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB4D (U+BB4D): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBB4F (U+BB4F): L&lt;&lt;201.0,497.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBA8 (U+BBA8): L&lt;&lt;201.0,456.0&gt;--&lt;203.0,777.0&gt;&gt;
+
+* uBBAC (U+BBAC): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBB4 (U+BBB4): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBB7 (U+BBB7): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBC4 (U+BBC4): L&lt;&lt;201.0,456.0&gt;--&lt;203.0,777.0&gt;&gt;
+
+* uBBC8 (U+BBC8): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBD0 (U+BBD0): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
+
+* uBBD3 (U+BBD3): L&lt;&lt;201.0,487.0&gt;--&lt;203.0,782.0&gt;&gt;
 
 * uFA1D (U+FA1D): L&lt;&lt;164.0,754.0&gt;--&lt;166.0,420.0&gt;&gt;
 
