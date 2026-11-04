@@ -5,6 +5,13 @@ permissions:
 
 on:
   push:
+    branches:
+      - main
+    paths:
+      - 'sources/**'
+      - 'scripts/**'
+      - 'requirements*.txt'
+      - '.github/workflows/*.yml'
   release:
     types: [published]
   workflow_dispatch:
@@ -13,6 +20,10 @@ on:
         description: 'Set to true to run the commit-fonts job when manually dispatching'
         required: false
         default: 'false'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -72,7 +83,7 @@ jobs:
     name: Create and populate release
     needs: build
     runs-on: ubuntu-latest
-    if: contains(github.ref, 'refs/tags/')
+    if: ${{ github.event_name == 'release' }} 
     env:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
       GH_TOKEN: ${{ github.token }}
