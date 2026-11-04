@@ -5,6 +5,8 @@ permissions:
 
 on:
   push:
+  release:
+    types: [published]
   workflow_dispatch:
     inputs:
       run_commit_fonts:
