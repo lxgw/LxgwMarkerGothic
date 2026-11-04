@@ -11,7 +11,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 [![Google Fonts](https://shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=ffffff)](https://fonts.google.com/specimen/LXGW+Marker+Gothic)
 
 ## 简介
-本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途。
+本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的 CJK 字体，可用于漫画、广告等用途。
 
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwMarkerGothic/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
@@ -23,6 +23,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-2.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-3.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-4.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-k.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-5.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-6.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/documentation/images/markerg-7.png)  
@@ -38,7 +39,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 
 **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。
 
-### 繁体及其他部分
+### 繁体部分
 - [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字；
 - [x] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
 - [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
@@ -46,6 +47,9 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
 
 目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+
+### 其他文种
+- [x] KS X 1001 所收录的谚文音节，满足韩文/朝鲜文日常使用需求。
 
 ## 获取字体
 
@@ -85,7 +89,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 - **[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+- **Email：** calxgw2018@gmail.com lxgw1999@qq.com
 
 ## 鸣谢
 
