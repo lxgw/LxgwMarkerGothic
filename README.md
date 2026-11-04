@@ -79,6 +79,11 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 3. 使用场景（仅作建议）：
     - 推荐：平面海报、电商文案、视频标题及字幕、书报标题、游戏嵌入等；
     - 不推荐：正文排版、编程代码、手机系统界面字体等。
+  
+### 更多版本选择
+
+- 韩文版 [霞鹜漫黑 KR / LXGW Marker Gothic KR](https://github.com/lxgw/LxgwMarkerGothicKR) 已可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW 마커고딕 KR / LXGW Marker Gothic KR](https://github.com/lxgw/LxgwMarkerGothicKR).
+- 日文用户请直接选用**原始字体 [Tanugo](https://tanukifont.com/tanugo/)**。 / 日本語ユーザーの方は、**オリジナルフォント[「たぬゴ」](https://tanukifont.com/tanugo/)** をそのままご利用ください。
 
 ## 协助完善
 
