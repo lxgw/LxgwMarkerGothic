@@ -49,7 +49,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ### 其他文种
-- [x] KS X 1001 所收录的谚文音节，满足韩文/朝鲜文日常使用需求。
+- [x] KS X 1001 所收录的 2350 个 谚文音节，满足韩文/朝鲜文日常使用需求。
 
 ## 获取字体
 
@@ -79,7 +79,7 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 3. 使用场景（仅作建议）：
     - 推荐：平面海报、电商文案、视频标题及字幕、书报标题、游戏嵌入等；
     - 不推荐：正文排版、编程代码、手机系统界面字体等。
-  
+
 ### 更多版本选择
 
 - 韩文版 [霞鹜漫黑 KR / LXGW Marker Gothic KR](https://github.com/lxgw/LxgwMarkerGothicKR) 已可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW 마커고딕 KR / LXGW Marker Gothic KR](https://github.com/lxgw/LxgwMarkerGothicKR).
