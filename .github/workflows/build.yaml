@@ -10,6 +10,7 @@ on:
     paths:
       - 'sources/**'
       - 'scripts/**'
+      - 'Makefile'
       - 'requirements*.txt'
       - '.github/workflows/*.yml'
   release:
