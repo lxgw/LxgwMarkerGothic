@@ -13,6 +13,8 @@ An open-source Chinese font derived from Tanugo. 一款由 Tanugo 衍生的开�
 ## 简介
 本字体是基于 [たぬゴ角](https://tanukifont.com/tanugo/) 改造的具有马克笔书写风格的 CJK 字体，可用于漫画、广告等用途。
 
+本字体支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号位置的选择，点击此处查看[一览表](documentation/uvs.pdf)。此外可通过 `cpct` 特性切换到居中标点。
+
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwMarkerGothic/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
 
